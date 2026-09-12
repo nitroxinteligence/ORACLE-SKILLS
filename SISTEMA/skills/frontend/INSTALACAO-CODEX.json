@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "installed_at": "2026-09-08",
+  "repository": "https://github.com/Leonxlnx/taste-skill",
+  "commit": "ccbc15639c97057cbfcf32ecebc38ef716e4bb37",
+  "obsidian_copy": {
+    "path": "{SOURCE_HOME}/Documents/Obsidian Vault/OS/SISTEMA/skills/frontend",
+    "source_file_count_excluding_git": 64,
+    "tree_sha256_excluding_receipt": "58de1a9c06de3fb40b2d87d34c90dc7f9d24ad591dda0dfd63fcbbc4d0650c7a",
+    "matches_repository_excluding_git": true
+  },
+  "codex": {
+    "skills_root": "{SOURCE_HOME}/.codex/skills",
+    "installed_skill_count": 13,
+    "skills": [
+      {
+        "name": "brandkit",
+        "source_subdirectory": "skills/brandkit",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/brandkit",
+        "file_count": 1,
+        "tree_sha256": "8ef50d9beca3194b411f87fd1e327a165a164a3e25221d801f52b9d53e87292a",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "industrial-brutalist-ui",
+        "source_subdirectory": "skills/brutalist-skill",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/industrial-brutalist-ui",
+        "file_count": 1,
+        "tree_sha256": "8541e0bf7c661c4fbff09e895053fa70649c5b55b374e20fdc2f1232e24ab275",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "gpt-taste",
+        "source_subdirectory": "skills/gpt-tasteskill",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/gpt-taste",
+        "file_count": 1,
+        "tree_sha256": "e7c6cb842fd8f77f8b6d0f71b955e56216b931a172e3eb914c2b636371f3cca3",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "image-to-code",
+        "source_subdirectory": "skills/image-to-code-skill",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/image-to-code",
+        "file_count": 1,
+        "tree_sha256": "95923c7a27304d4e9e6c158f8be1e9cdab6f8bec5bdda19b6ad8484284a3fd2e",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "imagegen-frontend-mobile",
+        "source_subdirectory": "skills/imagegen-frontend-mobile",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/imagegen-frontend-mobile",
+        "file_count": 1,
+        "tree_sha256": "9099d09be81a031948afca1d2c3f5f96f301622db82ce8843bf2f61cd4d916cb",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "imagegen-frontend-web",
+        "source_subdirectory": "skills/imagegen-frontend-web",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/imagegen-frontend-web",
+        "file_count": 1,
+        "tree_sha256": "fb29de6dce32ef39425fd053ea55a15cd87f2334633d02a4ef5b11fc523375d3",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "minimalist-ui",
+        "source_subdirectory": "skills/minimalist-skill",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/minimalist-ui",
+        "file_count": 1,
+        "tree_sha256": "218c9bf73815fe3b42f47a45aa41f41b82c9309c5d698a358af88fcf2a3524c6",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "full-output-enforcement",
+        "source_subdirectory": "skills/output-skill",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/full-output-enforcement",
+        "file_count": 1,
+        "tree_sha256": "df58a5778136cae7bce9f5155e8f1da553df65ffbe0f9a0c509037f4cb2f510d",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "redesign-existing-projects",
+        "source_subdirectory": "skills/redesign-skill",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/redesign-existing-projects",
+        "file_count": 1,
+        "tree_sha256": "aef9b8c58a34276ce5bdfc2250e93ffadc03a15198d0cbce8d4d05e2b7eed598",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "high-end-visual-design",
+        "source_subdirectory": "skills/soft-skill",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/high-end-visual-design",
+        "file_count": 1,
+        "tree_sha256": "2710a88cda74342aea4b1e562d3fe25e2d066edcfcf8ced869ad70d5fd395809",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "stitch-design-taste",
+        "source_subdirectory": "skills/stitch-skill",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/stitch-design-taste",
+        "file_count": 2,
+        "tree_sha256": "46abc9328407e4b4434c046ca0099c85031e5921294800868bf54cc36337bc66",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "design-taste-frontend",
+        "source_subdirectory": "skills/taste-skill",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/design-taste-frontend",
+        "file_count": 1,
+        "tree_sha256": "f0b6c86d1118f7b71101a2b6fc56a9687e7bb025fc8b94dcf04b130feb175896",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      },
+      {
+        "name": "design-taste-frontend-v1",
+        "source_subdirectory": "skills/taste-skill-v1",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/design-taste-frontend-v1",
+        "file_count": 1,
+        "tree_sha256": "5d9b173d6a88d6fc4cb0b4fe7f144534e0f1bf8c35d13004fd3b0966fb28ed07",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      }
+    ]
+  },
+  "validation": {
+    "all_skill_sources_match_runtime": true,
+    "all_quick_validate_passed": true
+  },
+  "oracle_distribution_provenance": {
+    "record_type": "historical_source_record",
+    "source_home": "{SOURCE_HOME}",
+    "student_host_verified": false
+  }
+}

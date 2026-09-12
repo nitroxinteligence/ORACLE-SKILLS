@@ -1,0 +1,4 @@
+interface:
+  display_name: "GTM Atlas Lead Capture"
+  short_description: "Turn product experience into qualified demand"
+  default_prompt: "Use $gtm-atlas-lead-capture to design a product-led capture system for this offer."

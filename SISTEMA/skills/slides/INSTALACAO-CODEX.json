@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "installed_at": "2026-09-08",
+  "repository": "https://github.com/zarazhangrui/frontend-slides",
+  "commit": "9906a34d640d2111f724544cbc50f7f130569ae1",
+  "obsidian_copy": {
+    "path": "{SOURCE_HOME}/Documents/Obsidian Vault/OS/SISTEMA/skills/slides",
+    "source_file_count_excluding_git": 163,
+    "tree_sha256_excluding_receipt": "a72da115cdc5b90323a2f33014c72e46bd23da3340171ac9a60ccf6f56d676c1",
+    "matches_repository_excluding_git": true
+  },
+  "codex": {
+    "skills_root": "{SOURCE_HOME}/.codex/skills",
+    "installed_skill_count": 1,
+    "skills": [
+      {
+        "name": "frontend-slides",
+        "source_subdirectory": "plugins/frontend-slides/skills/frontend-slides",
+        "codex_path": "{SOURCE_HOME}/.codex/skills/frontend-slides",
+        "file_count": 79,
+        "tree_sha256": "ef1ace4d4d81091b272715af2120616a04fe3a82c5ab435c306bb025bb922d5f",
+        "source_matches_runtime": true,
+        "quick_validate": "passed"
+      }
+    ]
+  },
+  "validation": {
+    "quick_validate": "passed",
+    "source_matches_runtime": true,
+    "shell_syntax": {
+      "export-pdf.sh": "passed",
+      "deploy.sh": "passed"
+    },
+    "python_syntax_extract_pptx": "passed",
+    "html_to_pdf_smoke": {
+      "status": "passed",
+      "pages": 1,
+      "bytes": 28328
+    },
+    "pptx_to_json_smoke": {
+      "status": "passed",
+      "slides": 1,
+      "runner": "uv run --with python-pptx"
+    }
+  },
+  "dependencies": {
+    "node": "v22.22.3",
+    "npx": "available",
+    "playwright": "1.63.0",
+    "playwright_chromium": "installed and smoke-tested",
+    "vercel_cli": "available",
+    "python_pptx": "available through uv run --with python-pptx; not installed in Homebrew-managed system Python"
+  },
+  "oracle_distribution_provenance": {
+    "record_type": "historical_source_record",
+    "source_home": "{SOURCE_HOME}",
+    "student_host_verified": false
+  }
+}

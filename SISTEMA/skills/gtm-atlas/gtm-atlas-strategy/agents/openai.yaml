@@ -1,0 +1,4 @@
+interface:
+  display_name: "GTM Atlas Strategy"
+  short_description: "Design differentiated GTM bets and experiments"
+  default_prompt: "Use $gtm-atlas-strategy to design a focused GTM strategy for this company."

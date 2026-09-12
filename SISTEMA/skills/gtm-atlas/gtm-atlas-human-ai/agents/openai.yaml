@@ -1,0 +1,4 @@
+interface:
+  display_name: "GTM Atlas Human-AI Operations"
+  short_description: "Split GTM work between people and AI systems"
+  default_prompt: "Use $gtm-atlas-human-ai to redesign this GTM workflow around human judgment and AI execution."

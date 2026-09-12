@@ -1,0 +1,191 @@
+{
+  "version": "1.0",
+  "captured_at": "2026-09-05T09:02:22-03:00",
+  "sources": [
+    {
+      "id": "RV01",
+      "url": "https://roryvaden.com/blog/personal-branding/building-trust-through-a-personal-brand/",
+      "note": "20-fontes/especialistas/rory-vaden/rv01-building-trust-through-a-personal-brand.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/building-trust-through-a-personal-brand.txt",
+      "capture_sha256": "7c208961e37198956098e99f4a2e1e34baf36886ad8cbb7fcfd2add78a7457d2",
+      "body_sha256": "7f812c0b21e243e78dc469e4ad6530c7085ab08ae723f29c65a716bf30222643",
+      "coverage": "artigo público"
+    },
+    {
+      "id": "RV02",
+      "url": "https://roryvaden.com/blog/personal-branding/how-to-find-your-personal-brands-uniqueness-without-trying-to-be-everything-201/",
+      "note": "20-fontes/especialistas/rory-vaden/rv02-how-to-find-your-personal-brands-uniqueness-without-trying-to-be-everything-201.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/how-to-find-your-personal-brands-uniqueness-without-trying-to-be-everything-201.txt",
+      "capture_sha256": "377c483c2bcf09101ba0de1af29853cadf140d6a52f98aa6d5782c10e870b85a",
+      "body_sha256": "bcbc0852c73386f5f6d196dfbd85e2a2227ea324bd578ac6c7cf8b64d407fc09",
+      "coverage": "artigo público"
+    },
+    {
+      "id": "RV03",
+      "url": "https://roryvaden.com/blog/personal-branding/how-to-find-your-ideal-audience/",
+      "note": "20-fontes/especialistas/rory-vaden/rv03-how-to-find-your-ideal-audience.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/how-to-find-your-ideal-audience.txt",
+      "capture_sha256": "177ac5186d545804baa129a4cfe4697a68b370bb18fe81d270efb72c00193740",
+      "body_sha256": "c8f5b447852cda63ec4142a5b9c4de45fc5229e93534b77490c9329daeb5d8e5",
+      "coverage": "artigo público"
+    },
+    {
+      "id": "RV04",
+      "url": "https://roryvaden.com/blog/personal-branding/how-do-i-uniquely-position-my-brand-in-the-market/",
+      "note": "20-fontes/especialistas/rory-vaden/rv04-how-do-i-uniquely-position-my-brand-in-the-market.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/how-do-i-uniquely-position-my-brand-in-the-market.txt",
+      "capture_sha256": "a0c2c8b3edfc4a506b0c2039562ecd075fa51bd1d10834302c77943175c5c94f",
+      "body_sha256": "9c19ca39ad8c8ba392df8b1d53593c57d712e193a742bcfcb642236aebda32bc",
+      "coverage": "artigo público"
+    },
+    {
+      "id": "RV05",
+      "url": "https://roryvaden.com/blog/personal-branding/the-digital-marketing-strategy-that-builds-your-brand-rory-vadens-playbook/",
+      "note": "20-fontes/especialistas/rory-vaden/rv05-the-digital-marketing-strategy-that-builds-your-brand-rory-vadens-playbook.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/the-digital-marketing-strategy-that-builds-your-brand-rory-vadens-playbook.txt",
+      "capture_sha256": "7a0aba638db8efd484983cc2f6228787fd95696bd7a97a60ddce53dfa5461ba7",
+      "body_sha256": "d92ad4adae024a718cb842a69846dac8e8e53c79917f8be46c330f8763b49d44",
+      "coverage": "artigo público"
+    },
+    {
+      "id": "RV06",
+      "url": "https://roryvaden.com/blog/personal-branding/how-to-gain-a-following-and-grow-your-audience/",
+      "note": "20-fontes/especialistas/rory-vaden/rv06-how-to-gain-a-following-and-grow-your-audience.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/how-to-gain-a-following-and-grow-your-audience.txt",
+      "capture_sha256": "dc86c20c69b425689dd8b3853fcccdf971c693c51d3a3bbdbc2f5f7575b90cfa",
+      "body_sha256": "90ab748ddb02e67a808397515d97e4acc6099042ff135e124be5590b1b9bed54",
+      "coverage": "artigo público"
+    },
+    {
+      "id": "RV07",
+      "url": "https://roryvaden.com/blog/personal-branding/73-4-non-cringy-tips-to-grow-your-personal-brand/",
+      "note": "20-fontes/especialistas/rory-vaden/rv07-73-4-non-cringy-tips-to-grow-your-personal-brand.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/73-4-non-cringy-tips-to-grow-your-personal-brand.txt",
+      "capture_sha256": "b3b8773de8abb438747cdb4e36796d5f81339f85ccf1b785fe9e31fa6c383ebe",
+      "body_sha256": "ffed3c6237630a606921ddc66e21be2559dd85b7a4bd754efd59f181e26b4455",
+      "coverage": "artigo público"
+    },
+    {
+      "id": "RV08",
+      "url": "https://roryvaden.com/blog/personal-branding/4-ways-the-personal-branding-playbook-changed-in-2025-160/",
+      "note": "20-fontes/especialistas/rory-vaden/rv08-4-ways-the-personal-branding-playbook-changed-in-2025-160.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/4-ways-the-personal-branding-playbook-changed-in-2025-160.txt",
+      "capture_sha256": "4c69e064934948c643c59ffcde215528a697a3c17fad83aa5a36b2508472ea7d",
+      "body_sha256": "83db5fc5404c420b378b8824b38f16830a8886d2e74e0419108ee48a04b68a45",
+      "coverage": "artigo público"
+    },
+    {
+      "id": "RV09",
+      "url": "https://roryvaden.com/blog/personal-branding/3-things-to-keep-in-mind-while-building-your-personal-brand/",
+      "note": "20-fontes/especialistas/rory-vaden/rv09-3-things-to-keep-in-mind-while-building-your-personal-brand.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/3-things-to-keep-in-mind-while-building-your-personal-brand.txt",
+      "capture_sha256": "781d8456d01c82e9904239884d772498ba26329ef4117c1f71e3f5f9361d64a5",
+      "body_sha256": "a8a0f2f9e32f36146d24ae75a4fa60b03b80b22d9a26334721ed7abc75cde0e0",
+      "coverage": "artigo público"
+    },
+    {
+      "id": "RV10",
+      "url": "https://brandbuildersgroup.com/podcast/wwk-ep-040-niching-down-why-being-for-everyone-means-being-for-no-one/",
+      "note": "20-fontes/especialistas/rory-vaden/rv10-wwk-ep-040-niching-down-why-being-for-everyone-means-being-for-no-one.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/wwk-ep-040-niching-down-why-being-for-everyone-means-being-for-no-one.txt",
+      "capture_sha256": "6c22b5c80b17e1687f6310554e584348cd1fe72ceb39147b8f015cfb3c64becd",
+      "body_sha256": "2e9f939adaedfb5d9a320d508dcf11addc4ed05df1c81a66f54575b927adb9e1",
+      "coverage": "notas editoriais; transcrição ausente"
+    },
+    {
+      "id": "RV11",
+      "url": "https://brandbuildersgroup.com/podcast/wwk-ep-038-reputation-precedes-revenue-how-relationships-create-sales-that-last/",
+      "note": "20-fontes/especialistas/rory-vaden/rv11-wwk-ep-038-reputation-precedes-revenue-how-relationships-create-sales-that-last.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/wwk-ep-038-reputation-precedes-revenue-how-relationships-create-sales-that-last.txt",
+      "capture_sha256": "7b7d2c70152d7d840391ebb2d272993d1bba47bad2ee7e54b0895690c0b452f0",
+      "body_sha256": "3c374ee0ad5d6e7810092fb56de5fa7aa99d00ca2901232bff10763e3e433a90",
+      "coverage": "página com transcrição"
+    },
+    {
+      "id": "RV12",
+      "url": "https://brandbuildersgroup.com/podcast/wwk-ep-037-become-the-chief-storytelling-officer-of-your-brand/",
+      "note": "20-fontes/especialistas/rory-vaden/rv12-wwk-ep-037-become-the-chief-storytelling-officer-of-your-brand.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/wwk-ep-037-become-the-chief-storytelling-officer-of-your-brand.txt",
+      "capture_sha256": "14538e9f0864e15bb960bdb796c5924c0d7d9ad34afe6601c0e7800c7a2772e9",
+      "body_sha256": "fccafa1b4903a5fd060e89fa078c18cb1c17eb9986e4e18df2b45bf737e85a2e",
+      "coverage": "página com transcrição"
+    },
+    {
+      "id": "RV13",
+      "url": "https://brandbuildersgroup.com/podcast/wwk-ep-036-content-strategy-vs-content-calendar-why-posting-more-isnt-working/",
+      "note": "20-fontes/especialistas/rory-vaden/rv13-wwk-ep-036-content-strategy-vs-content-calendar-why-posting-more-isnt-working.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/wwk-ep-036-content-strategy-vs-content-calendar-why-posting-more-isnt-working.txt",
+      "capture_sha256": "f10353d23c231c0ad402037000074b467d9ce1826a937dc75c19890f6d37a80d",
+      "body_sha256": "6ca79f49e1c8351edb1999d191cd17892226f50cfebe3b51b3c37b01f05abbd0",
+      "coverage": "página com transcrição"
+    },
+    {
+      "id": "RV14",
+      "url": "https://brandbuildersgroup.com/podcast/wwk-ep-027-small-audience-big-money-how-to-monetize-without-millions-of-followers/",
+      "note": "20-fontes/especialistas/rory-vaden/rv14-wwk-ep-027-small-audience-big-money-how-to-monetize-without-millions-of-followers.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/wwk-ep-027-small-audience-big-money-how-to-monetize-without-millions-of-followers.txt",
+      "capture_sha256": "cf11a185dbbc91166eab78e972405c947793bef4a53f594cd1192ad0316765cb",
+      "body_sha256": "28977ca5e00e0bcf03bed4e68ce26a8ee50e317ee2af574d75d0646230cce74b",
+      "coverage": "página com transcrição"
+    },
+    {
+      "id": "RV15",
+      "url": "https://brandbuildersgroup.com/podcast/wwk-ep-026-100000-followers-or-1000-emails-the-truth-about-what-actually-grows-your-business/",
+      "note": "20-fontes/especialistas/rory-vaden/rv15-wwk-ep-026-100000-followers-or-1000-emails-the-truth-about-what-actually-grows-your-business.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/wwk-ep-026-100000-followers-or-1000-emails-the-truth-about-what-actually-grows-your-business.txt",
+      "capture_sha256": "e76bedfd3105f5bf6f38824940bcecbed893c25757785ebb7d9fa2e2fd2b70b0",
+      "body_sha256": "c532710a5b808bff952535d2711998dab210d08250b22e4dbc52a41efbcb8d65",
+      "coverage": "notas editoriais; transcrição ausente"
+    },
+    {
+      "id": "RV16",
+      "url": "https://brandbuildersgroup.com/podcast/ep-601-from-obscurity-to-influence-rory-vaden-on-the-path-to-becoming-wealthy-and-well-known/",
+      "note": "20-fontes/especialistas/rory-vaden/rv16-ep-601-from-obscurity-to-influence-rory-vaden-on-the-path-to-becoming-wealthy-and-well-known.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/ep-601-from-obscurity-to-influence-rory-vaden-on-the-path-to-becoming-wealthy-and-well-known.txt",
+      "capture_sha256": "c9d172033f3da0939bb70a5b6a26c973aa8befd0f6ab78f78cca871fb1dc1c7a",
+      "body_sha256": "0e2b7d2f084050b457b43ce12a00313eaa567ebe7346326d22ded117285ec9f5",
+      "coverage": "página com transcrição"
+    },
+    {
+      "id": "RV17",
+      "url": "https://the1thing.com/podcast-episode/512-stuck-building-your-personal-brand-heres-how-to-break-through-with-rory-vaden/",
+      "note": "20-fontes/especialistas/rory-vaden/rv17-512-stuck-building-your-personal-brand-heres-how-to-break-through-with-rory-vaden.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/512-stuck-building-your-personal-brand-heres-how-to-break-through-with-rory-vaden.txt",
+      "capture_sha256": "f20963df88a5af79c85a433ef2185e15fc4e617d603a1e10ea2892847ea61f9e",
+      "body_sha256": "91d7333ccf4f84d07b36fda0c650b9588f1717ff7f69f4f9b24cf8e330819857",
+      "coverage": "página com transcrição"
+    },
+    {
+      "id": "RV18",
+      "url": "https://brandbuildersgroup.com/podcast-recap/ep-503-3-ways-to-make-one-million-dollars-with-a-personal-brand/",
+      "note": "20-fontes/especialistas/rory-vaden/rv18-ep-503-3-ways-to-make-one-million-dollars-with-a-personal-brand.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/ep-503-3-ways-to-make-one-million-dollars-with-a-personal-brand.txt",
+      "capture_sha256": "44f927117ebeb26a2c837ad21cbc70d1650b58cbb956b39bcf21a3d27a8f43fa",
+      "body_sha256": "079d30c4bc3402b872f56915c01f8f1ee1b86f0f72e1dd66ce32e00ecb815a60",
+      "coverage": "página com transcrição"
+    },
+    {
+      "id": "RV19",
+      "url": "https://www.smartpassiveincome.com/podcasts/spi-884-personal-branding-with-rory-vaden/",
+      "note": "20-fontes/especialistas/rory-vaden/rv19-spi-884-personal-branding-with-rory-vaden.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/spi-884-personal-branding-with-rory-vaden.txt",
+      "capture_sha256": "74e6837907ab38d1eac97c8e146d7c094a44b87282db7e4039acc782da17e39b",
+      "body_sha256": "64dcaf4f93dfe0fa55f510c67e3015ffe7fe079228e92cf9f77a312d3c195ad6",
+      "coverage": "página com transcrição"
+    },
+    {
+      "id": "RV20",
+      "url": "https://www.youtube.com/watch?v=Iyedn8wjyH8",
+      "note": "20-fontes/especialistas/rory-vaden/rv20-iyedn8wjyh8.md",
+      "capture_path": "{SOURCE_HOME}/Documents/Codex/2026-09-05/mape/work/personal-branding-v2/youtube/Iyedn8wjyH8.normalized.txt",
+      "capture_sha256": "608dfe7e5fa740b8afbf62f06fafc427506ec2bfa0fe3d2479744fd6de6cd6a9",
+      "body_sha256": "1d9630fecf819badac477d073d7d9fe557ea64d280db3fe1a54c6c130e5ae8e8",
+      "coverage": "legendas automáticas normalizadas"
+    }
+  ],
+  "oracle_distribution_provenance": {
+    "record_type": "historical_source_record",
+    "source_home": "{SOURCE_HOME}",
+    "student_host_verified": false
+  }
+}

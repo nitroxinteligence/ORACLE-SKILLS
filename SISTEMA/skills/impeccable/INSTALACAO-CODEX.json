@@ -1,0 +1,131 @@
+{
+  "receipt_version": 1,
+  "skill": "impeccable",
+  "installed_at": "2026-09-10",
+  "source": {
+    "kind": "local_skill_bundle",
+    "path": "{SOURCE_HOME}/.agents/skills/impeccable",
+    "git_commit": null,
+    "git_note": "source directory is not a git worktree",
+    "file_count": 89,
+    "bytes": 1897375,
+    "tree_sha256": "d3a28da5bdd595cb047a70b8ef3b268e40d6782113468c060837b095be8ab471"
+  },
+  "destinations": {
+    "codex_runtime": {
+      "path": "{SOURCE_HOME}/.codex/skills/impeccable",
+      "file_count": 89,
+      "tree_sha256": "d3a28da5bdd595cb047a70b8ef3b268e40d6782113468c060837b095be8ab471",
+      "source_diff": "clean"
+    },
+    "obsidian_os": {
+      "path": "{SOURCE_HOME}/Documents/Obsidian Vault/OS/SISTEMA/skills/impeccable",
+      "file_count_excluding_receipt": 89,
+      "tree_sha256_excluding_receipt": "d3a28da5bdd595cb047a70b8ef3b268e40d6782113468c060837b095be8ab471",
+      "source_diff_excluding_receipt": "clean",
+      "receipt": "INSTALACAO-CODEX.json"
+    }
+  },
+  "activation": {
+    "codex_skill_name": "impeccable",
+    "frontmatter_verified": true,
+    "runtime_mapping": "~/.codex/skills/impeccable/SKILL.md",
+    "source_mapping": ".agents/skills/impeccable/SKILL.md"
+  },
+  "official_docs_review": {
+    "base_url": "https://impeccable.style/docs/",
+    "pages_reviewed": [
+      "getting-started",
+      "image-generation",
+      "new-work",
+      "improve-design",
+      "critique-with-overlay",
+      "design-system",
+      "iterate-live",
+      "hooks",
+      "detector",
+      "doctor",
+      "context",
+      "config",
+      "impeccable",
+      "shape",
+      "audit",
+      "critique",
+      "animate",
+      "bolder",
+      "colorize",
+      "delight",
+      "layout",
+      "overdrive",
+      "quieter",
+      "typeset",
+      "adapt",
+      "clarify",
+      "distill",
+      "harden",
+      "onboard",
+      "optimize",
+      "polish",
+      "document",
+      "extract",
+      "init",
+      "live"
+    ],
+    "review_scope": "page-by-page and section-by-section review of setup, command flows, design-system guidance, detector/doctor/context/config, hooks, and live iteration"
+  },
+  "local_reference_review": {
+    "directory": "reference",
+    "file_count": 27,
+    "all_sections_processed": true,
+    "files": [
+      "adapt.md",
+      "animate.md",
+      "audit.md",
+      "bolder.md",
+      "brand.md",
+      "clarify.md",
+      "codex.md",
+      "colorize.md",
+      "craft.md",
+      "critique.md",
+      "delight.md",
+      "distill.md",
+      "document.md",
+      "extract.md",
+      "harden.md",
+      "init.md",
+      "interaction-design.md",
+      "layout.md",
+      "live.md",
+      "onboard.md",
+      "optimize.md",
+      "overdrive.md",
+      "polish.md",
+      "product.md",
+      "quieter.md",
+      "shape.md",
+      "typeset.md"
+    ]
+  },
+  "validation": {
+    "skill_creator_quick_validate_source": "passed",
+    "skill_creator_quick_validate_codex": "passed",
+    "javascript_syntax": "passed",
+    "python_syntax": "passed_or_no_python_scripts",
+    "shell_syntax": "passed_or_no_shell_scripts",
+    "toml_parse": "passed",
+    "yaml_parse": "passed",
+    "command_metadata_json": "passed",
+    "copy_verification": "source and both destinations match byte-for-byte excluding receipt"
+  },
+  "readiness": {
+    "skill_files_installed": true,
+    "codex_activation_ready": true,
+    "project_context_or_credentials": "not part of skill installation"
+  },
+  "oracle_distribution_provenance": {
+    "record_type": "historical_source_record",
+    "source_home": "{SOURCE_HOME}",
+    "student_host_verified": false
+  }
+}

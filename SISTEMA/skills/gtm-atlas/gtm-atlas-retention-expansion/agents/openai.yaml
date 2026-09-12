@@ -1,0 +1,4 @@
+interface:
+  display_name: "GTM Atlas Retention and Expansion"
+  short_description: "Build customer value, renewal, and expansion loops"
+  default_prompt: "Use $gtm-atlas-retention-expansion to design a retention and expansion operating system."
