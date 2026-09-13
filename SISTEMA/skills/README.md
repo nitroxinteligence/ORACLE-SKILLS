@@ -20,21 +20,20 @@ review_after: null
 
 | Coleção | Skills instaladas | Arquivos de origem verificados | Pasta no OS |
 |---|---:|---:|---|
-| Cybersecurity | 818 | 4532 | [[SISTEMA/skills/cyber-security/README|cyber-security]] |
 | Marketing Skills | 50 | 466 | [[SISTEMA/skills/marketing/README|marketing]] |
 | Claude Ads | 34 | 339 | [[SISTEMA/skills/ads/README|ads]] |
 | Gentle-AI | 37 | 2201 | [[SISTEMA/skills/code/README|code]] |
 | First Customer Finder | 1 | 10 | [[SISTEMA/skills/customer-finder/README|customer-finder]] |
 
-- [[SISTEMA/skills/catalogo|Catálogo completo: todas as 940 skills instaladas e referências anteriores]]
+- [[SISTEMA/skills/catalogo|Catálogo completo: todas as 122 skills instaladas e referências anteriores]]
 - [[SISTEMA/skills/personal-branding/README|Personal branding: biblioteca existente]]
 - Especialistas (recurso externo: WIKI/especialistas/README; não incluído nesta distribuição)
 
 ## Como usar
 
-No Codex, solicite a skill pelo nome registrado no catálogo. As novas skills ficam disponíveis no próximo turno. Cada skill inclui os arquivos auxiliares fornecidos pela origem. Os cinco repositórios completos também estão em `{SOURCE_HOME}/.codex/skill-sources/`.
+No Codex, solicite a skill pelo nome registrado no catálogo. As novas skills ficam disponíveis no próximo turno. Cada skill inclui os arquivos auxiliares fornecidos pela origem. Os quatro repositórios completos também estão em `{SOURCE_HOME}/.codex/skill-sources/`.
 
-No OS, cada pasta de coleção mantém todos os arquivos versionados do repositório, incluindo scripts, referências, documentação e licença. `INSTALACAO-CODEX.json` registra o commit instalado, os nomes no Codex e hashes SHA-256. Os 7.548 arquivos de origem foram comparados nos dois destinos.
+No OS, cada pasta de coleção mantém todos os arquivos versionados do repositório, incluindo scripts, referências, documentação e licença. `INSTALACAO-CODEX.json` registra o commit instalado, os nomes no Codex e hashes SHA-256. Os 3.016 arquivos de origem foram comparados nos dois destinos.
 
 ## Nomes e dependências
 

@@ -2,7 +2,7 @@
 
 Skills, prompts, tutoriais e recursos auxiliares para o Oracle.
 
-A distribuição `acervo-2026.09.12` contém 1.017 skills, 17 prompts e 24 tutoriais. O snapshot do acervo tem 8.667 arquivos: 8.657 arquivos de origem e dez arquivos de licenças, avisos e preservação de templates. O snapshot GBrain fixado contém outros 4.834 arquivos e é entregue nos assets da release, fora do vault.
+A distribuição `acervo-2026.09.13` contém 199 skills, 17 prompts e 24 tutoriais. O snapshot do acervo tem 4.134 arquivos. O snapshot GBrain fixado contém outros 4.834 arquivos e é entregue nos assets da release, fora do vault.
 
 Baixe a distribuição completa em [Releases](https://github.com/nitroxinteligence/ORACLE-SKILLS/releases). O Oracle verifica o manifesto Ed25519 e todos os hashes antes da instalação. Alterações na branch principal só chegam ao aplicativo quando fazem parte de uma release completa.
 
