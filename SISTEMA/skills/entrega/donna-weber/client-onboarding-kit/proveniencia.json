@@ -1,0 +1,17 @@
+{
+  "id": "ENT-ONB-02",
+  "origem": {
+    "id": "ENT-ONB-02",
+    "repo": "mohitagw15856/pm-claude-skills",
+    "commit": "f67821d42c8c6db20752030e12ded030a623bee3",
+    "path": "skills/client-onboarding-kit/SKILL.md",
+    "git_blob": "0e05f419171f90ee6d4296a4253ce181a4ce91c8",
+    "sha256": "cb119da2af23de9be4c90462a85ccfc7cf4b0e7eca0408598d15193dca61aeb6",
+    "bytes": 4547
+  },
+  "adaptacao": "Moderada: conectar contrato, resultado desejado, owners, LGPD e critérios de saída.",
+  "dependencias": [
+    "SKILL.md standalone no commit auditado"
+  ],
+  "recursos_executados": false
+}

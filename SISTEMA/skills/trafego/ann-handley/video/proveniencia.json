@@ -1,0 +1,19 @@
+{
+  "id": "TRF-CON-03",
+  "origem": {
+    "id": "TRF-CON-03",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/video/SKILL.md",
+    "git_blob": "6c8e9fdeb640594d3bf36690174f1726a721c4e3",
+    "sha256": "3b6d4864bae49dd3d60e7f6218e0de0803633989d68bdcf093a3771307387ac2",
+    "bytes": 14392
+  },
+  "adaptacao": "Leve: separar roteiro, geração de assets e publicação em gates.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/ai-video-prompting.md",
+    "references/edit-anatomy.md"
+  ],
+  "recursos_executados": false
+}

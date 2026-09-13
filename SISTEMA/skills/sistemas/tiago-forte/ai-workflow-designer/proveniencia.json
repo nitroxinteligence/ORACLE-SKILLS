@@ -1,0 +1,17 @@
+{
+  "id": "SIS-TEC-01",
+  "origem": {
+    "id": "SIS-TEC-01",
+    "repo": "mohitagw15856/pm-claude-skills",
+    "commit": "f67821d42c8c6db20752030e12ded030a623bee3",
+    "path": "skills/ai-workflow-designer/SKILL.md",
+    "git_blob": "d437e94696d72fa0de6f30fbbf68e5d828b77523",
+    "sha256": "86f73d8ae791b4c0cb426a292499afcdde7bf923c3423cf4b1c3f43085b4382a",
+    "bytes": 4981
+  },
+  "adaptacao": "Moderada: threat model, logs, custo, fallback e gate de mutação.",
+  "dependencias": [
+    "SKILL.md standalone no commit auditado"
+  ],
+  "recursos_executados": false
+}

@@ -1,4 +1,0 @@
-interface:
-  display_name: "GTM Atlas Hiring"
-  short_description: "Hire GTM talent for slope and current capability"
-  default_prompt: "Use $gtm-atlas-hiring to define this GTM role, rubric, and work trial."

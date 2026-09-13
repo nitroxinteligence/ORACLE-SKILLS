@@ -1,0 +1,17 @@
+{
+  "id": "VEN-FEC-01",
+  "origem": {
+    "id": "VEN-FEC-01",
+    "repo": "TheCraigHewitt/skills",
+    "commit": "fdbf39b61fbc8cb7cea67949bfb5e8fc567bbc51",
+    "path": "sales/call-debrief/SKILL.md",
+    "git_blob": "674439a658616cb483cd5fb8f87591ed7b147470",
+    "sha256": "1e8a3e67a9173c7e94347f864cee5b634603e81ccb266f925832c3d947cfd4be",
+    "bytes": 28505
+  },
+  "adaptacao": "Moderada: separar fato, citação, inferência e ação aprovada.",
+  "dependencias": [
+    ".agents/sales-context.md no original"
+  ],
+  "recursos_executados": false
+}

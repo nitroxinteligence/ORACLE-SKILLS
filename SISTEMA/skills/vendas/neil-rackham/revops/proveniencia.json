@@ -1,0 +1,21 @@
+{
+  "id": "VEN-FEC-03",
+  "origem": {
+    "id": "VEN-FEC-03",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/revops/SKILL.md",
+    "git_blob": "fba4dc188fa79cc094ba8f3dd878c0791331d1a0",
+    "sha256": "bb27b16ad41c5c2d4fea14c12359c6a01fc755f2bb91140f0c2c43b05b3adb10",
+    "bytes": 15341
+  },
+  "adaptacao": "Moderada: dicionário único de estágios, SLA e owner; implantação separada.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/automation-playbooks.md",
+    "references/lifecycle-definitions.md",
+    "references/routing-rules.md",
+    "references/scoring-models.md"
+  ],
+  "recursos_executados": false
+}

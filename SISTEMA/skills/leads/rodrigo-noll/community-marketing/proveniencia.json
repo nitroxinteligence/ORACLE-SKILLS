@@ -1,0 +1,18 @@
+{
+  "id": "LEA-REL-03",
+  "origem": {
+    "id": "LEA-REL-03",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/community-marketing/SKILL.md",
+    "git_blob": "441463df2bd0cd0bc5349f3151e95bc7afad0f04",
+    "sha256": "e4c4a21e82a04e8ef6e2845fa34ebaf5512ba59ae1c9c74d8caa9f045628f4da",
+    "bytes": 9826
+  },
+  "adaptacao": "Leve: objetivos comportamentais, moderacão e cadência sustentável.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/community-models.md"
+  ],
+  "recursos_executados": false
+}

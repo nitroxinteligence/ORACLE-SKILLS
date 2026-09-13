@@ -1,0 +1,21 @@
+{
+  "id": "VEN-NEG-01",
+  "origem": {
+    "id": "VEN-NEG-01",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/sales-enablement/SKILL.md",
+    "git_blob": "19dab426e515b24cf2b540c7feefd5114f66093f",
+    "sha256": "d83c3244dd8e2e64d585f1ff0d760eff181587f06b90ceaf8127a4ce618265dd",
+    "bytes": 14721
+  },
+  "adaptacao": "Leve: fonte/data para claims e ownership de atualização.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/deck-frameworks.md",
+    "references/demo-scripts.md",
+    "references/objection-library.md",
+    "references/one-pager-templates.md"
+  ],
+  "recursos_executados": false
+}

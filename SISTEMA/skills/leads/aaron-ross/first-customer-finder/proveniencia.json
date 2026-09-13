@@ -1,0 +1,21 @@
+{
+  "id": "LEA-CAP-02",
+  "origem": {
+    "id": "LEA-CAP-02",
+    "repo": "Kappaemme-git/codex-first-customer-finder-skill",
+    "commit": "943c455bdfc40da46265b01b3c1f41e4bb386f27",
+    "path": "first-customer-finder/SKILL.md",
+    "git_blob": "451922ea011a5c46fc88d27a7fa8112bdaa28496",
+    "sha256": "ae8a2fcd1368d4b68d759a58ded4f93e4bda2fb8c808b2084e083650770fbb4c",
+    "bytes": 5622
+  },
+  "adaptacao": "Leve: saída Obsidian além de HTML, LGPD e critérios do fundador.",
+  "dependencias": [
+    "pasta completa first-customer-finder",
+    "references/research-framework.md",
+    "references/report-artifact.md",
+    "scripts/generate_report.py",
+    "agents/openai.yaml"
+  ],
+  "recursos_executados": false
+}

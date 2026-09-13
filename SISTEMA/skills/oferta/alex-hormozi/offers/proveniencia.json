@@ -1,0 +1,25 @@
+{
+  "id": "OFE-EST-01",
+  "origem": {
+    "id": "OFE-EST-01",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/offers/SKILL.md",
+    "git_blob": "dac1def431d22858653f41c25fadfa9abb1850e4",
+    "sha256": "f27239be82e5d4ad42daa944fad7d0a640b80ca82697ba7399843437a001e5aa",
+    "bytes": 10006
+  },
+  "adaptacao": "Moderada: prova obrigatória, limites éticos e adequação Brasil.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/bonus-stacking.md",
+    "references/examples.md",
+    "references/guarantee-design.md",
+    "references/offer-anatomy.md",
+    "references/offer-formats.md",
+    "references/saas-offers.md",
+    "references/scarcity-urgency.md",
+    "references/value-equation.md"
+  ],
+  "recursos_executados": false
+}

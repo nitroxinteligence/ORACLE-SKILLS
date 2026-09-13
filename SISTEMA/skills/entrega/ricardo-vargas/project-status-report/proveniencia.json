@@ -1,0 +1,17 @@
+{
+  "id": "ENT-PRJ-01",
+  "origem": {
+    "id": "ENT-PRJ-01",
+    "repo": "mohitagw15856/pm-claude-skills",
+    "commit": "f67821d42c8c6db20752030e12ded030a623bee3",
+    "path": "skills/project-status-report/SKILL.md",
+    "git_blob": "d05e19cd641a5dea36b94bbf10538c1bfde99970",
+    "sha256": "b47d8eeebea5555fabcfb00ae88f9b32c7a70d0a6f1d99a1e13561810322cf49",
+    "bytes": 3834
+  },
+  "adaptacao": "Leve: BRL, evidência por status, unknown separado e sem porcentagem fictícia.",
+  "dependencias": [
+    "SKILL.md standalone no commit auditado"
+  ],
+  "recursos_executados": false
+}

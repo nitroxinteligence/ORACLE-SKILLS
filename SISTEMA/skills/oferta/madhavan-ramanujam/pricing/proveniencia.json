@@ -1,0 +1,21 @@
+{
+  "id": "OFE-PRC-01",
+  "origem": {
+    "id": "OFE-PRC-01",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/pricing/SKILL.md",
+    "git_blob": "0ea73d15170f969c68f47adaeca9692467d0ec66",
+    "sha256": "6cb88c2e944331c12f2fb83341ff16aba85a34629df11f4cffc7f611e4df6868",
+    "bytes": 13253
+  },
+  "adaptacao": "Moderada: impostos/moeda Brasil, margem, faixa de confiança e teste.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/pricing-models.md",
+    "references/pricing-page-teardown.md",
+    "references/research-methods.md",
+    "references/tier-structure.md"
+  ],
+  "recursos_executados": false
+}

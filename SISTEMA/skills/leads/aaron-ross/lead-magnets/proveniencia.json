@@ -1,0 +1,19 @@
+{
+  "id": "LEA-CAP-03",
+  "origem": {
+    "id": "LEA-CAP-03",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/lead-magnets/SKILL.md",
+    "git_blob": "fc53513f326836381e81a2d4e3e699cdd52f9cbc",
+    "sha256": "bfb1e260e56fb11611bfac94236e7ebf79433e3350012ecce2379eef0af25af8",
+    "bytes": 10925
+  },
+  "adaptacao": "Leve: gate de qualidade do lead e vínculo explícito com a oferta.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/benchmarks.md",
+    "references/format-guide.md"
+  ],
+  "recursos_executados": false
+}

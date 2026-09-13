@@ -1,0 +1,20 @@
+{
+  "id": "ENT-ONB-01",
+  "origem": {
+    "id": "ENT-ONB-01",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/onboarding/SKILL.md",
+    "git_blob": "e5bfebe9e380888ab09816e00dc94ca45b3eed06",
+    "sha256": "ca219e0ba8f931888e2a634624ab927206f8ef26aeca2250399c3c48da0341e0",
+    "bytes": 10234
+  },
+  "adaptacao": "Moderada: criar modo onboarding de cliente/serviço e check de expectativa vendida.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/activation-models.md",
+    "references/experiments.md",
+    "references/minimum-path-to-value.md"
+  ],
+  "recursos_executados": false
+}

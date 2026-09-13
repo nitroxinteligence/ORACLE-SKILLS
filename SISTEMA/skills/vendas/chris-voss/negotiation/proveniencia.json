@@ -1,0 +1,17 @@
+{
+  "id": "VEN-NEG-03",
+  "origem": {
+    "id": "VEN-NEG-03",
+    "repo": "TheCraigHewitt/skills",
+    "commit": "fdbf39b61fbc8cb7cea67949bfb5e8fc567bbc51",
+    "path": "sales/negotiation/SKILL.md",
+    "git_blob": "e0c7ac810e90b57ea58fc0530897c8b446f987dc",
+    "sha256": "70477adc124316354c14f568d3804479605267389f6a1aae6389591c98c5c7ee",
+    "bytes": 24532
+  },
+  "adaptacao": "Moderada: incorporar princípios, limites e log de concessões; nunca representar o fundador autonomamente.",
+  "dependencias": [
+    ".agents/sales-context.md no original"
+  ],
+  "recursos_executados": false
+}

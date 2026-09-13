@@ -1,0 +1,18 @@
+{
+  "id": "OFE-PRC-02",
+  "origem": {
+    "id": "OFE-PRC-02",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/paywalls/SKILL.md",
+    "git_blob": "de911a4f39e11b03113f31a96404d06035952d1a",
+    "sha256": "d062c03f6b99e76ffaa367a1494ba80098b2033d4d74609b895373a024a8eac1",
+    "bytes": 5799
+  },
+  "adaptacao": "Moderada: adaptar a serviços/infoprodutos e incluir dark-pattern review.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/experiments.md"
+  ],
+  "recursos_executados": false
+}

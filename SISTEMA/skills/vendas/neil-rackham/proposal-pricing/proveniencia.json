@@ -1,0 +1,17 @@
+{
+  "id": "VEN-FEC-02",
+  "origem": {
+    "id": "VEN-FEC-02",
+    "repo": "TheCraigHewitt/skills",
+    "commit": "fdbf39b61fbc8cb7cea67949bfb5e8fc567bbc51",
+    "path": "sales/proposal-pricing/SKILL.md",
+    "git_blob": "9cffe77b1cd857c9c686ec93cdde661a78414bba",
+    "sha256": "8f964df65c5e69cd46cc1a3b16b23db87ad129dc4d81949d628b4550eed26cf9",
+    "bytes": 24098
+  },
+  "adaptacao": "Pesada: moeda, impostos, LGPD, revisão jurídica e aprovação do preço.",
+  "dependencias": [
+    ".agents/sales-context.md no original"
+  ],
+  "recursos_executados": false
+}

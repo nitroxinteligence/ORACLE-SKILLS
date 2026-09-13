@@ -1,0 +1,23 @@
+{
+  "id": "TRF-MID-02",
+  "origem": {
+    "id": "TRF-MID-02",
+    "repo": "AgriciDaniel/claude-ads",
+    "commit": "ac21644933910419529bcf81efb95a9ca71edf81",
+    "path": "skills/ads-plan/SKILL.md",
+    "git_blob": "dee88dcac31edfff6dba345ee2218f483f08ff02",
+    "sha256": "ac2617f0d4761e5cd1b8b09144cdc67a6c72c793a26303034d0931d86c23b79f",
+    "bytes": 1973
+  },
+  "adaptacao": "Moderada: renomear superfície para ORACLE, preservar pacote completo e manter read-only.",
+  "dependencias": [
+    "ads/SKILL.md",
+    "ads/references/additional-platforms.md",
+    "skills/ads-plan/assets/generic.md e template setorial correspondente",
+    "claude_ads_core/schemas/v1/media-plan.schema.json",
+    "claude_ads_core/schemas/v1/setup-profile.schema.json",
+    "control-plane/manifests/external-runtime-dependencies.json",
+    "control-plane/manifests/safety-policy.json"
+  ],
+  "recursos_executados": false
+}

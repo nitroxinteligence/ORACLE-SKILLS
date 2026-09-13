@@ -1,9 +1,0 @@
-Distribuição Oracle — escopo e requisitos
-
-O aplicativo instala arquivos e oferece memória estruturada, busca textual, links e edição local.
-Não executa os scripts distribuídos nem instala as ferramentas, contas ou serviços externos das skills.
-Usar uma skill ou prompt com um agente exige um host/modelo escolhido pelo usuário. Scripts Python, Node, Go, Docker, ferramentas de segurança e integrações precisam dos runtimes e requisitos indicados nos arquivos de origem e no manifesto da distribuição.
-Exemplos de caminhos, registros históricos e fixtures upstream não atestam a configuração do computador atual. Ajuste destinos e obtenha autorização para executar ferramentas em sistemas externos.
-Recursos identificados como externos não foram incluídos. A consulta especializada de personal branding depende de corpus e mapa de fontes fornecidos separadamente.
-As entradas sdd-apply e sdd-verify usam o tier model-capable; SKILL.upstream-template.md preserva todas as variantes para o gerador upstream.
-As alterações de nomes das skills e demais adaptações estão registradas no manifesto assinado. Licenças e avisos de terceiros permanecem aplicáveis.

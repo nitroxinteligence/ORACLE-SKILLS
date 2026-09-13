@@ -1,0 +1,17 @@
+{
+  "id": "VEN-NEG-02",
+  "origem": {
+    "id": "VEN-NEG-02",
+    "repo": "TheCraigHewitt/skills",
+    "commit": "fdbf39b61fbc8cb7cea67949bfb5e8fc567bbc51",
+    "path": "sales/discovery-call/SKILL.md",
+    "git_blob": "d6a1467fb0b56d0e2b8a414bb4c15c4e58af40a9",
+    "sha256": "42b44d6f71e36c18905479fda044e2109c0b259f5a6fa05d98018bfcf4060e17",
+    "bytes": 23500
+  },
+  "adaptacao": "Moderada: usar contexto ORACLE compartilhado e adaptar PT-BR/SPIN.",
+  "dependencias": [
+    ".agents/sales-context.md no original"
+  ],
+  "recursos_executados": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "OFE-EST-02",
+  "origem": {
+    "id": "OFE-EST-02",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/launch/SKILL.md",
+    "git_blob": "9438859e19c1ec10bf07632de1887b789df8761d",
+    "sha256": "1d5f5e6a4caaa5b62604a8df324b060eb99da567e65e9fc5a69b9999c61325b2",
+    "bytes": 15179
+  },
+  "adaptacao": "Leve: modos semente/perpétuo/feature e critérios de go/no-go.",
+  "dependencias": [
+    ".agents/product-marketing.md"
+  ],
+  "recursos_executados": false
+}

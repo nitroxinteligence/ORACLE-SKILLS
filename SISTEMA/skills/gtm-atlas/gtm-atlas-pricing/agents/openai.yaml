@@ -1,4 +1,0 @@
-interface:
-  display_name: "GTM Atlas Pricing"
-  short_description: "Design value-aligned pricing and packaging"
-  default_prompt: "Use $gtm-atlas-pricing to evaluate pricing models and recommend an experiment plan."

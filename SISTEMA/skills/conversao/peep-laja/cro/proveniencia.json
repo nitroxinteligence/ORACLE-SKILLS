@@ -1,0 +1,19 @@
+{
+  "id": "CNV-FUN-01",
+  "origem": {
+    "id": "CNV-FUN-01",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/cro/SKILL.md",
+    "git_blob": "74a2394f838e0f07a5a5f06eee99047b8a5adcd6",
+    "sha256": "199016bec3b44bc6a7507b111b6028f6550cc852cd54c7d0df789f15d6f814c4",
+    "bytes": 6101
+  },
+  "adaptacao": "Leve: evidência por achado e fila de experimentos.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/experiments.md",
+    "references/form.md"
+  ],
+  "recursos_executados": false
+}

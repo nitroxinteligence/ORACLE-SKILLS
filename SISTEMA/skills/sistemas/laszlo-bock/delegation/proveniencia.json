@@ -1,0 +1,17 @@
+{
+  "id": "SIS-PES-02",
+  "origem": {
+    "id": "SIS-PES-02",
+    "repo": "TheCraigHewitt/skills",
+    "commit": "fdbf39b61fbc8cb7cea67949bfb5e8fc567bbc51",
+    "path": "ceo/delegation/SKILL.md",
+    "git_blob": "c00c3c296e439cda51a1fa361dcdd04fe6fe9ba1",
+    "sha256": "a47400339c252f175184be37faa856985095e74b2d6d506705bba000393d8dda",
+    "bytes": 9251
+  },
+  "adaptacao": "Moderada: níveis de autoridade, Definition of Done e escalada.",
+  "dependencias": [
+    "BUSINESS_CONTEXT.md no original"
+  ],
+  "recursos_executados": false
+}

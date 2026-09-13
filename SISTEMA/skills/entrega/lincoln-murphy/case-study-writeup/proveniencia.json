@@ -1,0 +1,17 @@
+{
+  "id": "ENT-CS-03",
+  "origem": {
+    "id": "ENT-CS-03",
+    "repo": "mohitagw15856/pm-claude-skills",
+    "commit": "f67821d42c8c6db20752030e12ded030a623bee3",
+    "path": "skills/case-study-writeup/SKILL.md",
+    "git_blob": "fa865e678670954d191a31543036e7dde6d61b5e",
+    "sha256": "8328b2d031c53b957faad166badaac3480e7e560e912ff78e71e4a86e1dc8f89",
+    "bytes": 3617
+  },
+  "adaptacao": "Moderada: consentimento, fonte de métricas, anonimização e aprovação final.",
+  "dependencias": [
+    "SKILL.md standalone no commit auditado"
+  ],
+  "recursos_executados": false
+}

@@ -1,0 +1,25 @@
+---
+name: oracle-skill-f104adf82330a7848d09
+description: When the user wants to set up a recurring, self-running marketing workflow
+  — a repeatable loop an AI agent runs on a cadence (weekly, daily, on a trigger)
+  rather than a one-off task. Also use when the user mentions 'marketing loop,' 'recurring
+  marketing workflow,' 'automate my marketing,' 'marketing on autopilot,' 'weekly
+  marketing review,' 'ad fatigue check,' 'content refresh loop,' 'churn watch,' 'ranking
+  drop alert,' 'always-on marketing,' 'marketing automation workflow,' or 'run this
+  every week.' Use this to pick, adapt, and schedule an ongoing marketing loop that
+  orchestrates the other marketing skills. For one-off marketing ideas, see marketing-ideas.
+  For the experimentation loop specifically, see ab-testing.
+metadata:
+  version: 1.2.0
+  departamento: marketing
+  especialista: corey-haines
+---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
+
+# marketing-loops
+
+Especialista digital: Corey Haines — Marketing.
+
+Leia e aplique o [procedimento completo](../../../../recursos-skills/marketing/skills/marketing-loops/SKILL.md). O original e todas as dependências permanecem juntos em `SISTEMA/recursos-skills/marketing/skills/marketing-loops`. Resolva scripts, referências e caminhos relativos a partir dessa pasta de origem, conforme suas instruções. Esta entrada organiza a biblioteca; não instala ferramentas nem configura contas externas.
+
+[[SISTEMA/skills/marketing/corey-haines/indice|Especialista]] · [[SISTEMA/skills/marketing/indice|Departamento]]

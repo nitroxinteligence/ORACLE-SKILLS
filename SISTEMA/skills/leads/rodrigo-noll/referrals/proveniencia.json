@@ -1,0 +1,20 @@
+{
+  "id": "LEA-REL-02",
+  "origem": {
+    "id": "LEA-REL-02",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/referrals/SKILL.md",
+    "git_blob": "bcd90b1d3d03480ff86dbe914e90f92f7f8673bf",
+    "sha256": "103bd339d6d7796fae1128487c1560f38feecd94898d0d7c44ca0383f4c809d9",
+    "bytes": 9167
+  },
+  "adaptacao": "Leve: antifraude, disclosure e sucesso do indicado.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/affiliate-programs.md",
+    "references/program-examples.md",
+    "references/viral-mechanisms.md"
+  ],
+  "recursos_executados": false
+}

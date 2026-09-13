@@ -1,4 +1,0 @@
-interface:
-  display_name: "GTM Atlas Qualification"
-  short_description: "Build account scoring and persistent GTM context"
-  default_prompt: "Use $gtm-atlas-qualification to define the ECP, ICP, signals, and account scoring model."

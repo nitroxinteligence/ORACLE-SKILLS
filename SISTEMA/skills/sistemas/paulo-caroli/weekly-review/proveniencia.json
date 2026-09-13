@@ -1,0 +1,18 @@
+{
+  "id": "SIS-PRO-02",
+  "origem": {
+    "id": "SIS-PRO-02",
+    "repo": "TheCraigHewitt/skills",
+    "commit": "fdbf39b61fbc8cb7cea67949bfb5e8fc567bbc51",
+    "path": "ceo/weekly-review/SKILL.md",
+    "git_blob": "d027d24b5fc184a20539bea55d9a4882e56fb74b",
+    "sha256": "d43b1bac4ed4fc2f5913a7268ba32a91c5277528fb6f935b7fedf5aea77c24b2",
+    "bytes": 6292
+  },
+  "adaptacao": "Moderada: saída Obsidian, decisões/owners e evidência de conclusão.",
+  "dependencias": [
+    "BUSINESS_CONTEXT.md no original",
+    "paths fixos reviews/"
+  ],
+  "recursos_executados": false
+}

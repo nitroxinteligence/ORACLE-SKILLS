@@ -1,0 +1,19 @@
+{
+  "id": "ENT-CS-01",
+  "origem": {
+    "id": "ENT-CS-01",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/churn-prevention/SKILL.md",
+    "git_blob": "b8fbcd28ebc3942dc557db84b69e233b03c45296",
+    "sha256": "88fd25b77e44ef3689d68d54091df9659a40f5e905c8bdeb09bdeed3f049ad67",
+    "bytes": 18420
+  },
+  "adaptacao": "Moderada: health signals, desired outcome, ética de cancelamento e revisão de cohort.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/cancel-flow-patterns.md",
+    "references/dunning-playbook.md"
+  ],
+  "recursos_executados": false
+}

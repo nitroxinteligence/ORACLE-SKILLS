@@ -1,4 +1,0 @@
-interface:
-  display_name: "GTM Atlas Conversion"
-  short_description: "Combine AI ownership with human sales judgment"
-  default_prompt: "Use $gtm-atlas-conversion to design the agent, human handoff, and account routing model."

@@ -1,0 +1,29 @@
+{
+  "id": "TRF-MID-01",
+  "origem": {
+    "id": "TRF-MID-01",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/ad-creative/SKILL.md",
+    "git_blob": "d2cafa2f4559ff595897e8108df3362e1902403e",
+    "sha256": "e5b0cd0bc6bf55ab2abd02ca399fa996b67324cbda0dd1a719689e9322ba6808",
+    "bytes": 23022
+  },
+  "adaptacao": "Leve: matriz PT-BR, checklist de marca e política por plataforma.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "assets/creative-review-template.html",
+    "references/creative-review-page.md",
+    "references/creative-roadmap.md",
+    "references/generative-tools.md",
+    "references/hook-system.md",
+    "references/imessage-video-ads.md",
+    "references/meta-creative-formats.md",
+    "references/meta-decision-system.md",
+    "references/motion-video-ads.md",
+    "references/platform-specs.md",
+    "references/short-form-video-specs.md",
+    "references/static-ad-templates.md"
+  ],
+  "recursos_executados": false
+}

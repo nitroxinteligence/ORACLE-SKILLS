@@ -1,0 +1,18 @@
+{
+  "id": "SIS-PES-01",
+  "origem": {
+    "id": "SIS-PES-01",
+    "repo": "TheCraigHewitt/skills",
+    "commit": "fdbf39b61fbc8cb7cea67949bfb5e8fc567bbc51",
+    "path": "ceo/hiring/SKILL.md",
+    "git_blob": "3d80046efbef7d68e23f8fc218ce7bbbd2c4f036",
+    "sha256": "ab0048a4c40b5ba7e3761ce65a5ecf7b9bafdfb4d3254110954e6d8a2fcb4bbd",
+    "bytes": 9302
+  },
+  "adaptacao": "Pesada: legislação BR, critérios job-related, acessibilidade e decisão humana.",
+  "dependencias": [
+    "BUSINESS_CONTEXT.md no original",
+    "paths fixos hiring/"
+  ],
+  "recursos_executados": false
+}

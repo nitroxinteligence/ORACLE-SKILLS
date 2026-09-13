@@ -1,0 +1,27 @@
+{
+  "id": "ENT-CS-02",
+  "origem": {
+    "id": "ENT-CS-02",
+    "repo": "CompleteTech-LLC/agentic-customer-success-skill",
+    "commit": "7048c3f9749710af89da83f564367aafef0f416e",
+    "path": "SKILL.md",
+    "git_blob": "6c3c6edfb91f00f0e37a81ca784047f1fedf2be2",
+    "sha256": "3a86c2c8e737c4e9d5792b5138a86c895cdce979d08ab5fcadb874c08d8b1459",
+    "bytes": 8306
+  },
+  "adaptacao": "Pesada: extrair apenas modelo de lifecycle/artefatos, remover marca e paths, revalidar cada script.",
+  "dependencias": [
+    "references/customer-success-catalog.md",
+    "references/customer-success-lifecycle.md",
+    "references/customer-success-positioning.md",
+    "references/template-index.json",
+    "references/use-case-decision-table.md",
+    "scripts/render_customer_success.py",
+    "scripts/render_pdf.py",
+    "scripts/validate_quality.py",
+    "assets/diagrams/workflow.mmd",
+    "pyproject.toml",
+    "requirements.txt: reportlab==4.5.1, pypdfium2==5.8.0, pillow==12.2.0, pyyaml==6.0.3"
+  ],
+  "recursos_executados": false
+}

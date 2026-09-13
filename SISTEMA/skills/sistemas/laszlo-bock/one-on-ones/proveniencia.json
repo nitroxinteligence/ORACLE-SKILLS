@@ -1,0 +1,17 @@
+{
+  "id": "SIS-PES-03",
+  "origem": {
+    "id": "SIS-PES-03",
+    "repo": "TheCraigHewitt/skills",
+    "commit": "fdbf39b61fbc8cb7cea67949bfb5e8fc567bbc51",
+    "path": "ceo/one-on-ones/SKILL.md",
+    "git_blob": "dce189f3e8606aae6566c5a2e4aac6e721870486",
+    "sha256": "ec1cc67b32a909ceef3ded2f7dc7c86270d872ec9c20612ace4e06a857907a29",
+    "bytes": 9524
+  },
+  "adaptacao": "Pesada: privacidade, retenção mínima e proibição de avaliação automatizada.",
+  "dependencias": [
+    "BUSINESS_CONTEXT.md no original"
+  ],
+  "recursos_executados": false
+}

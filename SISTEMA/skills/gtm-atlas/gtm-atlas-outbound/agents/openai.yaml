@@ -1,4 +1,0 @@
-interface:
-  display_name: "GTM Atlas Outbound"
-  short_description: "Build data-led outbound around timing and intent"
-  default_prompt: "Use $gtm-atlas-outbound to design a focused outbound experiment for these accounts."

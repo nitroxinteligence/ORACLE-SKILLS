@@ -1,0 +1,24 @@
+{
+  "id": "TRF-CON-02",
+  "origem": {
+    "id": "TRF-CON-02",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/social/SKILL.md",
+    "git_blob": "ab1d083ef4a9dd2a91c1eaedfb5cb745c3055d24",
+    "sha256": "8cc93d9b361622cdb640e87969747b85603bed2d268e923179f8dfb4799ec8c7",
+    "bytes": 14936
+  },
+  "adaptacao": "Leve: PT-BR, políticas datadas por fonte e saída em rascunho.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/carousel-frameworks.md",
+    "references/listening.md",
+    "references/platform-limits.md",
+    "references/platforms.md",
+    "references/post-templates.md",
+    "references/reverse-engineering.md",
+    "references/short-form-video.md"
+  ],
+  "recursos_executados": false
+}

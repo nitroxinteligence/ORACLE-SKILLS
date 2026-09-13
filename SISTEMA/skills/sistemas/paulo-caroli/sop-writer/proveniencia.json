@@ -1,0 +1,17 @@
+{
+  "id": "SIS-PRO-01",
+  "origem": {
+    "id": "SIS-PRO-01",
+    "repo": "mohitagw15856/pm-claude-skills",
+    "commit": "f67821d42c8c6db20752030e12ded030a623bee3",
+    "path": "skills/sop-writer/SKILL.md",
+    "git_blob": "8d0610a642ec42e41c74baef122c7d87d2bd1736",
+    "sha256": "4aba5893003864893b1b77e77cadb47a78272010519fbb43d3c68fda2bc73491",
+    "bytes": 3267
+  },
+  "adaptacao": "Pesada: remover claims de conformidade, medir uso real e versionar owners.",
+  "dependencias": [
+    "SKILL.md standalone no commit auditado"
+  ],
+  "recursos_executados": false
+}

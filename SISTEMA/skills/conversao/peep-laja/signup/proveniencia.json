@@ -1,0 +1,17 @@
+{
+  "id": "CNV-FUN-03",
+  "origem": {
+    "id": "CNV-FUN-03",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/signup/SKILL.md",
+    "git_blob": "3ef89f8e51f7a58b3994d2c0bdd8754980425db2",
+    "sha256": "9395aabae64891ebdac5f31d17c83b9d47546dc0c9b22654c7b89e9b04da7cf6",
+    "bytes": 10382
+  },
+  "adaptacao": "Moderada: criar modos aplicação, checkout e cadastro.",
+  "dependencias": [
+    ".agents/product-marketing.md"
+  ],
+  "recursos_executados": false
+}

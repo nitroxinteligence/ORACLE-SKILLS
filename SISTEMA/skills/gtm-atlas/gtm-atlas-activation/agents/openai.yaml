@@ -1,4 +1,0 @@
-interface:
-  display_name: "GTM Atlas Activation"
-  short_description: "Connect first value, habit, retention, and revenue"
-  default_prompt: "Use $gtm-atlas-activation to define and validate the activation metric for this product."

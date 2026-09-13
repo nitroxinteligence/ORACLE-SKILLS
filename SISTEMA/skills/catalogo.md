@@ -1,209 +1,197 @@
 ---
-id: pb-00-sistema-skills-catalogo
+id: catalogo-skills-os
 type: index
 status: active
 area: sistema
-created: 2026-09-05
-updated: 2026-09-07
+created: 2026-09-13
+updated: 2026-09-13
 sensitivity: internal
-sources:
-  - "personal-branding-system (recurso externo: personal-branding-system; não incluído nesta distribuição)"
-confidence: medium
-review_after:
+sources: []
+confidence: high
+review_after: null
 ---
-<!-- Modified for Oracle distribution; exact input/output digests and reasons are in the signed distribution manifest. -->
-# Catálogo de skills
+# Catálogo por departamento e especialista
 
-> Registro da instalação de origem: os caminhos `{SOURCE_HOME}` são referências históricas, não destinos configurados neste computador. Dependências e integrações citadas precisam de configuração própria.
-
-
-Atualizado em 2026-09-07. As quatro coleções solicitadas estão instaladas no Codex e copiadas integralmente no OS: **122 arquivos SKILL.md e 3.016 arquivos de origem**, verificados por SHA-256 em ambos os destinos. A contagem inclui as versões de distribuição e desenvolvimento presentes no Gentle-AI.
-
-| Coleção | Skills instaladas | Arquivos de origem verificados | Pasta no OS |
-|---|---:|---:|---|
-| Marketing Skills | 50 | 466 | [[SISTEMA/skills/marketing/README|marketing]] |
-| Claude Ads | 34 | 339 | [[SISTEMA/skills/ads/README|ads]] |
-| Gentle-AI | 37 | 2201 | [[SISTEMA/skills/code/README|code]] |
-| First Customer Finder | 1 | 10 | [[SISTEMA/skills/customer-finder/README|customer-finder]] |
-
-## Instalação e fontes
-
-- Skills executáveis: `{SOURCE_HOME}/.codex/skills/<nome>/SKILL.md`.
-- Repositórios completos de apoio: `{SOURCE_HOME}/.codex/skill-sources/<area>/`.
-- Cada pasta no OS contém `INSTALACAO-CODEX.json`, com commit, relação de skills, nomes instalados e hashes de todos os arquivos da origem. Metadados internos do Git não fazem parte da biblioteca.
-- Os arquivos de origem no OS permanecem intactos. No Codex, nomes conflitantes receberam prefixos; caminhos de apoio foram adaptados e os templates Gentle-AI usam a seção upstream `model-capable`.
-- Instalação de procedimentos não equivale a contas conectadas ou execução validada de todos os fluxos. Credenciais, plataformas e ferramentas especializadas dependem da skill escolhida.
-
-## Procedimentos já catalogados
-
-| Procedimento | Responsabilidade | Fonte executável |
+| Departamento | Especialista | Skill |
 |---|---|---|
-| [[SISTEMA/skills/personal-branding/README|personal-branding]] | Coordenação estratégica e consulta ao especialista | `{SOURCE_HOME}/.codex/skills/personal-branding/SKILL.md` |
-| mats-ia-media-company | Pesquisa, produção e distribuição editorial | `{SOURCE_HOME}/.codex/skills/mats-ia-media-company/SKILL.md` |
-| brand-voice | Extrair e aplicar voz com amostras reais | `{SOURCE_HOME}/.codex/skills/brand-voice/SKILL.md` |
-| brand-strategy-neurobranding | Aprofundamento legado de identidade | Hermes: `social-media/skills/social-media/brand-strategy-neurobranding/SKILL.md` |
-| social-media-context | Contexto editorial legado | Hermes: `social-media/skills/social-media/social-media-context/SKILL.md` |
-| content-research-and-intelligence | Evidências e pesquisa | Hermes: `social-media/skills/social-media/content-research-and-intelligence/SKILL.md` |
-| content-production-operating-system | Produção | Hermes: `social-media/skills/social-media/content-production-operating-system/SKILL.md` |
-| content-quality-and-learning | Revisão e aprendizado | Hermes: `social-media/skills/social-media/content-quality-and-learning/SKILL.md` |
+| Tráfego | Ann Handley — Conteúdo | [[SISTEMA/skills/trafego/ann-handley/content-strategy/SKILL|content-strategy]] |
+| Tráfego | Ann Handley — Conteúdo | [[SISTEMA/skills/trafego/ann-handley/social/SKILL|social]] |
+| Tráfego | Ann Handley — Conteúdo | [[SISTEMA/skills/trafego/ann-handley/video/SKILL|video]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/ad-creative/SKILL|ad-creative]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/ads-plan/SKILL|ads-plan]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/ads-test/SKILL|ads-test]] |
+| Leads | Aaron Ross — Captação | [[SISTEMA/skills/leads/aaron-ross/first-customer-finder/SKILL|first-customer-finder]] |
+| Leads | Aaron Ross — Captação | [[SISTEMA/skills/leads/aaron-ross/lead-magnets/SKILL|lead-magnets]] |
+| Leads | Aaron Ross — Captação | [[SISTEMA/skills/leads/aaron-ross/prospecting/SKILL|prospecting]] |
+| Leads | Rodrigo Noll — Relacionamento | [[SISTEMA/skills/leads/rodrigo-noll/community-marketing/SKILL|community-marketing]] |
+| Leads | Rodrigo Noll — Relacionamento | [[SISTEMA/skills/leads/rodrigo-noll/emails/SKILL|emails]] |
+| Leads | Rodrigo Noll — Relacionamento | [[SISTEMA/skills/leads/rodrigo-noll/referrals/SKILL|referrals]] |
+| Conversão | Joanna Wiebe — Copy | [[SISTEMA/skills/conversao/joanna-wiebe/copy-editing/SKILL|copy-editing]] |
+| Conversão | Joanna Wiebe — Copy | [[SISTEMA/skills/conversao/joanna-wiebe/copywriting/SKILL|copywriting]] |
+| Conversão | Joanna Wiebe — Copy | [[SISTEMA/skills/conversao/joanna-wiebe/vsl-e-workshop/SKILL|vsl-e-workshop]] |
+| Conversão | Peep Laja — Funis | [[SISTEMA/skills/conversao/peep-laja/ab-testing/SKILL|ab-testing]] |
+| Conversão | Peep Laja — Funis | [[SISTEMA/skills/conversao/peep-laja/cro/SKILL|cro]] |
+| Conversão | Peep Laja — Funis | [[SISTEMA/skills/conversao/peep-laja/signup/SKILL|signup]] |
+| Vendas | Chris Voss — Negociação | [[SISTEMA/skills/vendas/chris-voss/discovery-call/SKILL|discovery-call]] |
+| Vendas | Chris Voss — Negociação | [[SISTEMA/skills/vendas/chris-voss/negotiation/SKILL|negotiation]] |
+| Vendas | Chris Voss — Negociação | [[SISTEMA/skills/vendas/chris-voss/sales-enablement/SKILL|sales-enablement]] |
+| Vendas | Neil Rackham — Fechamento | [[SISTEMA/skills/vendas/neil-rackham/call-debrief/SKILL|call-debrief]] |
+| Vendas | Neil Rackham — Fechamento | [[SISTEMA/skills/vendas/neil-rackham/proposal-pricing/SKILL|proposal-pricing]] |
+| Vendas | Neil Rackham — Fechamento | [[SISTEMA/skills/vendas/neil-rackham/revops/SKILL|revops]] |
+| Oferta | Alex Hormozi — Estratégia da oferta | [[SISTEMA/skills/oferta/alex-hormozi/gate-de-validacao-da-oferta/SKILL|gate-de-validacao-da-oferta]] |
+| Oferta | Alex Hormozi — Estratégia da oferta | [[SISTEMA/skills/oferta/alex-hormozi/launch/SKILL|launch]] |
+| Oferta | Alex Hormozi — Estratégia da oferta | [[SISTEMA/skills/oferta/alex-hormozi/offers/SKILL|offers]] |
+| Oferta | Madhavan Ramanujam — Produto e preço | [[SISTEMA/skills/oferta/madhavan-ramanujam/monetizacao-e-escada-de-valor/SKILL|monetizacao-e-escada-de-valor]] |
+| Oferta | Madhavan Ramanujam — Produto e preço | [[SISTEMA/skills/oferta/madhavan-ramanujam/paywalls/SKILL|paywalls]] |
+| Oferta | Madhavan Ramanujam — Produto e preço | [[SISTEMA/skills/oferta/madhavan-ramanujam/pricing/SKILL|pricing]] |
+| Entrega | Donna Weber — Onboarding | [[SISTEMA/skills/entrega/donna-weber/client-onboarding-kit/SKILL|client-onboarding-kit]] |
+| Entrega | Donna Weber — Onboarding | [[SISTEMA/skills/entrega/donna-weber/onboarding/SKILL|onboarding]] |
+| Entrega | Lincoln Murphy — Sucesso do cliente | [[SISTEMA/skills/entrega/lincoln-murphy/agentic-customer-success/SKILL|agentic-customer-success]] |
+| Entrega | Lincoln Murphy — Sucesso do cliente | [[SISTEMA/skills/entrega/lincoln-murphy/case-study-writeup/SKILL|case-study-writeup]] |
+| Entrega | Lincoln Murphy — Sucesso do cliente | [[SISTEMA/skills/entrega/lincoln-murphy/churn-prevention/SKILL|churn-prevention]] |
+| Entrega | Ricardo Vargas — Projetos | [[SISTEMA/skills/entrega/ricardo-vargas/planejamento-de-entrega-e-marcos/SKILL|planejamento-de-entrega-e-marcos]] |
+| Entrega | Ricardo Vargas — Projetos | [[SISTEMA/skills/entrega/ricardo-vargas/project-status-report/SKILL|project-status-report]] |
+| Sistemas | Assistente de produtividade | [[SISTEMA/skills/sistemas/assistente-de-produtividade/i-have-adhd/SKILL|i-have-adhd]] |
+| Sistemas | Laszlo Bock — Pessoas | [[SISTEMA/skills/sistemas/laszlo-bock/delegation/SKILL|delegation]] |
+| Sistemas | Laszlo Bock — Pessoas | [[SISTEMA/skills/sistemas/laszlo-bock/hiring/SKILL|hiring]] |
+| Sistemas | Laszlo Bock — Pessoas | [[SISTEMA/skills/sistemas/laszlo-bock/one-on-ones/SKILL|one-on-ones]] |
+| Sistemas | Paulo Caroli — Processos | [[SISTEMA/skills/sistemas/paulo-caroli/sop-writer/SKILL|sop-writer]] |
+| Sistemas | Paulo Caroli — Processos | [[SISTEMA/skills/sistemas/paulo-caroli/weekly-review/SKILL|weekly-review]] |
+| Sistemas | Tiago Forte — Tecnologia | [[SISTEMA/skills/sistemas/tiago-forte/ai-workflow-designer/SKILL|ai-workflow-designer]] |
+| Sistemas | Tiago Forte — Tecnologia | [[SISTEMA/skills/sistemas/tiago-forte/governanca-second-brain/SKILL|governanca-second-brain]] |
+| Marketing | Analista de tendências | [[SISTEMA/skills/marketing/analista-de-tendencias/last30days/SKILL|last30days]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/ab-testing/SKILL|ab-testing]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/ad-creative/SKILL|ad-creative]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/ads/SKILL|ads]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/ai-seo/SKILL|ai-seo]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/analytics/SKILL|analytics]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/aso/SKILL|aso]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/attribution/SKILL|attribution]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/churn-prevention/SKILL|churn-prevention]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/co-marketing/SKILL|co-marketing]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/cold-email/SKILL|cold-email]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/community-marketing/SKILL|community-marketing]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/competitor-profiling/SKILL|competitor-profiling]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/competitors/SKILL|competitors]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/content-strategy/SKILL|content-strategy]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/copy-editing/SKILL|copy-editing]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/copywriting/SKILL|copywriting]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/cro/SKILL|cro]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/customer-research/SKILL|customer-research]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/directory-submissions/SKILL|directory-submissions]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/emails/SKILL|emails]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/events/SKILL|events]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/free-tools/SKILL|free-tools]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/image/SKILL|image]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/influencer-marketing/SKILL|influencer-marketing]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/launch/SKILL|launch]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/lead-magnets/SKILL|lead-magnets]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/marketing-council/SKILL|marketing-council]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/marketing-ideas/SKILL|marketing-ideas]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/marketing-loops/SKILL|marketing-loops]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/marketing-plan/SKILL|marketing-plan]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/marketing-psychology/SKILL|marketing-psychology]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/offers/SKILL|offers]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/onboarding/SKILL|onboarding]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/paywalls/SKILL|paywalls]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/popups/SKILL|popups]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/pricing/SKILL|pricing]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/product-marketing/SKILL|product-marketing]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/programmatic-seo/SKILL|programmatic-seo]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/prospecting/SKILL|prospecting]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/public-relations/SKILL|public-relations]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/referrals/SKILL|referrals]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/revops/SKILL|revops]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/sales-enablement/SKILL|sales-enablement]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/schema/SKILL|schema]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/seo-audit/SKILL|seo-audit]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/signup/SKILL|signup]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/site-architecture/SKILL|site-architecture]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/sms/SKILL|sms]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/social/SKILL|social]] |
+| Marketing | Corey Haines — Marketing | [[SISTEMA/skills/marketing/corey-haines/video/SKILL|video]] |
+| Marketing | Designer de apresentações | [[SISTEMA/skills/marketing/designer-de-apresentacoes/slides/SKILL|slides]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/aso/SKILL|aso]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/b2b-brand-marketing/SKILL|b2b-brand-marketing]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-architecture/SKILL|brand-architecture]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-audit/SKILL|brand-audit]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-context/SKILL|brand-context]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-guidelines/SKILL|brand-guidelines]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-identity/SKILL|brand-identity]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-launch/SKILL|brand-launch]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-manifesto/SKILL|brand-manifesto]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-measurement/SKILL|brand-measurement]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-messaging/SKILL|brand-messaging]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-naming/SKILL|brand-naming]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-packaging/SKILL|brand-packaging]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-partnerships/SKILL|brand-partnerships]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-positioning/SKILL|brand-positioning]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-story/SKILL|brand-story]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-strategy/SKILL|brand-strategy]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/brand-voice/SKILL|brand-voice]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/competitor-branding/SKILL|competitor-branding]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/d2c-marketing/SKILL|d2c-marketing]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/email-marketing/SKILL|email-marketing]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/google-ads/SKILL|google-ads]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/influencer-marketing/SKILL|influencer-marketing]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/meta-ads/SKILL|meta-ads]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/personal-brand/SKILL|personal-brand]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/rebranding/SKILL|rebranding]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/target-audience/SKILL|target-audience]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/ugc-strategy/SKILL|ugc-strategy]] |
+| Marketing | Estrategista de marca | [[SISTEMA/skills/marketing/estrategista-de-marca/whatsapp-marketing/SKILL|whatsapp-marketing]] |
+| Marketing | Rory Vaden — Marca pessoal | [[SISTEMA/skills/marketing/rory-vaden/personal-branding/SKILL|personal-branding]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/brandkit/SKILL|brandkit]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/brutalist-skill/SKILL|brutalist-skill]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/gpt-tasteskill/SKILL|gpt-tasteskill]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/image-to-code-skill/SKILL|image-to-code-skill]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/imagegen-frontend-mobile/SKILL|imagegen-frontend-mobile]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/imagegen-frontend-web/SKILL|imagegen-frontend-web]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/impeccable/SKILL|impeccable]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/minimalist-skill/SKILL|minimalist-skill]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/output-skill/SKILL|output-skill]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/redesign-skill/SKILL|redesign-skill]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/soft-skill/SKILL|soft-skill]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/stitch-skill/SKILL|stitch-skill]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/taste-skill/SKILL|taste-skill]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/taste-skill-v1/SKILL|taste-skill-v1]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/branch-pr/SKILL|branch-pr]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/branch-pr-distribuicao/SKILL|branch-pr-distribuicao]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/chained-pr/SKILL|chained-pr]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/chained-pr-distribuicao/SKILL|chained-pr-distribuicao]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/cognitive-doc-design/SKILL|cognitive-doc-design]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/cognitive-doc-design-distribuicao/SKILL|cognitive-doc-design-distribuicao]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/comment-writer/SKILL|comment-writer]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/comment-writer-distribuicao/SKILL|comment-writer-distribuicao]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/gentle-ai-bench/SKILL|gentle-ai-bench]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/gentle-ai-bench-distribuicao/SKILL|gentle-ai-bench-distribuicao]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/gentle-ai-collab-perfect/SKILL|gentle-ai-collab-perfect]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/go-testing/SKILL|go-testing]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/hermes-ephemeral-delegation/SKILL|hermes-ephemeral-delegation]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/issue-creation/SKILL|issue-creation]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/issue-root-resolution/SKILL|issue-root-resolution]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/judgment-day/SKILL|judgment-day]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/rdd-advisory-transport/SKILL|rdd-advisory-transport]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/rdd-defect-workflow/SKILL|rdd-defect-workflow]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/rdd-defect-workflow-distribuicao/SKILL|rdd-defect-workflow-distribuicao]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-apply/SKILL|sdd-apply]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-archive/SKILL|sdd-archive]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-design/SKILL|sdd-design]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-explore/SKILL|sdd-explore]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-init/SKILL|sdd-init]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-onboard/SKILL|sdd-onboard]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-propose/SKILL|sdd-propose]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-research/SKILL|sdd-research]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-spec/SKILL|sdd-spec]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-tasks/SKILL|sdd-tasks]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/sdd-verify/SKILL|sdd-verify]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/skill-creator/SKILL|skill-creator]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/skill-improver/SKILL|skill-improver]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/skill-registry/SKILL|skill-registry]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/systemic-issue-triage/SKILL|systemic-issue-triage]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/systemic-issue-triage-distribuicao/SKILL|systemic-issue-triage-distribuicao]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/work-unit-commits/SKILL|work-unit-commits]] |
+| Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/work-unit-commits-distribuicao/SKILL|work-unit-commits-distribuicao]] |
+| Código | Frontend | [[SISTEMA/skills/codigo/frontend/richard-design/SKILL|richard-design]] |
 
-Base Hermes: `{SOURCE_HOME}/.hermes/profiles/`. As referências anteriores foram preservadas; não indicam executor ativo.
-
-## Marketing Skills
-
-Fonte: https://github.com/coreyhaines31/marketingskills · Commit: `5b2c0007766c6a1cf1d53fd8fc73e979e0821022`.
-
-| Skill no Codex | Arquivo completo no OS |
-|---|---|
-| `ab-testing` | [[SISTEMA/skills/marketing/skills/ab-testing/SKILL|skills/ab-testing/SKILL.md]] |
-| `ad-creative` | [[SISTEMA/skills/marketing/skills/ad-creative/SKILL|skills/ad-creative/SKILL.md]] |
-| `marketing-ads` | [[SISTEMA/skills/marketing/skills/ads/SKILL|skills/ads/SKILL.md]] |
-| `ai-seo` | [[SISTEMA/skills/marketing/skills/ai-seo/SKILL|skills/ai-seo/SKILL.md]] |
-| `analytics` | [[SISTEMA/skills/marketing/skills/analytics/SKILL|skills/analytics/SKILL.md]] |
-| `aso` | [[SISTEMA/skills/marketing/skills/aso/SKILL|skills/aso/SKILL.md]] |
-| `attribution` | [[SISTEMA/skills/marketing/skills/attribution/SKILL|skills/attribution/SKILL.md]] |
-| `churn-prevention` | [[SISTEMA/skills/marketing/skills/churn-prevention/SKILL|skills/churn-prevention/SKILL.md]] |
-| `co-marketing` | [[SISTEMA/skills/marketing/skills/co-marketing/SKILL|skills/co-marketing/SKILL.md]] |
-| `cold-email` | [[SISTEMA/skills/marketing/skills/cold-email/SKILL|skills/cold-email/SKILL.md]] |
-| `community-marketing` | [[SISTEMA/skills/marketing/skills/community-marketing/SKILL|skills/community-marketing/SKILL.md]] |
-| `competitor-profiling` | [[SISTEMA/skills/marketing/skills/competitor-profiling/SKILL|skills/competitor-profiling/SKILL.md]] |
-| `competitors` | [[SISTEMA/skills/marketing/skills/competitors/SKILL|skills/competitors/SKILL.md]] |
-| `content-strategy` | [[SISTEMA/skills/marketing/skills/content-strategy/SKILL|skills/content-strategy/SKILL.md]] |
-| `marketing-copy-editing` | [[SISTEMA/skills/marketing/skills/copy-editing/SKILL|skills/copy-editing/SKILL.md]] |
-| `marketing-copywriting` | [[SISTEMA/skills/marketing/skills/copywriting/SKILL|skills/copywriting/SKILL.md]] |
-| `cro` | [[SISTEMA/skills/marketing/skills/cro/SKILL|skills/cro/SKILL.md]] |
-| `customer-research` | [[SISTEMA/skills/marketing/skills/customer-research/SKILL|skills/customer-research/SKILL.md]] |
-| `directory-submissions` | [[SISTEMA/skills/marketing/skills/directory-submissions/SKILL|skills/directory-submissions/SKILL.md]] |
-| `emails` | [[SISTEMA/skills/marketing/skills/emails/SKILL|skills/emails/SKILL.md]] |
-| `events` | [[SISTEMA/skills/marketing/skills/events/SKILL|skills/events/SKILL.md]] |
-| `free-tools` | [[SISTEMA/skills/marketing/skills/free-tools/SKILL|skills/free-tools/SKILL.md]] |
-| `image` | [[SISTEMA/skills/marketing/skills/image/SKILL|skills/image/SKILL.md]] |
-| `influencer-marketing` | [[SISTEMA/skills/marketing/skills/influencer-marketing/SKILL|skills/influencer-marketing/SKILL.md]] |
-| `launch` | [[SISTEMA/skills/marketing/skills/launch/SKILL|skills/launch/SKILL.md]] |
-| `lead-magnets` | [[SISTEMA/skills/marketing/skills/lead-magnets/SKILL|skills/lead-magnets/SKILL.md]] |
-| `marketing-council` | [[SISTEMA/skills/marketing/skills/marketing-council/SKILL|skills/marketing-council/SKILL.md]] |
-| `marketing-ideas` | [[SISTEMA/skills/marketing/skills/marketing-ideas/SKILL|skills/marketing-ideas/SKILL.md]] |
-| `marketing-loops` | [[SISTEMA/skills/marketing/skills/marketing-loops/SKILL|skills/marketing-loops/SKILL.md]] |
-| `marketing-plan` | [[SISTEMA/skills/marketing/skills/marketing-plan/SKILL|skills/marketing-plan/SKILL.md]] |
-| `marketing-psychology` | [[SISTEMA/skills/marketing/skills/marketing-psychology/SKILL|skills/marketing-psychology/SKILL.md]] |
-| `offers` | [[SISTEMA/skills/marketing/skills/offers/SKILL|skills/offers/SKILL.md]] |
-| `onboarding` | [[SISTEMA/skills/marketing/skills/onboarding/SKILL|skills/onboarding/SKILL.md]] |
-| `paywalls` | [[SISTEMA/skills/marketing/skills/paywalls/SKILL|skills/paywalls/SKILL.md]] |
-| `popups` | [[SISTEMA/skills/marketing/skills/popups/SKILL|skills/popups/SKILL.md]] |
-| `pricing` | [[SISTEMA/skills/marketing/skills/pricing/SKILL|skills/pricing/SKILL.md]] |
-| `product-marketing` | [[SISTEMA/skills/marketing/skills/product-marketing/SKILL|skills/product-marketing/SKILL.md]] |
-| `programmatic-seo` | [[SISTEMA/skills/marketing/skills/programmatic-seo/SKILL|skills/programmatic-seo/SKILL.md]] |
-| `prospecting` | [[SISTEMA/skills/marketing/skills/prospecting/SKILL|skills/prospecting/SKILL.md]] |
-| `public-relations` | [[SISTEMA/skills/marketing/skills/public-relations/SKILL|skills/public-relations/SKILL.md]] |
-| `referrals` | [[SISTEMA/skills/marketing/skills/referrals/SKILL|skills/referrals/SKILL.md]] |
-| `revops` | [[SISTEMA/skills/marketing/skills/revops/SKILL|skills/revops/SKILL.md]] |
-| `sales-enablement` | [[SISTEMA/skills/marketing/skills/sales-enablement/SKILL|skills/sales-enablement/SKILL.md]] |
-| `schema` | [[SISTEMA/skills/marketing/skills/schema/SKILL|skills/schema/SKILL.md]] |
-| `seo-audit` | [[SISTEMA/skills/marketing/skills/seo-audit/SKILL|skills/seo-audit/SKILL.md]] |
-| `signup` | [[SISTEMA/skills/marketing/skills/signup/SKILL|skills/signup/SKILL.md]] |
-| `site-architecture` | [[SISTEMA/skills/marketing/skills/site-architecture/SKILL|skills/site-architecture/SKILL.md]] |
-| `sms` | [[SISTEMA/skills/marketing/skills/sms/SKILL|skills/sms/SKILL.md]] |
-| `social` | [[SISTEMA/skills/marketing/skills/social/SKILL|skills/social/SKILL.md]] |
-| `video` | [[SISTEMA/skills/marketing/skills/video/SKILL|skills/video/SKILL.md]] |
-
-## Claude Ads
-
-Fonte: https://github.com/AgriciDaniel/claude-ads · Commit: `669c7608ecb50dd95c941a71fa3ca0a1c0e40512`.
-
-| Skill no Codex | Arquivo completo no OS |
-|---|---|
-| `ads` | [[SISTEMA/skills/ads/ads/SKILL|ads/SKILL.md]] |
-| `ads-amazon` | [[SISTEMA/skills/ads/skills/ads-amazon/SKILL|skills/ads-amazon/SKILL.md]] |
-| `ads-apple` | [[SISTEMA/skills/ads/skills/ads-apple/SKILL|skills/ads-apple/SKILL.md]] |
-| `ads-attribution` | [[SISTEMA/skills/ads/skills/ads-attribution/SKILL|skills/ads-attribution/SKILL.md]] |
-| `ads-audit` | [[SISTEMA/skills/ads/skills/ads-audit/SKILL|skills/ads-audit/SKILL.md]] |
-| `ads-budget` | [[SISTEMA/skills/ads/skills/ads-budget/SKILL|skills/ads-budget/SKILL.md]] |
-| `ads-competitor` | [[SISTEMA/skills/ads/skills/ads-competitor/SKILL|skills/ads-competitor/SKILL.md]] |
-| `ads-create` | [[SISTEMA/skills/ads/skills/ads-create/SKILL|skills/ads-create/SKILL.md]] |
-| `ads-creative` | [[SISTEMA/skills/ads/skills/ads-creative/SKILL|skills/ads-creative/SKILL.md]] |
-| `ads-dna` | [[SISTEMA/skills/ads/skills/ads-dna/SKILL|skills/ads-dna/SKILL.md]] |
-| `ads-generate` | [[SISTEMA/skills/ads/skills/ads-generate/SKILL|skills/ads-generate/SKILL.md]] |
-| `ads-google` | [[SISTEMA/skills/ads/skills/ads-google/SKILL|skills/ads-google/SKILL.md]] |
-| `ads-landing` | [[SISTEMA/skills/ads/skills/ads-landing/SKILL|skills/ads-landing/SKILL.md]] |
-| `ads-launch` | [[SISTEMA/skills/ads/skills/ads-launch/SKILL|skills/ads-launch/SKILL.md]] |
-| `ads-linkedin` | [[SISTEMA/skills/ads/skills/ads-linkedin/SKILL|skills/ads-linkedin/SKILL.md]] |
-| `ads-math` | [[SISTEMA/skills/ads/skills/ads-math/SKILL|skills/ads-math/SKILL.md]] |
-| `ads-meta` | [[SISTEMA/skills/ads/skills/ads-meta/SKILL|skills/ads-meta/SKILL.md]] |
-| `ads-microsoft` | [[SISTEMA/skills/ads/skills/ads-microsoft/SKILL|skills/ads-microsoft/SKILL.md]] |
-| `ads-monitor` | [[SISTEMA/skills/ads/skills/ads-monitor/SKILL|skills/ads-monitor/SKILL.md]] |
-| `ads-optimize` | [[SISTEMA/skills/ads/skills/ads-optimize/SKILL|skills/ads-optimize/SKILL.md]] |
-| `ads-photoshoot` | [[SISTEMA/skills/ads/skills/ads-photoshoot/SKILL|skills/ads-photoshoot/SKILL.md]] |
-| `ads-pinterest` | [[SISTEMA/skills/ads/skills/ads-pinterest/SKILL|skills/ads-pinterest/SKILL.md]] |
-| `ads-plan` | [[SISTEMA/skills/ads/skills/ads-plan/SKILL|skills/ads-plan/SKILL.md]] |
-| `ads-reddit` | [[SISTEMA/skills/ads/skills/ads-reddit/SKILL|skills/ads-reddit/SKILL.md]] |
-| `ads-report` | [[SISTEMA/skills/ads/skills/ads-report/SKILL|skills/ads-report/SKILL.md]] |
-| `ads-research` | [[SISTEMA/skills/ads/skills/ads-research/SKILL|skills/ads-research/SKILL.md]] |
-| `ads-server-side-tracking` | [[SISTEMA/skills/ads/skills/ads-server-side-tracking/SKILL|skills/ads-server-side-tracking/SKILL.md]] |
-| `ads-setup` | [[SISTEMA/skills/ads/skills/ads-setup/SKILL|skills/ads-setup/SKILL.md]] |
-| `ads-snapchat` | [[SISTEMA/skills/ads/skills/ads-snapchat/SKILL|skills/ads-snapchat/SKILL.md]] |
-| `ads-test` | [[SISTEMA/skills/ads/skills/ads-test/SKILL|skills/ads-test/SKILL.md]] |
-| `ads-tiktok` | [[SISTEMA/skills/ads/skills/ads-tiktok/SKILL|skills/ads-tiktok/SKILL.md]] |
-| `ads-validate` | [[SISTEMA/skills/ads/skills/ads-validate/SKILL|skills/ads-validate/SKILL.md]] |
-| `ads-x` | [[SISTEMA/skills/ads/skills/ads-x/SKILL|skills/ads-x/SKILL.md]] |
-| `ads-youtube` | [[SISTEMA/skills/ads/skills/ads-youtube/SKILL|skills/ads-youtube/SKILL.md]] |
-
-## Gentle-AI
-
-Fonte: https://github.com/Gentleman-Programming/gentle-ai · Commit: `a609f88b0c78cc3bdf0f7a6964101ac08dd3e912`.
-
-| Skill no Codex | Arquivo completo no OS |
-|---|---|
-| `branch-pr` | [[SISTEMA/skills/code/internal/assets/skills/branch-pr/SKILL|internal/assets/skills/branch-pr/SKILL.md]] |
-| `chained-pr` | [[SISTEMA/skills/code/internal/assets/skills/chained-pr/SKILL|internal/assets/skills/chained-pr/SKILL.md]] |
-| `cognitive-doc-design` | [[SISTEMA/skills/code/internal/assets/skills/cognitive-doc-design/SKILL|internal/assets/skills/cognitive-doc-design/SKILL.md]] |
-| `comment-writer` | [[SISTEMA/skills/code/internal/assets/skills/comment-writer/SKILL|internal/assets/skills/comment-writer/SKILL.md]] |
-| `gentle-ai-bench` | [[SISTEMA/skills/code/internal/assets/skills/gentle-ai-bench/SKILL|internal/assets/skills/gentle-ai-bench/SKILL.md]] |
-| `go-testing` | [[SISTEMA/skills/code/internal/assets/skills/go-testing/SKILL|internal/assets/skills/go-testing/SKILL.md]] |
-| `hermes-ephemeral-delegation` | [[SISTEMA/skills/code/internal/assets/skills/hermes-ephemeral-delegation/SKILL|internal/assets/skills/hermes-ephemeral-delegation/SKILL.md]] |
-| `issue-creation` | [[SISTEMA/skills/code/internal/assets/skills/issue-creation/SKILL|internal/assets/skills/issue-creation/SKILL.md]] |
-| `judgment-day` | [[SISTEMA/skills/code/internal/assets/skills/judgment-day/SKILL|internal/assets/skills/judgment-day/SKILL.md]] |
-| `rdd-defect-workflow` | [[SISTEMA/skills/code/internal/assets/skills/rdd-defect-workflow/SKILL|internal/assets/skills/rdd-defect-workflow/SKILL.md]] |
-| `sdd-apply` | [[SISTEMA/skills/code/internal/assets/skills/sdd-apply/SKILL|internal/assets/skills/sdd-apply/SKILL.md]] |
-| `sdd-archive` | [[SISTEMA/skills/code/internal/assets/skills/sdd-archive/SKILL|internal/assets/skills/sdd-archive/SKILL.md]] |
-| `sdd-design` | [[SISTEMA/skills/code/internal/assets/skills/sdd-design/SKILL|internal/assets/skills/sdd-design/SKILL.md]] |
-| `sdd-explore` | [[SISTEMA/skills/code/internal/assets/skills/sdd-explore/SKILL|internal/assets/skills/sdd-explore/SKILL.md]] |
-| `sdd-init` | [[SISTEMA/skills/code/internal/assets/skills/sdd-init/SKILL|internal/assets/skills/sdd-init/SKILL.md]] |
-| `sdd-onboard` | [[SISTEMA/skills/code/internal/assets/skills/sdd-onboard/SKILL|internal/assets/skills/sdd-onboard/SKILL.md]] |
-| `sdd-propose` | [[SISTEMA/skills/code/internal/assets/skills/sdd-propose/SKILL|internal/assets/skills/sdd-propose/SKILL.md]] |
-| `sdd-research` | [[SISTEMA/skills/code/internal/assets/skills/sdd-research/SKILL|internal/assets/skills/sdd-research/SKILL.md]] |
-| `sdd-spec` | [[SISTEMA/skills/code/internal/assets/skills/sdd-spec/SKILL|internal/assets/skills/sdd-spec/SKILL.md]] |
-| `sdd-tasks` | [[SISTEMA/skills/code/internal/assets/skills/sdd-tasks/SKILL|internal/assets/skills/sdd-tasks/SKILL.md]] |
-| `sdd-verify` | [[SISTEMA/skills/code/internal/assets/skills/sdd-verify/SKILL|internal/assets/skills/sdd-verify/SKILL.md]] |
-| `gentle-skill-creator` | [[SISTEMA/skills/code/internal/assets/skills/skill-creator/SKILL|internal/assets/skills/skill-creator/SKILL.md]] |
-| `skill-improver` | [[SISTEMA/skills/code/internal/assets/skills/skill-improver/SKILL|internal/assets/skills/skill-improver/SKILL.md]] |
-| `skill-registry` | [[SISTEMA/skills/code/internal/assets/skills/skill-registry/SKILL|internal/assets/skills/skill-registry/SKILL.md]] |
-| `systemic-issue-triage` | [[SISTEMA/skills/code/internal/assets/skills/systemic-issue-triage/SKILL|internal/assets/skills/systemic-issue-triage/SKILL.md]] |
-| `work-unit-commits` | [[SISTEMA/skills/code/internal/assets/skills/work-unit-commits/SKILL|internal/assets/skills/work-unit-commits/SKILL.md]] |
-| `gentle-branch-pr` | [[SISTEMA/skills/code/skills/branch-pr/SKILL|skills/branch-pr/SKILL.md]] |
-| `gentle-chained-pr` | [[SISTEMA/skills/code/skills/chained-pr/SKILL|skills/chained-pr/SKILL.md]] |
-| `gentle-cognitive-doc-design` | [[SISTEMA/skills/code/skills/cognitive-doc-design/SKILL|skills/cognitive-doc-design/SKILL.md]] |
-| `gentle-comment-writer` | [[SISTEMA/skills/code/skills/comment-writer/SKILL|skills/comment-writer/SKILL.md]] |
-| `gentle-gentle-ai-bench` | [[SISTEMA/skills/code/skills/gentle-ai-bench/SKILL|skills/gentle-ai-bench/SKILL.md]] |
-| `gentle-ai-collab-perfect` | [[SISTEMA/skills/code/skills/gentle-ai-collab-perfect/SKILL|skills/gentle-ai-collab-perfect/SKILL.md]] |
-| `issue-root-resolution` | [[SISTEMA/skills/code/skills/issue-root-resolution/SKILL|skills/issue-root-resolution/SKILL.md]] |
-| `rdd-advisory-transport` | [[SISTEMA/skills/code/skills/rdd-advisory-transport/SKILL|skills/rdd-advisory-transport/SKILL.md]] |
-| `gentle-rdd-defect-workflow` | [[SISTEMA/skills/code/skills/rdd-defect-workflow/SKILL|skills/rdd-defect-workflow/SKILL.md]] |
-| `gentle-systemic-issue-triage` | [[SISTEMA/skills/code/skills/systemic-issue-triage/SKILL|skills/systemic-issue-triage/SKILL.md]] |
-| `gentle-work-unit-commits` | [[SISTEMA/skills/code/skills/work-unit-commits/SKILL|skills/work-unit-commits/SKILL.md]] |
-
-## First Customer Finder
-
-Fonte: https://github.com/Kappaemme-git/codex-first-customer-finder-skill · Commit: `943c455bdfc40da46265b01b3c1f41e4bb386f27`.
-
-| Skill no Codex | Arquivo completo no OS |
-|---|---|
-| `first-customer-finder` | [[SISTEMA/skills/customer-finder/first-customer-finder/SKILL|first-customer-finder/SKILL.md]] |
-
-[[SISTEMA/skills/README]]
-
-## Dependências locais instaladas
-
-- Claude Ads: ambiente Python 3.12 isolado em `{SOURCE_HOME}/.codex/skills/ads/.venv`, com dependências fixadas por hash e `pip check` aprovado.
-- PDF: Pango instalado e geração real de PDF com WeasyPrint verificada.
-- Gentle-AI: executável compilado do mesmo commit e instalado em `{SOURCE_HOME}/.local/bin/gentle-ai`; comando de versão verificado. O configurador global não foi executado.
-- Navegador: Chromium, Headless Shell e FFmpeg do Playwright instalados; abertura do Chromium e página local verificadas.
+[[SISTEMA/skills/README|Biblioteca]]

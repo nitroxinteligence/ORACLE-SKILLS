@@ -1,0 +1,21 @@
+{
+  "id": "TRF-MID-03",
+  "origem": {
+    "id": "TRF-MID-03",
+    "repo": "AgriciDaniel/claude-ads",
+    "commit": "ac21644933910419529bcf81efb95a9ca71edf81",
+    "path": "skills/ads-test/SKILL.md",
+    "git_blob": "0489ed6fcf16475c8ab073cb271c2a306c22059d",
+    "sha256": "5f1a0c5580f598927197b513540ef02570e2f14e5d045316ef10d779842ee0b4",
+    "bytes": 1245
+  },
+  "adaptacao": "Moderada: adaptar vocabulário, thresholds por canal e proibir mutações sem aprovação.",
+  "dependencias": [
+    "ads/SKILL.md",
+    "claude_ads_core/schemas/v1/experiment-artifact.schema.json",
+    "claude_ads_core/schemas/v1/setup-profile.schema.json",
+    "control-plane/manifests/safety-policy.json",
+    "control-plane/manifests/source-ledger.json"
+  ],
+  "recursos_executados": false
+}

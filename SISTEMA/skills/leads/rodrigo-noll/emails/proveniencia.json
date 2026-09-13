@@ -1,0 +1,20 @@
+{
+  "id": "LEA-REL-01",
+  "origem": {
+    "id": "LEA-REL-01",
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "path": "skills/emails/SKILL.md",
+    "git_blob": "a9b31c79599095f66d9705090a25d877a437a7d7",
+    "sha256": "1fbd54df4c59f48408057e7db0dfb1a53c033e6a4ca5cd1927a47c51ec28d8f1",
+    "bytes": 8562
+  },
+  "adaptacao": "Leve: LGPD, estados de lifecycle e handoff Vendas.",
+  "dependencias": [
+    ".agents/product-marketing.md",
+    "references/copy-guidelines.md",
+    "references/email-types.md",
+    "references/sequence-templates.md"
+  ],
+  "recursos_executados": false
+}
