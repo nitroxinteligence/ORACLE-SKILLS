@@ -19,4 +19,3 @@ description: "Design and evaluate paid-ad experiments with hypotheses, randomiza
 
 Do not repeatedly peek and stop on a favorable result, call underpowered noise a
 winner, or generalize beyond the tested population.
-

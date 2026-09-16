@@ -1,0 +1,15 @@
+{
+  "fontes": [],
+  "campos_obrigatorios_por_fonte": [
+    "id",
+    "url_ou_caminho",
+    "autor",
+    "publicado_em_ou_desconhecido",
+    "acessado_em",
+    "tipo",
+    "escopo_lido",
+    "alegacoes_suportadas",
+    "limitacoes"
+  ],
+  "observacao": "Template vazio; não significa fonte capturada."
+}

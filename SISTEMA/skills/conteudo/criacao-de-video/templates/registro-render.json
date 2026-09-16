@@ -1,0 +1,15 @@
+{
+  "provider": null,
+  "job_or_build_id": null,
+  "status": "not_started",
+  "source_version": null,
+  "approved_attempts": 0,
+  "budget_currency": null,
+  "budget_limit": null,
+  "observed_charge": null,
+  "uploaded_assets": [],
+  "outputs": [],
+  "retry_decision": null,
+  "full_av_review": false,
+  "publication_authorized": false
+}

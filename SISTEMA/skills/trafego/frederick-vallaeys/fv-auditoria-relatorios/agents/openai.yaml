@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auditoria e relatórios de campanhas"
+  short_description: "Tráfego conectado com contexto e revisão humana"
+  default_prompt: "Use $fv-auditoria-relatorios no contexto autorizado deste projeto."

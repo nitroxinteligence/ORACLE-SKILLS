@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meta Ads — conexão oficial e permissões"
+  short_description: "Tráfego conectado com contexto e revisão humana"
+  default_prompt: "Use $fv-meta-conectar no contexto autorizado deste projeto."

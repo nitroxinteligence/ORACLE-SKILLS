@@ -1,0 +1,12 @@
+# EXEMPLO DESABILITADO — não é configuração instalada.
+# Motion é serviço remoto; OAuth, seleção de arquivos e custo exigem decisão humana.
+[mcp_servers.motion_video]
+url = "https://mcp.motion.so/mcp"
+enabled = false
+default_tools_approval_mode = "prompt"
+
+# Não há credenciais neste arquivo. Revise tools/list antes de permitir operações.
+# Não habilitar compra, billing, assinatura, recarga automática ou gerenciamento de
+# chaves em uma tarefa genérica de vídeo. Não tornar localhost público para web.
+# Resolve/Premiere/AE: gerar bloco stdio somente após descobrir instalação e caminho
+# real do executável/bridge escolhido; não inventar endpoint ou arquivo.

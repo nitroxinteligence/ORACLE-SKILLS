@@ -1,0 +1,31 @@
+{
+  "vault_root": null,
+  "date": null,
+  "authorized_scope": [],
+  "coverage": {
+    "eligible_files": null,
+    "fully_read": null,
+    "partially_read": null,
+    "excluded": null,
+    "inaccessible": null
+  },
+  "files": [
+    {
+      "path": null,
+      "read_status": "pendente",
+      "sections": [],
+      "hash": null
+    }
+  ],
+  "personal_claims": [
+    {
+      "statement": null,
+      "origin": "desconhecido",
+      "source": null,
+      "date": null,
+      "public_use_authorized": false
+    }
+  ],
+  "contradictions": [],
+  "questions": []
+}

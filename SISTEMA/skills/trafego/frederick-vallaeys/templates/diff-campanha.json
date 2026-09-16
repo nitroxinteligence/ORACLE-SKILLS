@@ -1,0 +1,36 @@
+{
+  "plan_id": null,
+  "plan_version": 1,
+  "platform": null,
+  "account_id": null,
+  "currency": null,
+  "account_timezone": null,
+  "operation": null,
+  "read_only": false,
+  "resource_ids": [],
+  "before": {},
+  "after": {},
+  "status_for_new_resources": "PAUSED",
+  "spend_limit": null,
+  "spend_period": null,
+  "effective_dates": {},
+  "validation_only": true,
+  "expected_partial_failures": false,
+  "preconditions": [],
+  "rollback": {
+    "method": null,
+    "limitations": [
+      "Gasto já ocorrido não é desfeito por rollback."
+    ]
+  },
+  "approval": {
+    "approved": false,
+    "approved_plan_sha256": null,
+    "expires_at": null
+  },
+  "execution": {
+    "attempted": false,
+    "request_id": null,
+    "outcome": "not_executed"
+  }
+}

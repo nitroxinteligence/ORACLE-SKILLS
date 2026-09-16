@@ -1,0 +1,106 @@
+{
+  "subject": {
+    "name": "platform-practices",
+    "as_of": "2026-09-16",
+    "scope": "Official platform documentation for adaptation, audits and measurement."
+  },
+  "findings": {
+    "instagram": "Use real profile material, original-content context and authorized Insights/Account Status.",
+    "linkedin": "Professional relevance matters; aggregate analytics do not identify every viewer.",
+    "x": "Views are not unique people; threads do not guarantee reach.",
+    "youtube": "Packaging and delivery should align; experiments may be inconclusive and retention needs real data.",
+    "tiktok": "Search suggestions guide research but do not prove factual claims; recommendation signals vary."
+  },
+  "sources": [
+    {
+      "id": "IG01",
+      "url": "https://creators.instagram.com/blog/tips-for-improving-your-reach",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "IG02",
+      "url": "https://creators.instagram.com/blog/helping-creators-of-all-sizes-break-through",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "IG03",
+      "url": "https://creators.instagram.com/blog/recommendations-and-originality",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "YT01",
+      "url": "https://support.google.com/youtube/answer/16559650?hl=en",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "YT02",
+      "url": "https://support.google.com/youtube/answer/16391400?hl=en",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "YT03",
+      "url": "https://support.google.com/youtube/answer/9314415?co=GENIE.Platform%3DDesktop&hl=en",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "YT04",
+      "url": "https://support.google.com/youtube/answer/12220281",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "TT01",
+      "url": "https://support.tiktok.com/en/using-tiktok/growing-your-audience/creator-search-insights",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "TT02",
+      "url": "https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "LI01",
+      "url": "https://www.linkedin.com/blog/engineering/feed/engineering-the-next-generation-of-linkedins-feed",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "LI02",
+      "url": "https://www.linkedin.com/blog/engineering/trust-and-safety/privacy-preserving-single-post-analytics",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "X01",
+      "url": "https://help.x.com/en/using-x/view-counts",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "X02",
+      "url": "https://help.x.com/en/using-x/create-a-thread",
+      "accessed": "2026-09-16"
+    }
+  ],
+  "counterevidence": [
+    "Public profiles do not reveal private retention or conversion",
+    "No fixed algorithm weights were established",
+    "Organic and paid distribution are different contexts"
+  ],
+  "recommendations": [
+    "Label public versus authorized-data audits",
+    "Recheck mutable format limits at execution",
+    "Record denominators and comparable cohorts"
+  ],
+  "coverage": {
+    "not_performed": [
+      "Authenticated user-profile audit",
+      "Publication",
+      "Live analytics test"
+    ],
+    "access": "Direct pages and indexed excerpts are distinguished in the source registry."
+  },
+  "confidence": {
+    "documentation": "High for the narrow documented claims",
+    "account_availability": "[uncertain] User-specific feature availability was not tested."
+  },
+  "uncertain": [
+    "confidence.account_availability"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "periodo": null,
+  "comparacao": null,
+  "moeda": null,
+  "fuso": null,
+  "atribuicao": null,
+  "fontes": [],
+  "cobertura": null,
+  "dados": [],
+  "observacoes": [],
+  "hipoteses": [],
+  "recomendacoes_nao_executadas": [],
+  "operacoes_realmente_executadas": [],
+  "incertezas": []
+}

@@ -1,0 +1,27 @@
+{
+  "project_id": null,
+  "source_project": null,
+  "working_copy": null,
+  "timeline": null,
+  "source_media": [],
+  "approved_script_version": null,
+  "reference_roles": [],
+  "cuts": [],
+  "time_unit": "seconds; convert explicitly to tool unit",
+  "broll": [],
+  "captions": {
+    "language": null,
+    "approved_text": null
+  },
+  "audio": {},
+  "color": {},
+  "output_spec": {},
+  "remote_uploads": [],
+  "paid_calls": [],
+  "approval": {
+    "approved": false,
+    "approved_plan_sha256": null
+  },
+  "rollback": null,
+  "status": "draft"
+}

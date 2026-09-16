@@ -1,0 +1,15 @@
+{
+  "hipotese": null,
+  "plataforma_e_conta": null,
+  "variavel": null,
+  "controle": null,
+  "publico_e_periodo": null,
+  "metrica_primaria": null,
+  "metricas_guardrail": [],
+  "orcamento_proposto": null,
+  "dados_e_lag": null,
+  "criterio_de_parada": null,
+  "restricoes_de_inferencia": [],
+  "aprovado": false,
+  "executado": false
+}

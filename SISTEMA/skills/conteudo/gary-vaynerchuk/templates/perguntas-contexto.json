@@ -1,0 +1,182 @@
+[
+  {
+    "id": "Q01",
+    "group": "Objetivo",
+    "question": "Que mudança concreta você quer produzir com o conteúdo?",
+    "field": "objetivo"
+  },
+  {
+    "id": "Q02",
+    "group": "Objetivo",
+    "question": "Qual resultado é prioritário: reconhecimento, relacionamento, demanda, contratação, venda ou outro?",
+    "field": "resultado-prioritario"
+  },
+  {
+    "id": "Q03",
+    "group": "Objetivo",
+    "question": "Qual oferta, projeto ou ideia o conteúdo deve apoiar e qual não deve promover?",
+    "field": "oferta"
+  },
+  {
+    "id": "Q04",
+    "group": "Objetivo",
+    "question": "Que ação faz sentido a pessoa tomar depois do conteúdo?",
+    "field": "cta"
+  },
+  {
+    "id": "Q05",
+    "group": "Objetivo",
+    "question": "Como você reconhecerá progresso sem depender apenas de seguidores?",
+    "field": "sucesso"
+  },
+  {
+    "id": "Q06",
+    "group": "Público",
+    "question": "Quem você quer alcançar e em qual situação essa pessoa está?",
+    "field": "publico"
+  },
+  {
+    "id": "Q07",
+    "group": "Público",
+    "question": "Como ela descreve o problema nas próprias palavras? Há evidência autorizada?",
+    "field": "linguagem-real"
+  },
+  {
+    "id": "Q08",
+    "group": "Público",
+    "question": "O que ela já tentou, sabe ou acredita sobre o assunto?",
+    "field": "conhecimento-previo"
+  },
+  {
+    "id": "Q09",
+    "group": "Público",
+    "question": "Quais dúvidas e objeções impedem a próxima ação?",
+    "field": "objecoes"
+  },
+  {
+    "id": "Q10",
+    "group": "Público",
+    "question": "Que pessoas ou demandas você não quer atrair?",
+    "field": "antipublico"
+  },
+  {
+    "id": "Q11",
+    "group": "Autoridade",
+    "question": "Quais experiências e resultados profissionais você consegue comprovar?",
+    "field": "provas"
+  },
+  {
+    "id": "Q12",
+    "group": "Autoridade",
+    "question": "Que processo ou aprendizado atual pode ser documentado sem fingir domínio?",
+    "field": "processo-real"
+  },
+  {
+    "id": "Q13",
+    "group": "Autoridade",
+    "question": "Onde você tem opinião própria e qual experiência ou evidência a sustenta?",
+    "field": "ponto-de-vista"
+  },
+  {
+    "id": "Q14",
+    "group": "Autoridade",
+    "question": "Quais histórias pessoais você autoriza usar e quais devem permanecer privadas?",
+    "field": "consentimento"
+  },
+  {
+    "id": "Q15",
+    "group": "Autoridade",
+    "question": "Quais clientes, pessoas, números ou informações não podem ser identificados?",
+    "field": "confidencialidade"
+  },
+  {
+    "id": "Q16",
+    "group": "Voz",
+    "question": "Quais conteúdos seus representam bem sua voz, e por quê?",
+    "field": "exemplos-voz"
+  },
+  {
+    "id": "Q17",
+    "group": "Voz",
+    "question": "Que linguagem, postura ou promessa não combina com você?",
+    "field": "limites-voz"
+  },
+  {
+    "id": "Q18",
+    "group": "Voz",
+    "question": "Quais criadores ou marcas são referência e qual característica específica você aprecia?",
+    "field": "referencias"
+  },
+  {
+    "id": "Q19",
+    "group": "Voz",
+    "question": "Que diferença sua deve ser preservada em relação a essas referências?",
+    "field": "diferenciacao"
+  },
+  {
+    "id": "Q20",
+    "group": "Voz",
+    "question": "Que idioma, nível técnico, tom e acessibilidade seu público precisa?",
+    "field": "linguagem"
+  },
+  {
+    "id": "Q21",
+    "group": "Operação",
+    "question": "Quanto tempo você consegue dedicar de forma sustentável à produção e revisão?",
+    "field": "capacidade"
+  },
+  {
+    "id": "Q22",
+    "group": "Operação",
+    "question": "Quem participa de pesquisa, gravação, edição, design, aprovação e atendimento?",
+    "field": "responsaveis"
+  },
+  {
+    "id": "Q23",
+    "group": "Operação",
+    "question": "Você prefere escrever, gravar, conversar, demonstrar ou combinar formatos?",
+    "field": "formatos"
+  },
+  {
+    "id": "Q24",
+    "group": "Operação",
+    "question": "Quais equipamentos, materiais, arquivos e ativos de marca já existem e podem ser usados?",
+    "field": "ativos"
+  },
+  {
+    "id": "Q25",
+    "group": "Operação",
+    "question": "Qual frequência e quais compromissos reais já ocupam seu calendário?",
+    "field": "cadencia"
+  },
+  {
+    "id": "Q26",
+    "group": "Histórico",
+    "question": "Em quais perfis e canais você publica, e quais são prioritários?",
+    "field": "canais"
+  },
+  {
+    "id": "Q27",
+    "group": "Histórico",
+    "question": "Quais peças recentes considera boas ou ruins e que dados permitem compará-las?",
+    "field": "historico"
+  },
+  {
+    "id": "Q28",
+    "group": "Histórico",
+    "question": "Como funciona o processo atual da ideia à publicação, e onde ele trava?",
+    "field": "processo"
+  },
+  {
+    "id": "Q29",
+    "group": "Histórico",
+    "question": "Quais métricas, exportações ou capturas você autoriza analisar, e de qual período?",
+    "field": "dados"
+  },
+  {
+    "id": "Q30",
+    "group": "Histórico",
+    "question": "Quem aprova diagnóstico, copy, visual e publicação, e o que torna uma peça inaceitável?",
+    "field": "aprovacao"
+  }
+]

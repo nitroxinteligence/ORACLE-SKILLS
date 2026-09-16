@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "specialist": "gary-vaynerchuk",
+  "department": "conteudo",
+  "as_of": "2026-09-16",
+  "activation": "not-performed",
+  "oracle_ui": "existing-discovery-and-drilldown-defects",
+  "skills": [
+    {
+      "id": "CON-GV-01",
+      "slug": "gary-orquestracao",
+      "path": "gary-orquestracao/SKILL.md"
+    },
+    {
+      "id": "CON-GV-02",
+      "slug": "gary-contexto-vault",
+      "path": "gary-contexto-vault/SKILL.md"
+    },
+    {
+      "id": "CON-GV-03",
+      "slug": "gary-entrevista",
+      "path": "gary-entrevista/SKILL.md"
+    },
+    {
+      "id": "CON-GV-04",
+      "slug": "gary-posicionamento",
+      "path": "gary-posicionamento/SKILL.md"
+    },
+    {
+      "id": "CON-GV-05",
+      "slug": "gary-estrategia",
+      "path": "gary-estrategia/SKILL.md"
+    },
+    {
+      "id": "CON-GV-06",
+      "slug": "gary-planejamento",
+      "path": "gary-planejamento/SKILL.md"
+    },
+    {
+      "id": "CON-GV-07",
+      "slug": "gary-pesquisa-conteudo",
+      "path": "gary-pesquisa-conteudo/SKILL.md"
+    },
+    {
+      "id": "CON-GV-08",
+      "slug": "gary-pesquisa-aprofundada",
+      "path": "gary-pesquisa-aprofundada/SKILL.md"
+    },
+    {
+      "id": "CON-GV-09",
+      "slug": "gary-ideacao",
+      "path": "gary-ideacao/SKILL.md"
+    },
+    {
+      "id": "CON-GV-10",
+      "slug": "gary-hooks",
+      "path": "gary-hooks/SKILL.md"
+    },
+    {
+      "id": "CON-GV-11",
+      "slug": "gary-copywriting",
+      "path": "gary-copywriting/SKILL.md"
+    },
+    {
+      "id": "CON-GV-12",
+      "slug": "gary-roteiros-video",
+      "path": "gary-roteiros-video/SKILL.md"
+    },
+    {
+      "id": "CON-GV-13",
+      "slug": "gary-instagram-carrossel",
+      "path": "gary-instagram-carrossel/SKILL.md"
+    },
+    {
+      "id": "CON-GV-14",
+      "slug": "gary-instagram-reels-stories",
+      "path": "gary-instagram-reels-stories/SKILL.md"
+    },
+    {
+      "id": "CON-GV-15",
+      "slug": "gary-linkedin-conteudo",
+      "path": "gary-linkedin-conteudo/SKILL.md"
+    },
+    {
+      "id": "CON-GV-16",
+      "slug": "gary-linkedin-video",
+      "path": "gary-linkedin-video/SKILL.md"
+    },
+    {
+      "id": "CON-GV-17",
+      "slug": "gary-x-conteudo",
+      "path": "gary-x-conteudo/SKILL.md"
+    },
+    {
+      "id": "CON-GV-18",
+      "slug": "gary-x-video",
+      "path": "gary-x-video/SKILL.md"
+    },
+    {
+      "id": "CON-GV-19",
+      "slug": "gary-youtube-longo",
+      "path": "gary-youtube-longo/SKILL.md"
+    },
+    {
+      "id": "CON-GV-20",
+      "slug": "gary-youtube-shorts",
+      "path": "gary-youtube-shorts/SKILL.md"
+    },
+    {
+      "id": "CON-GV-21",
+      "slug": "gary-tiktok",
+      "path": "gary-tiktok/SKILL.md"
+    },
+    {
+      "id": "CON-GV-22",
+      "slug": "gary-auditoria-instagram",
+      "path": "gary-auditoria-instagram/SKILL.md"
+    },
+    {
+      "id": "CON-GV-23",
+      "slug": "gary-auditoria-linkedin",
+      "path": "gary-auditoria-linkedin/SKILL.md"
+    },
+    {
+      "id": "CON-GV-24",
+      "slug": "gary-auditoria-youtube",
+      "path": "gary-auditoria-youtube/SKILL.md"
+    },
+    {
+      "id": "CON-GV-25",
+      "slug": "gary-auditoria-x",
+      "path": "gary-auditoria-x/SKILL.md"
+    },
+    {
+      "id": "CON-GV-26",
+      "slug": "gary-auditoria-tiktok",
+      "path": "gary-auditoria-tiktok/SKILL.md"
+    },
+    {
+      "id": "CON-GV-27",
+      "slug": "gary-reaproveitamento",
+      "path": "gary-reaproveitamento/SKILL.md"
+    },
+    {
+      "id": "CON-GV-28",
+      "slug": "gary-comunidade",
+      "path": "gary-comunidade/SKILL.md"
+    },
+    {
+      "id": "CON-GV-29",
+      "slug": "gary-metricas-experimentos",
+      "path": "gary-metricas-experimentos/SKILL.md"
+    },
+    {
+      "id": "CON-GV-30",
+      "slug": "gary-direcao-visual",
+      "path": "gary-direcao-visual/SKILL.md"
+    },
+    {
+      "id": "CON-GV-31",
+      "slug": "gary-imagens-openai",
+      "path": "gary-imagens-openai/SKILL.md"
+    },
+    {
+      "id": "CON-GV-32",
+      "slug": "gary-carrossel-visual",
+      "path": "gary-carrossel-visual/SKILL.md"
+    },
+    {
+      "id": "CON-GV-33",
+      "slug": "gary-thumbnails",
+      "path": "gary-thumbnails/SKILL.md"
+    },
+    {
+      "id": "CON-GV-34",
+      "slug": "gary-revisao-final",
+      "path": "gary-revisao-final/SKILL.md"
+    }
+  ]
+}

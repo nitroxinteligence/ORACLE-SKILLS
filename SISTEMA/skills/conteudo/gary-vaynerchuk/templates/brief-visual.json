@@ -1,0 +1,27 @@
+{
+  "message": null,
+  "placement": null,
+  "dimensions_verified": null,
+  "references": [
+    {
+      "id": null,
+      "actual_path_or_url": null,
+      "role": null,
+      "availability": null,
+      "approved_attributes": [],
+      "avoid_attributes": [],
+      "rights_info": null
+    }
+  ],
+  "exact_copy": [],
+  "composition": null,
+  "palette": [],
+  "typography": null,
+  "invariants": [],
+  "exclusions": [],
+  "is_edit": false,
+  "edit_target": null,
+  "series_contract": null,
+  "file_contract": null,
+  "approval": null
+}

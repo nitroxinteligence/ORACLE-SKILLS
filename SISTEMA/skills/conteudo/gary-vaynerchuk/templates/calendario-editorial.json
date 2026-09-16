@@ -1,0 +1,20 @@
+{
+  "period": null,
+  "timezone": null,
+  "capacity_approved": null,
+  "items": [
+    {
+      "id": null,
+      "date": null,
+      "platform": null,
+      "format": null,
+      "thesis": null,
+      "proofs": [],
+      "owner": null,
+      "dependencies": [],
+      "status": "ideia",
+      "estimated_effort": null,
+      "metric": null
+    }
+  ]
+}

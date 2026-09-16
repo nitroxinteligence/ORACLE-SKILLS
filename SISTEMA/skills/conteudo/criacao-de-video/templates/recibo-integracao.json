@@ -1,0 +1,25 @@
+{
+  "versao": 1,
+  "estado": "documentado",
+  "host": null,
+  "sistema": null,
+  "aplicativo_ou_plataforma": null,
+  "versao_software": null,
+  "repositorio_e_pin": null,
+  "transporte": null,
+  "conta_ou_projeto_alias": null,
+  "escopo_autorizado": [],
+  "credencial_alias": null,
+  "segredos_incluidos": false,
+  "ferramentas_descobertas": [],
+  "teste_somente_leitura": {
+    "executado": false,
+    "evidencia": null
+  },
+  "teste_controlado": {
+    "executado": false,
+    "evidencia": null
+  },
+  "revogacao": null,
+  "pendencias": []
+}

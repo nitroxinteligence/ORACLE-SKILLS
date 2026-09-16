@@ -1,0 +1,21 @@
+# EXEMPLO DESABILITADO — não é configuração instalada.
+# Ler guia, revisar dependências, preparar acesso privado e obter autorização.
+# Adaptar só o bloco escolhido à versão do host; preservar servidores existentes.
+
+[mcp_servers.google_ads_readonly]
+command = "pipx"
+args = ["run", "--spec", "git+https://github.com/googleads/google-ads-mcp.git@7a40eae9655194a84d5291c63af817bb20d02ea8", "google-ads-mcp"]
+env_vars = ["GOOGLE_PROJECT_ID", "GOOGLE_APPLICATION_CREDENTIALS", "GOOGLE_ADS_LOGIN_CUSTOMER_ID"]
+enabled = false
+default_tools_approval_mode = "prompt"
+
+# Opcional: fornecedor TERCEIRO, não oficial Google/Meta.
+# Google exige avaliação da política/arquitetura antes deste caminho.
+[mcp_servers.adspirer_opcional]
+url = "https://mcp.adspirer.com/mcp"
+enabled = false
+default_tools_approval_mode = "prompt"
+
+# A CLI Meta `meta` NÃO fala MCP por simplesmente estar instalada.
+# Não colocar `meta` como command de um servidor MCP inventado.
+# O contrato público completo do MCP oficial Meta ficou pendente de acesso.

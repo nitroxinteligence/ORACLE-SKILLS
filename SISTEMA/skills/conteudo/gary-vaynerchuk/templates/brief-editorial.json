@@ -1,0 +1,20 @@
+{
+  "id": null,
+  "version": 1,
+  "status": "brief-pendente",
+  "objective": null,
+  "success_metric": null,
+  "audience": null,
+  "audience_situation": null,
+  "thesis": null,
+  "offer": null,
+  "platform": null,
+  "format": null,
+  "voice_examples": [],
+  "claims": [],
+  "proofs": [],
+  "privacy_exclusions": [],
+  "cta": null,
+  "capacity": null,
+  "approvals": []
+}

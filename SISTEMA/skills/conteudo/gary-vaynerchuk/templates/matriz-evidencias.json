@@ -1,0 +1,21 @@
+{
+  "question": null,
+  "as_of": null,
+  "claims": [
+    {
+      "claim": null,
+      "kind": null,
+      "source_url": null,
+      "location": null,
+      "access_level": null,
+      "scope": null,
+      "counterevidence": [],
+      "confidence": null,
+      "allowed_wording": null,
+      "blocked_wording": null
+    }
+  ],
+  "queries": [],
+  "access_failures": [],
+  "limits": []
+}

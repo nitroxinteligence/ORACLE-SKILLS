@@ -1,12 +1,12 @@
 # Acervo Oracle
 
-A branch `main` contém **205 skills em nove departamentos**, 17 prompts e 30 tutoriais. A distribuição `acervo-2026.09.13.1` permanece com 179 skills até a próxima release. Requer Oracle 0.3.3 ou posterior.
+A branch `main` contém **261 skills em dez departamentos**, 17 prompts e 30 tutoriais. A distribuição `acervo-2026.09.13.1` permanece com 179 skills até a próxima release. Requer Oracle 0.3.3 ou posterior.
 
 ## Organização
 
 `SISTEMA/skills/<departamento>/<especialista>/<skill>/SKILL.md`
 
-Departamentos: Código, Conversão, Entrega, Leads, Marketing, Oferta, Sistemas, Tráfego e Vendas. Em Código, `frontend` reúne as skills de frontend, incluindo Impeccable e Richard Design.
+Departamentos: Código, Conteúdo, Conversão, Entrega, Leads, Marketing, Oferta, Sistemas, Tráfego e Vendas. Em Código, `frontend` reúne as skills de frontend, incluindo Impeccable e Richard Design. Conteúdo inclui Gary Vaynerchuk e Criação de vídeo; Tráfego mantém Ann Handley e expande Frederick Vallaeys com operação conectada e supervisionada para Meta Ads e Google Ads.
 
 `SISTEMA/recursos-skills` contém os procedimentos, scripts, referências e perfis públicos compartilhados pelas skills. Mantenha essa pasta junto do acervo para preservar os links e as dependências. As notas pessoais do vault não fazem parte desta distribuição.
 

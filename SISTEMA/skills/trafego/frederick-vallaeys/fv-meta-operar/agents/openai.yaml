@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meta Ads — operar campanhas sob aprovação"
+  short_description: "Tráfego conectado com contexto e revisão humana"
+  default_prompt: "Use $fv-meta-operar no contexto autorizado deste projeto."

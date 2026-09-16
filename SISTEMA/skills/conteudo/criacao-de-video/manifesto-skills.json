@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "created": "2026-09-16",
+  "specialist": "criacao-de-video",
+  "new_skills": [
+    "video-orquestracao",
+    "video-entrevista",
+    "vibeediting-davinci-resolve",
+    "vibeediting-capcut",
+    "vibeediting-premiere",
+    "vibeediting-after-effects",
+    "vibeediting-motion-mcp",
+    "vibeediting-hipit",
+    "vibeediting-computer-use",
+    "video-revisao-exportacao"
+  ],
+  "identity": "papel funcional, não pessoa real",
+  "runtime_status": "not_installed_or_connected_by_this_task"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Otimização supervisionada e experimentos"
+  short_description: "Tráfego conectado com contexto e revisão humana"
+  default_prompt: "Use $fv-otimizacao no contexto autorizado deste projeto."

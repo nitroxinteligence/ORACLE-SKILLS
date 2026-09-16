@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "promise": null,
+  "pages": [
+    {
+      "number": 1,
+      "function": "capa",
+      "title": null,
+      "body": null,
+      "proofs": [],
+      "visual_note": null
+    }
+  ],
+  "caption": null,
+  "cta": null,
+  "copy_approval": null,
+  "visual_approval": null
+}

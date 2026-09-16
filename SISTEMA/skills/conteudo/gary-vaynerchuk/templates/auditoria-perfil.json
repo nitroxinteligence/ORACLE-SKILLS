@@ -1,0 +1,21 @@
+{
+  "platform": null,
+  "url": null,
+  "date": null,
+  "objective": null,
+  "access_level": null,
+  "sample_selection": null,
+  "sample": [],
+  "findings": [
+    {
+      "observation": null,
+      "evidence": null,
+      "hypothesis": null,
+      "test": null,
+      "priority": null
+    }
+  ],
+  "private_metrics_available": false,
+  "limits": [],
+  "profile_copy_proposed": null
+}

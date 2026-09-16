@@ -193,5 +193,87 @@ review_after: null
 | Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/work-unit-commits/SKILL|work-unit-commits]] |
 | Código | Engenheiro de software | [[SISTEMA/skills/codigo/engenheiro-de-software/work-unit-commits-distribuicao/SKILL|work-unit-commits-distribuicao]] |
 | Código | Frontend | [[SISTEMA/skills/codigo/frontend/richard-design/SKILL|richard-design]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/01-getting-started/ask-matt/SKILL|ask-matt]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/01-getting-started/setup-matt-pocock-skills/SKILL|setup-matt-pocock-skills]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/02-main-flow/code-review/SKILL|code-review]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/02-main-flow/grill-with-docs/SKILL|grill-with-docs]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/02-main-flow/implement/SKILL|implement]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/02-main-flow/to-spec/SKILL|to-spec]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/02-main-flow/to-tickets/SKILL|to-tickets]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/03-shaping/prototype/SKILL|prototype]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/03-shaping/research/SKILL|research]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/03-shaping/wayfinder/SKILL|wayfinder]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/04-upkeep/diagnosing-bugs/SKILL|diagnosing-bugs]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/04-upkeep/improve-codebase-architecture/SKILL|improve-codebase-architecture]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/04-upkeep/resolving-merge-conflicts/SKILL|resolving-merge-conflicts]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/04-upkeep/triage/SKILL|triage]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/04-upkeep/wizard/SKILL|wizard]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/05-productivity/grill-me/SKILL|grill-me]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/05-productivity/handoff/SKILL|handoff]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/05-productivity/teach/SKILL|teach]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/05-productivity/to-questionnaire/SKILL|to-questionnaire]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/05-productivity/wait-what/SKILL|wait-what]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/05-productivity/writing-for-agents/SKILL|writing-for-agents]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/06-reference/codebase-design/SKILL|codebase-design]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/06-reference/domain-modeling/SKILL|domain-modeling]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/06-reference/grilling/SKILL|grilling]] |
+| Código | Matt Pocock | [[SISTEMA/skills/codigo/matt-pocock/06-reference/tdd/SKILL|tdd]] |
+| Marketing | Designer de apresentações | [[SISTEMA/skills/marketing/designer-de-apresentacoes/slides/plugins/frontend-slides/skills/frontend-slides/SKILL|frontend-slides]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-acessos-revogacao/SKILL|fv-acessos-revogacao]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-auditoria-relatorios/SKILL|fv-auditoria-relatorios]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-conector-terceiros/SKILL|fv-conector-terceiros]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-criativos-handoff/SKILL|fv-criativos-handoff]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-google-conectar/SKILL|fv-google-conectar]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-google-operar/SKILL|fv-google-operar]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-mensuracao/SKILL|fv-mensuracao]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-meta-conectar/SKILL|fv-meta-conectar]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-meta-operar/SKILL|fv-meta-operar]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-otimizacao/SKILL|fv-otimizacao]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-trafego-entrevista/SKILL|fv-trafego-entrevista]] |
+| Tráfego | Frederick Vallaeys — Mídia paga | [[SISTEMA/skills/trafego/frederick-vallaeys/fv-trafego-orquestracao/SKILL|fv-trafego-orquestracao]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-auditoria-instagram/SKILL|gary-auditoria-instagram]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-auditoria-linkedin/SKILL|gary-auditoria-linkedin]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-auditoria-tiktok/SKILL|gary-auditoria-tiktok]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-auditoria-x/SKILL|gary-auditoria-x]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-auditoria-youtube/SKILL|gary-auditoria-youtube]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-carrossel-visual/SKILL|gary-carrossel-visual]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-comunidade/SKILL|gary-comunidade]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-contexto-vault/SKILL|gary-contexto-vault]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-copywriting/SKILL|gary-copywriting]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-direcao-visual/SKILL|gary-direcao-visual]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-entrevista/SKILL|gary-entrevista]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-estrategia/SKILL|gary-estrategia]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-hooks/SKILL|gary-hooks]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-ideacao/SKILL|gary-ideacao]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-imagens-openai/SKILL|gary-imagens-openai]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-instagram-carrossel/SKILL|gary-instagram-carrossel]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-instagram-reels-stories/SKILL|gary-instagram-reels-stories]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-linkedin-conteudo/SKILL|gary-linkedin-conteudo]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-linkedin-video/SKILL|gary-linkedin-video]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-metricas-experimentos/SKILL|gary-metricas-experimentos]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-orquestracao/SKILL|gary-orquestracao]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-pesquisa-aprofundada/SKILL|gary-pesquisa-aprofundada]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-pesquisa-conteudo/SKILL|gary-pesquisa-conteudo]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-planejamento/SKILL|gary-planejamento]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-posicionamento/SKILL|gary-posicionamento]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-reaproveitamento/SKILL|gary-reaproveitamento]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-revisao-final/SKILL|gary-revisao-final]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-roteiros-video/SKILL|gary-roteiros-video]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-thumbnails/SKILL|gary-thumbnails]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-tiktok/SKILL|gary-tiktok]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-x-conteudo/SKILL|gary-x-conteudo]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-x-video/SKILL|gary-x-video]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-youtube-longo/SKILL|gary-youtube-longo]] |
+| Conteúdo | Gary Vaynerchuk — Conteúdo | [[SISTEMA/skills/conteudo/gary-vaynerchuk/gary-youtube-shorts/SKILL|gary-youtube-shorts]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/vibeediting-after-effects/SKILL|vibeediting-after-effects]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/vibeediting-capcut/SKILL|vibeediting-capcut]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/vibeediting-computer-use/SKILL|vibeediting-computer-use]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/vibeediting-davinci-resolve/SKILL|vibeediting-davinci-resolve]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/vibeediting-hypit/SKILL|vibeediting-hipit]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/vibeediting-motion-mcp/SKILL|vibeediting-motion-mcp]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/vibeediting-premiere/SKILL|vibeediting-premiere]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/video-entrevista/SKILL|video-entrevista]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/video-orquestracao/SKILL|video-orquestracao]] |
+| Conteúdo | Criação de vídeo | [[SISTEMA/skills/conteudo/criacao-de-video/video-revisao-exportacao/SKILL|video-revisao-exportacao]] |
 
 [[SISTEMA/skills/README|Biblioteca]]

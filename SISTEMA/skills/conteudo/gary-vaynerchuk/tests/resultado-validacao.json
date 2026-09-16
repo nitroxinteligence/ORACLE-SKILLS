@@ -1,0 +1,251 @@
+{
+  "as_of": "2026-09-16",
+  "environment": "native-obsidian-vault",
+  "structural": {
+    "scope": "Native vault package: structure and link existence, not semantic truth, LLM behavior or app integration.",
+    "skills": 34,
+    "role_contracts": 14,
+    "source_cards": 49,
+    "notes_checked": 133,
+    "local_links_checked": 1242,
+    "errors": [],
+    "passed": true
+  },
+  "skill_validation": [
+    {
+      "name": "gary-orquestracao",
+      "id": "CON-GV-01",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-contexto-vault",
+      "id": "CON-GV-02",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-entrevista",
+      "id": "CON-GV-03",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-posicionamento",
+      "id": "CON-GV-04",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-estrategia",
+      "id": "CON-GV-05",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-planejamento",
+      "id": "CON-GV-06",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-pesquisa-conteudo",
+      "id": "CON-GV-07",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-pesquisa-aprofundada",
+      "id": "CON-GV-08",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-ideacao",
+      "id": "CON-GV-09",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-hooks",
+      "id": "CON-GV-10",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-copywriting",
+      "id": "CON-GV-11",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-roteiros-video",
+      "id": "CON-GV-12",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-instagram-carrossel",
+      "id": "CON-GV-13",
+      "valid": true,
+      "direct_source_cards": 5
+    },
+    {
+      "name": "gary-instagram-reels-stories",
+      "id": "CON-GV-14",
+      "valid": true,
+      "direct_source_cards": 5
+    },
+    {
+      "name": "gary-linkedin-conteudo",
+      "id": "CON-GV-15",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-linkedin-video",
+      "id": "CON-GV-16",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-x-conteudo",
+      "id": "CON-GV-17",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-x-video",
+      "id": "CON-GV-18",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-youtube-longo",
+      "id": "CON-GV-19",
+      "valid": true,
+      "direct_source_cards": 5
+    },
+    {
+      "name": "gary-youtube-shorts",
+      "id": "CON-GV-20",
+      "valid": true,
+      "direct_source_cards": 5
+    },
+    {
+      "name": "gary-tiktok",
+      "id": "CON-GV-21",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-auditoria-instagram",
+      "id": "CON-GV-22",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-auditoria-linkedin",
+      "id": "CON-GV-23",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-auditoria-youtube",
+      "id": "CON-GV-24",
+      "valid": true,
+      "direct_source_cards": 5
+    },
+    {
+      "name": "gary-auditoria-x",
+      "id": "CON-GV-25",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-auditoria-tiktok",
+      "id": "CON-GV-26",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-reaproveitamento",
+      "id": "CON-GV-27",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-comunidade",
+      "id": "CON-GV-28",
+      "valid": true,
+      "direct_source_cards": 3
+    },
+    {
+      "name": "gary-metricas-experimentos",
+      "id": "CON-GV-29",
+      "valid": true,
+      "direct_source_cards": 5
+    },
+    {
+      "name": "gary-direcao-visual",
+      "id": "CON-GV-30",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-imagens-openai",
+      "id": "CON-GV-31",
+      "valid": true,
+      "direct_source_cards": 5
+    },
+    {
+      "name": "gary-carrossel-visual",
+      "id": "CON-GV-32",
+      "valid": true,
+      "direct_source_cards": 4
+    },
+    {
+      "name": "gary-thumbnails",
+      "id": "CON-GV-33",
+      "valid": true,
+      "direct_source_cards": 5
+    },
+    {
+      "name": "gary-revisao-final",
+      "id": "CON-GV-34",
+      "valid": true,
+      "direct_source_cards": 5
+    }
+  ],
+  "gate_suite": {
+    "unittest_methods": 3,
+    "workflow_cases": 27,
+    "invalid_input_checks": 3,
+    "privacy_and_unsupported_claim_checks": 2,
+    "passed": true,
+    "output": "test_27_workflow_scenarios (test_gates.GateTests) ... ok\ntest_invalid_inputs (test_gates.GateTests) ... ok\ntest_privacy_and_unsupported_claims (test_gates.GateTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK"
+  },
+  "research_field_validation": [
+    {
+      "file": "SISTEMA/skills/conteudo/gary-vaynerchuk/docs/research/comparative-specialists.json",
+      "field_validation": "passed"
+    },
+    {
+      "file": "SISTEMA/skills/conteudo/gary-vaynerchuk/docs/research/platform-practices.json",
+      "field_validation": "passed"
+    },
+    {
+      "file": "REVIEWS/pesquisa-conteudo-20260916/results/openai-images.json",
+      "field_validation": "passed"
+    },
+    {
+      "file": "REVIEWS/pesquisa-conteudo-20260916/results/oracle-integration.json",
+      "field_validation": "passed"
+    }
+  ],
+  "semantic_review": "Prime read selected critical skills, shared guides and source cards; not a controlled live-host LLM benchmark.",
+  "oracle_ui": "Blocked by existing discovery and nested drilldown defects; no application or configuration change.",
+  "host_activation": "Not performed",
+  "generated_images": 0,
+  "published_posts": 0
+}

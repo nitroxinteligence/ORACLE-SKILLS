@@ -1,0 +1,14 @@
+{
+  "hypothesis": null,
+  "design": "exploratory",
+  "variable": null,
+  "comparison": null,
+  "metric": null,
+  "denominator": null,
+  "guardrail": null,
+  "window": null,
+  "confounders": [],
+  "native_tool_available": null,
+  "results": null,
+  "decision": "pending"
+}

@@ -1,0 +1,18 @@
+{
+  "interface": null,
+  "model_id_if_exposed": null,
+  "generation_executed": false,
+  "edit_executed": false,
+  "files": [],
+  "brief_version": null,
+  "checks": [
+    {
+      "name": null,
+      "status": "not-run",
+      "evidence": null
+    }
+  ],
+  "critical_defects": [],
+  "approval": null,
+  "publication_executed": false
+}

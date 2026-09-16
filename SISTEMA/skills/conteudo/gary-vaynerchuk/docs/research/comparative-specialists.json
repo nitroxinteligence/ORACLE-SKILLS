@@ -1,0 +1,182 @@
+{
+  "subject": {
+    "name": "comparative-specialists",
+    "as_of": "2026-09-16",
+    "scope": "Qualitative lead selection for the requested cross-platform department."
+  },
+  "findings": {
+    "selected": "Gary Vaynerchuk",
+    "candidates": [
+      "Gary Vaynerchuk",
+      "MrBeast",
+      "Joe Pulizzi",
+      "Ann Handley",
+      "Justin Welsh",
+      "Paulo Cuenca",
+      "Alex Hormozi",
+      "Seth Godin"
+    ],
+    "rationale": "Public pillar-to-derivatives and platform-context methods are suitable for operational coordination, with capacity adjustments and separately attributed complementary expertise."
+  },
+  "sources": [
+    {
+      "id": "GV01",
+      "url": "https://garyvaynerchuk.com/biography/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV02",
+      "url": "https://garyvaynerchuk.com/the-garyvee-content-strategy-how-to-grow-and-distribute-your-brands-social-media-content/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV03",
+      "url": "https://garyvaynerchuk.com/creating-content-that-builds-your-personal-brand/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV04",
+      "url": "https://garyvaynerchuk.com/how-to-tell-a-story-on-social-media/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV05",
+      "url": "https://garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV06",
+      "url": "https://garyvaynerchuk.com/how-to-make-content-in-2023/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV07",
+      "url": "https://garyvaynerchuk.com/team-garyvee/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV08",
+      "url": "https://garyvaynerchuk.com/books/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV09",
+      "url": "https://garyvee.substack.com/p/document-dont-create",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV10",
+      "url": "https://garyvee.substack.com/p/the-new-rules-of-social-media-2026",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV11",
+      "url": "https://garyvee.substack.com/p/why-you-should-make-content-about",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV12",
+      "url": "https://garyvee.substack.com/p/stop-selling-unseen-vanilla",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV13",
+      "url": "https://garyvaynerchuk.com/garyvees-top-5-instagram-reels-of-2025/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV14",
+      "url": "https://garyvaynerchuk.com/garyvees-top-5-tiktoks-of-2025/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV15",
+      "url": "https://garyvaynerchuk.com/garyvees-top-5-youtube-shorts-of-2025/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "GV16",
+      "url": "https://nrf.com/blog/gary-vaynerchuk-on-navigating-shifts-in-social-media-marketing",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX01",
+      "url": "https://www.colinandsamir.com/resources/an-unfiltered-conversation-with-mrbeast",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX02",
+      "url": "https://aulas.asupernova.com.br/lp-osuperpoder",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX03",
+      "url": "https://learn.justinwelsh.me/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX04",
+      "url": "https://annhandley.com/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX05",
+      "url": "https://annhandley.com/everybodywrites/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX06",
+      "url": "https://www.joepulizzi.com/",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX07",
+      "url": "https://www.thetilt.com/start-here-content-entrepreneur-journey",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX08",
+      "url": "https://www.thetilt.com/audience/what-is-content-tilt",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX09",
+      "url": "https://www.acquisition.com/training/leads",
+      "accessed": "2026-09-16"
+    },
+    {
+      "id": "EX10",
+      "url": "https://seths.blog/",
+      "accessed": "2026-09-16"
+    }
+  ],
+  "counterevidence": [
+    "Unequal candidate coverage",
+    "Commercial self-reports are not causal proof",
+    "Agency-scale volume is not universally transferable",
+    "Narrower goals could justify a different lead"
+  ],
+  "recommendations": [
+    "Require context, evidence and approval",
+    "Separate author principles from original Oracle engineering",
+    "Keep complementary authors named"
+  ],
+  "coverage": {
+    "x": "Direct profile access failed; the restricted status query returned no useful posts. No timeline audit was completed.",
+    "github": "Third-party repositories were discovered; metadata did not establish official authorship or reusable licensing.",
+    "excluded": [
+      "Full books",
+      "Paid course content",
+      "All videos",
+      "Private analytics"
+    ],
+    "runtime": "Initial worker launch failures were recorded. A late visual report and an independent integration audit were subsequently read."
+  },
+  "confidence": {
+    "fit": "Moderate to high for the defined operational scope",
+    "all_time_superiority": "[uncertain] No objective universal historical ranking was established."
+  },
+  "uncertain": [
+    "confidence.all_time_superiority"
+  ]
+}

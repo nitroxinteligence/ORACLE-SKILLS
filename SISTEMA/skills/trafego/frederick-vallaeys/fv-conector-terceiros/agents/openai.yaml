@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conectores de tráfego — avaliação e conexão opcional"
+  short_description: "Tráfego conectado com contexto e revisão humana"
+  default_prompt: "Use $fv-conector-terceiros no contexto autorizado deste projeto."

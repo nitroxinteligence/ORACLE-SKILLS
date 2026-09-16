@@ -4,7 +4,7 @@ type: index
 status: active
 area: sistema
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-16
 sensitivity: internal
 sources: []
 confidence: high
@@ -23,6 +23,7 @@ Hierarquia: **departamentos → especialistas digitais → skills**.
 - [[SISTEMA/skills/sistemas/indice|Sistemas]]
 - [[SISTEMA/skills/marketing/indice|Marketing]]
 - [[SISTEMA/skills/codigo/indice|Código]]
+- [[SISTEMA/skills/conteudo/indice|Conteúdo]]
 
 Os procedimentos e dependências das coleções importadas permanecem completos em `SISTEMA/recursos-skills`. As entradas organizadas indicam o procedimento original e sua pasta de execução. Perfis humanos existentes mantidos; papéis funcionais não representam uma nova pesquisa ou clonagem de pessoas.
 

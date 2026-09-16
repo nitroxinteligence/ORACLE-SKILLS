@@ -1,0 +1,13 @@
+{
+  "from_role": null,
+  "to_role": null,
+  "task": null,
+  "scope": null,
+  "authorized_context": [],
+  "inputs": [],
+  "expected_output": null,
+  "evidence_required": [],
+  "not_authorized": [],
+  "result": null,
+  "independent_execution": false
+}
