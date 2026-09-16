@@ -1,6 +1,6 @@
 # Acervo Oracle
 
-A distribuição `acervo-2026.09.13.1` contém **179 skills em nove departamentos**, 17 prompts e 24 tutoriais. Requer Oracle 0.3.3 ou posterior.
+A branch `main` contém **205 skills em nove departamentos**, 17 prompts e 30 tutoriais. A distribuição `acervo-2026.09.13.1` permanece com 179 skills até a próxima release. Requer Oracle 0.3.3 ou posterior.
 
 ## Organização
 

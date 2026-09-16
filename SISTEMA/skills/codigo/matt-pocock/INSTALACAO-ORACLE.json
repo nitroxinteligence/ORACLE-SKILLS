@@ -1,0 +1,554 @@
+{
+  "schema_version": 2,
+  "installed_at": "2026-09-16",
+  "department": "codigo",
+  "specialist_id": "matt-pocock",
+  "specialist_name": "Matt Pocock",
+  "source_repository": "https://github.com/mattpocock/skills",
+  "source_commit": "959a8e9f1edc3adbe2f7e3054bb6fbefa6696260",
+  "catalog_source": "https://www.aihero.dev/skills",
+  "scope": "25 official catalog skills",
+  "groups": {
+    "01-getting-started": [
+      "setup-matt-pocock-skills",
+      "ask-matt"
+    ],
+    "02-main-flow": [
+      "grill-with-docs",
+      "to-spec",
+      "to-tickets",
+      "implement",
+      "code-review"
+    ],
+    "03-shaping": [
+      "wayfinder",
+      "prototype",
+      "research"
+    ],
+    "04-upkeep": [
+      "improve-codebase-architecture",
+      "diagnosing-bugs",
+      "resolving-merge-conflicts",
+      "triage",
+      "wizard"
+    ],
+    "05-productivity": [
+      "grill-me",
+      "handoff",
+      "to-questionnaire",
+      "teach",
+      "wait-what",
+      "writing-for-agents"
+    ],
+    "06-reference": [
+      "codebase-design",
+      "domain-modeling",
+      "grilling",
+      "tdd"
+    ]
+  },
+  "skill_count": 25,
+  "adapted_skill_count": 14,
+  "adaptations": [
+    "01-getting-started/setup-matt-pocock-skills/SKILL.md",
+    "01-getting-started/ask-matt/SKILL.md",
+    "02-main-flow/grill-with-docs/SKILL.md",
+    "02-main-flow/to-spec/SKILL.md",
+    "02-main-flow/to-tickets/SKILL.md",
+    "02-main-flow/implement/SKILL.md",
+    "03-shaping/wayfinder/SKILL.md",
+    "04-upkeep/improve-codebase-architecture/SKILL.md",
+    "04-upkeep/triage/SKILL.md",
+    "05-productivity/grill-me/SKILL.md",
+    "05-productivity/handoff/SKILL.md",
+    "05-productivity/to-questionnaire/SKILL.md",
+    "05-productivity/teach/SKILL.md",
+    "05-productivity/wait-what/SKILL.md"
+  ],
+  "excluded_repository_sections": [
+    "skills/in-progress",
+    "skills/misc"
+  ],
+  "files": [
+    {
+      "path": "01-getting-started/setup-matt-pocock-skills/SKILL.md",
+      "sha256": "6d45ac98243520ad673bad8078fd77eefd6a817d2a36023963b2a00096571ec3",
+      "source_path": "skills/engineering/setup-matt-pocock-skills/SKILL.md",
+      "source_sha256": "2bcd89e97777cdb705914424e39c97d5db524c8eb4eafac8120778a07774f0ec",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "01-getting-started/setup-matt-pocock-skills/agents/openai.yaml",
+      "sha256": "9527de0110541c45712319025155aeab8dc7d77c6ed6e5e83271bab1851ab939",
+      "source_path": "skills/engineering/setup-matt-pocock-skills/agents/openai.yaml",
+      "source_sha256": "9527de0110541c45712319025155aeab8dc7d77c6ed6e5e83271bab1851ab939"
+    },
+    {
+      "path": "01-getting-started/setup-matt-pocock-skills/domain.md",
+      "sha256": "edc6d6131fdffc4b7135704f5262124fc43355c95f61b7399dc5a4db643e28ca",
+      "source_path": "skills/engineering/setup-matt-pocock-skills/domain.md",
+      "source_sha256": "edc6d6131fdffc4b7135704f5262124fc43355c95f61b7399dc5a4db643e28ca"
+    },
+    {
+      "path": "01-getting-started/setup-matt-pocock-skills/issue-tracker-github.md",
+      "sha256": "afd6852a80185217bd28aa5cbe456bef1e85be25be7bd1fba382d5b8ee428325",
+      "source_path": "skills/engineering/setup-matt-pocock-skills/issue-tracker-github.md",
+      "source_sha256": "afd6852a80185217bd28aa5cbe456bef1e85be25be7bd1fba382d5b8ee428325"
+    },
+    {
+      "path": "01-getting-started/setup-matt-pocock-skills/issue-tracker-gitlab.md",
+      "sha256": "ea175f73d193b3f55819c0ed9bbccf6ee0e70ad8f928e3d7607596c53380acd6",
+      "source_path": "skills/engineering/setup-matt-pocock-skills/issue-tracker-gitlab.md",
+      "source_sha256": "ea175f73d193b3f55819c0ed9bbccf6ee0e70ad8f928e3d7607596c53380acd6"
+    },
+    {
+      "path": "01-getting-started/setup-matt-pocock-skills/issue-tracker-local.md",
+      "sha256": "7dcda20a2eb4bdc89b95d1143423c0691309921cadae3132e6424f371030506e",
+      "source_path": "skills/engineering/setup-matt-pocock-skills/issue-tracker-local.md",
+      "source_sha256": "7dcda20a2eb4bdc89b95d1143423c0691309921cadae3132e6424f371030506e"
+    },
+    {
+      "path": "01-getting-started/setup-matt-pocock-skills/triage-labels.md",
+      "sha256": "4f53c9b40ce2651e3611aa090eaedbd6dbc9b71ef8c5f7e65eac0d8263190d0d",
+      "source_path": "skills/engineering/setup-matt-pocock-skills/triage-labels.md",
+      "source_sha256": "4f53c9b40ce2651e3611aa090eaedbd6dbc9b71ef8c5f7e65eac0d8263190d0d"
+    },
+    {
+      "path": "01-getting-started/ask-matt/PHASE-BOUNDARIES.md",
+      "sha256": "a8aa20158609ef39e2b308b6ba0660c91066838d07a867202e63a7744a88a3ed",
+      "source_path": "skills/engineering/ask-matt/PHASE-BOUNDARIES.md",
+      "source_sha256": "a8aa20158609ef39e2b308b6ba0660c91066838d07a867202e63a7744a88a3ed"
+    },
+    {
+      "path": "01-getting-started/ask-matt/SKILL.md",
+      "sha256": "57ed70ddf3ac8bc89a60f9082e59102c0d84b41e56e11372a13d79d195976155",
+      "source_path": "skills/engineering/ask-matt/SKILL.md",
+      "source_sha256": "b25d86fb36b1d294eeead5d7db529f86135f9671f2afcd607579a63bb2213769",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "01-getting-started/ask-matt/agents/openai.yaml",
+      "sha256": "bdffbc5a0a99ed1b6ef3253d251d755fd18162b9845972e380007f844b09b05c",
+      "source_path": "skills/engineering/ask-matt/agents/openai.yaml",
+      "source_sha256": "bdffbc5a0a99ed1b6ef3253d251d755fd18162b9845972e380007f844b09b05c"
+    },
+    {
+      "path": "02-main-flow/grill-with-docs/SKILL.md",
+      "sha256": "fc6401cbf34f1f3b6cb5e97253e25671d822733fc3f985117fe0d162639abf61",
+      "source_path": "skills/engineering/grill-with-docs/SKILL.md",
+      "source_sha256": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "02-main-flow/grill-with-docs/agents/openai.yaml",
+      "sha256": "94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9",
+      "source_path": "skills/engineering/grill-with-docs/agents/openai.yaml",
+      "source_sha256": "94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9"
+    },
+    {
+      "path": "02-main-flow/to-spec/SKILL.md",
+      "sha256": "13c5b992d278aa49f366e6baa8acf76e99e130e7a80ca9b813ff20ff9528e617",
+      "source_path": "skills/engineering/to-spec/SKILL.md",
+      "source_sha256": "43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "02-main-flow/to-spec/agents/openai.yaml",
+      "sha256": "1c5b4d1e3d8e52287ef19cc2742fdbbfae1914ac75d33af3e4c8174f08cc55bb",
+      "source_path": "skills/engineering/to-spec/agents/openai.yaml",
+      "source_sha256": "1c5b4d1e3d8e52287ef19cc2742fdbbfae1914ac75d33af3e4c8174f08cc55bb"
+    },
+    {
+      "path": "02-main-flow/to-tickets/SKILL.md",
+      "sha256": "611ff3528bbf210d964c794f1994c0343b03e27be9bacc70794727d1104a7f06",
+      "source_path": "skills/engineering/to-tickets/SKILL.md",
+      "source_sha256": "5c9fba69845c2519b9b35b9af42ae5142c21f8ca15ac2123dc2722002c8058ae",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "02-main-flow/to-tickets/agents/openai.yaml",
+      "sha256": "21bc6215fffcd7614e9f772bb1760e87cc5fc7dcc707e7d282bc9414267a6090",
+      "source_path": "skills/engineering/to-tickets/agents/openai.yaml",
+      "source_sha256": "21bc6215fffcd7614e9f772bb1760e87cc5fc7dcc707e7d282bc9414267a6090"
+    },
+    {
+      "path": "02-main-flow/implement/SKILL.md",
+      "sha256": "dc27831f466b865bf9e95f28c9361e9e99d59bcfb72a9585aa49a6829b3de3f8",
+      "source_path": "skills/engineering/implement/SKILL.md",
+      "source_sha256": "6d3fd9e83b8f36e5213854779db49b256a457a7ebb4a503e53fa7dcff696adc3",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "02-main-flow/implement/agents/openai.yaml",
+      "sha256": "8970a8596ade0c28ab427f41a4ea242d6bdf6186c59ebf55e1238dbecaab79dc",
+      "source_path": "skills/engineering/implement/agents/openai.yaml",
+      "source_sha256": "8970a8596ade0c28ab427f41a4ea242d6bdf6186c59ebf55e1238dbecaab79dc"
+    },
+    {
+      "path": "02-main-flow/code-review/SKILL.md",
+      "sha256": "47f4e52c21694def9c7c11cbfbf891ca35eac7a93e395797515be3c8a409ae50",
+      "source_path": "skills/engineering/code-review/SKILL.md",
+      "source_sha256": "47f4e52c21694def9c7c11cbfbf891ca35eac7a93e395797515be3c8a409ae50"
+    },
+    {
+      "path": "02-main-flow/code-review/agents/openai.yaml",
+      "sha256": "8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352",
+      "source_path": "skills/engineering/code-review/agents/openai.yaml",
+      "source_sha256": "8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352"
+    },
+    {
+      "path": "03-shaping/wayfinder/SKILL.md",
+      "sha256": "d6cebf5a9714865037dc3a379d687b19e5c6aeb09e34c708b58e78101e558d99",
+      "source_path": "skills/engineering/wayfinder/SKILL.md",
+      "source_sha256": "fee6e1d0c50f0e736b4ef8a599060c959afae904c9a97d82c97f049fcc3aa0f1",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "03-shaping/wayfinder/agents/openai.yaml",
+      "sha256": "88bc81a11a6d52ac67aeaa76b8b619e387020d47c5133a4dd4927fd15c4ad073",
+      "source_path": "skills/engineering/wayfinder/agents/openai.yaml",
+      "source_sha256": "88bc81a11a6d52ac67aeaa76b8b619e387020d47c5133a4dd4927fd15c4ad073"
+    },
+    {
+      "path": "03-shaping/prototype/LOGIC.md",
+      "sha256": "f61c7d249e786a79ef289018901c348271e1798dd0b0bc5607b5c6f4d4a01ab9",
+      "source_path": "skills/engineering/prototype/LOGIC.md",
+      "source_sha256": "f61c7d249e786a79ef289018901c348271e1798dd0b0bc5607b5c6f4d4a01ab9"
+    },
+    {
+      "path": "03-shaping/prototype/SKILL.md",
+      "sha256": "714de632d116bb73f65cdb5a882db15b9369a6713b9a47c0fad827848f0bfbe3",
+      "source_path": "skills/engineering/prototype/SKILL.md",
+      "source_sha256": "714de632d116bb73f65cdb5a882db15b9369a6713b9a47c0fad827848f0bfbe3"
+    },
+    {
+      "path": "03-shaping/prototype/UI.md",
+      "sha256": "723211e878acbc7b6ff09755263f3295cde724ba902ff0064da41eed51d45ad3",
+      "source_path": "skills/engineering/prototype/UI.md",
+      "source_sha256": "723211e878acbc7b6ff09755263f3295cde724ba902ff0064da41eed51d45ad3"
+    },
+    {
+      "path": "03-shaping/prototype/agents/openai.yaml",
+      "sha256": "5af65e43ab41a350436697b81e27b7f848d36782043b73c322bb2c9fa9cc55dc",
+      "source_path": "skills/engineering/prototype/agents/openai.yaml",
+      "source_sha256": "5af65e43ab41a350436697b81e27b7f848d36782043b73c322bb2c9fa9cc55dc"
+    },
+    {
+      "path": "03-shaping/research/SKILL.md",
+      "sha256": "985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4",
+      "source_path": "skills/engineering/research/SKILL.md",
+      "source_sha256": "985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4"
+    },
+    {
+      "path": "03-shaping/research/agents/openai.yaml",
+      "sha256": "9b4c470d63221c1f68f22df70b83e2f12401b317babe0d1b7b5f24a974474d0d",
+      "source_path": "skills/engineering/research/agents/openai.yaml",
+      "source_sha256": "9b4c470d63221c1f68f22df70b83e2f12401b317babe0d1b7b5f24a974474d0d"
+    },
+    {
+      "path": "04-upkeep/improve-codebase-architecture/HTML-REPORT.md",
+      "sha256": "581e8bb5a521e46bbda8ca7e19b15948bed882187108092ebb90c62513b77528",
+      "source_path": "skills/engineering/improve-codebase-architecture/HTML-REPORT.md",
+      "source_sha256": "581e8bb5a521e46bbda8ca7e19b15948bed882187108092ebb90c62513b77528"
+    },
+    {
+      "path": "04-upkeep/improve-codebase-architecture/SKILL.md",
+      "sha256": "7f56f1ddbdec147b6f7ebc92c549d9ad98d846c5abe208e4857da14df2589c8b",
+      "source_path": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "source_sha256": "d1ac25511a936ff4250a48dbcefda363837d6bb9321b3cba73df99fa37270a75",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "04-upkeep/improve-codebase-architecture/agents/openai.yaml",
+      "sha256": "c8cb20f68ebf0edb4e497bc11ae5fcaa196004e661cd189015b04f4109ced7f1",
+      "source_path": "skills/engineering/improve-codebase-architecture/agents/openai.yaml",
+      "source_sha256": "c8cb20f68ebf0edb4e497bc11ae5fcaa196004e661cd189015b04f4109ced7f1"
+    },
+    {
+      "path": "04-upkeep/diagnosing-bugs/SKILL.md",
+      "sha256": "77f3cf31bc99b2f49af943222526531fcc9fc41d047626d3640e875e85af3e84",
+      "source_path": "skills/engineering/diagnosing-bugs/SKILL.md",
+      "source_sha256": "77f3cf31bc99b2f49af943222526531fcc9fc41d047626d3640e875e85af3e84"
+    },
+    {
+      "path": "04-upkeep/diagnosing-bugs/agents/openai.yaml",
+      "sha256": "3e430dbe4334a87597488c060cb3dc3786bb00c9182877d6f5ec41f62490e90b",
+      "source_path": "skills/engineering/diagnosing-bugs/agents/openai.yaml",
+      "source_sha256": "3e430dbe4334a87597488c060cb3dc3786bb00c9182877d6f5ec41f62490e90b"
+    },
+    {
+      "path": "04-upkeep/diagnosing-bugs/scripts/hitl-loop.template.sh",
+      "sha256": "35103539fc36873eea36074769ad454f9379d6fc8b2dc0e26ce987fd3bfe5503",
+      "source_path": "skills/engineering/diagnosing-bugs/scripts/hitl-loop.template.sh",
+      "source_sha256": "35103539fc36873eea36074769ad454f9379d6fc8b2dc0e26ce987fd3bfe5503"
+    },
+    {
+      "path": "04-upkeep/resolving-merge-conflicts/SKILL.md",
+      "sha256": "9d8114f8ef0b31f535a265fc05c364bd8cf2e2895a830040e06c22acb11f54b0",
+      "source_path": "skills/engineering/resolving-merge-conflicts/SKILL.md",
+      "source_sha256": "9d8114f8ef0b31f535a265fc05c364bd8cf2e2895a830040e06c22acb11f54b0"
+    },
+    {
+      "path": "04-upkeep/resolving-merge-conflicts/agents/openai.yaml",
+      "sha256": "a1f4f96838f2ed6282eb28abbbf99029cb8fadce552baf53da90a025b8bffddf",
+      "source_path": "skills/engineering/resolving-merge-conflicts/agents/openai.yaml",
+      "source_sha256": "a1f4f96838f2ed6282eb28abbbf99029cb8fadce552baf53da90a025b8bffddf"
+    },
+    {
+      "path": "04-upkeep/triage/AGENT-BRIEF.md",
+      "sha256": "7f5f87fed3033df1b06e083c480f3e847b1fbb0647746b8a4c6a50f9f26ef44f",
+      "source_path": "skills/engineering/triage/AGENT-BRIEF.md",
+      "source_sha256": "7f5f87fed3033df1b06e083c480f3e847b1fbb0647746b8a4c6a50f9f26ef44f"
+    },
+    {
+      "path": "04-upkeep/triage/OUT-OF-SCOPE.md",
+      "sha256": "1fbf9b432130c6380aa65813b55553cfda150309b27c595e183f8e335b8a190d",
+      "source_path": "skills/engineering/triage/OUT-OF-SCOPE.md",
+      "source_sha256": "1fbf9b432130c6380aa65813b55553cfda150309b27c595e183f8e335b8a190d"
+    },
+    {
+      "path": "04-upkeep/triage/SKILL.md",
+      "sha256": "82916426b26d370aa1e894127ddda4cd51fecb889219608b33854fd5475b2cd0",
+      "source_path": "skills/engineering/triage/SKILL.md",
+      "source_sha256": "623a2ed692bdc77d2090e2a3dea3b627dd722ad3bbaca0be83aada75292c8fc4",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "04-upkeep/triage/agents/openai.yaml",
+      "sha256": "2e683717720cf456d165d0bb1a68bb600d0b6a8ccb61841c172e50d26f95351c",
+      "source_path": "skills/engineering/triage/agents/openai.yaml",
+      "source_sha256": "2e683717720cf456d165d0bb1a68bb600d0b6a8ccb61841c172e50d26f95351c"
+    },
+    {
+      "path": "04-upkeep/wizard/SKILL.md",
+      "sha256": "bdf31d48211ea559878f95a4f344aeabf8d85897488ba564382bab0b000daac1",
+      "source_path": "skills/engineering/wizard/SKILL.md",
+      "source_sha256": "bdf31d48211ea559878f95a4f344aeabf8d85897488ba564382bab0b000daac1"
+    },
+    {
+      "path": "04-upkeep/wizard/agents/openai.yaml",
+      "sha256": "98f44d682d58e262f160dc59a8befc365e0aa65820dd0261864af26aa8e59d83",
+      "source_path": "skills/engineering/wizard/agents/openai.yaml",
+      "source_sha256": "98f44d682d58e262f160dc59a8befc365e0aa65820dd0261864af26aa8e59d83"
+    },
+    {
+      "path": "04-upkeep/wizard/template.sh",
+      "sha256": "33cbe9dfb1d0e9185b60248a52aabed14bc64785a00cac695e302e739dd6c153",
+      "source_path": "skills/engineering/wizard/template.sh",
+      "source_sha256": "33cbe9dfb1d0e9185b60248a52aabed14bc64785a00cac695e302e739dd6c153"
+    },
+    {
+      "path": "05-productivity/grill-me/SKILL.md",
+      "sha256": "e0a2070992b1ed7f4d4d8504e0fae0cf9c96c8bab4dd50c37989b0f4c7ff1010",
+      "source_path": "skills/productivity/grill-me/SKILL.md",
+      "source_sha256": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "05-productivity/grill-me/agents/openai.yaml",
+      "sha256": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
+      "source_path": "skills/productivity/grill-me/agents/openai.yaml",
+      "source_sha256": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
+    },
+    {
+      "path": "05-productivity/handoff/SKILL.md",
+      "sha256": "5f074926b416fee6100a40a9bba9109af6e8b842331101d0cf147e754aff0dc5",
+      "source_path": "skills/productivity/handoff/SKILL.md",
+      "source_sha256": "7c62de979fdc7ac32fb5ddb2146156c917f80ee070d30fadc9d40343c4b6ed25",
+      "adaptation": "removed unsupported disable-model-invocation and argument-hint frontmatter fields"
+    },
+    {
+      "path": "05-productivity/handoff/agents/openai.yaml",
+      "sha256": "5c479fd562c691851690e8b18c8501045bef0943c10743d636b2fae26add1d28",
+      "source_path": "skills/productivity/handoff/agents/openai.yaml",
+      "source_sha256": "5c479fd562c691851690e8b18c8501045bef0943c10743d636b2fae26add1d28"
+    },
+    {
+      "path": "05-productivity/to-questionnaire/SKILL.md",
+      "sha256": "f6f8227600d4ccf60ac4f39a27baea1d5a73bbcca3864e11a9e3b3c0ef3e077f",
+      "source_path": "skills/productivity/to-questionnaire/SKILL.md",
+      "source_sha256": "b5eb929842ee0e93d867c5e906d183d350f2f2d149eaeaa86967d94d8eda1d3b",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "05-productivity/to-questionnaire/agents/openai.yaml",
+      "sha256": "9e8a06c38c8842eea8d4922cb9d1ead8e3ace647bab259b943c994a1b4742bc2",
+      "source_path": "skills/productivity/to-questionnaire/agents/openai.yaml",
+      "source_sha256": "9e8a06c38c8842eea8d4922cb9d1ead8e3ace647bab259b943c994a1b4742bc2"
+    },
+    {
+      "path": "05-productivity/teach/GLOSSARY-FORMAT.md",
+      "sha256": "9b99859ec28437668130d8f2ce5a342938970f8a1ed4fd38c3eab4f4b5fff210",
+      "source_path": "skills/productivity/teach/GLOSSARY-FORMAT.md",
+      "source_sha256": "9b99859ec28437668130d8f2ce5a342938970f8a1ed4fd38c3eab4f4b5fff210"
+    },
+    {
+      "path": "05-productivity/teach/LEARNING-RECORD-FORMAT.md",
+      "sha256": "701fa34b6748aa89e6c960ffb815257f481a7d77fb2900f9028f7edf3fdd6052",
+      "source_path": "skills/productivity/teach/LEARNING-RECORD-FORMAT.md",
+      "source_sha256": "701fa34b6748aa89e6c960ffb815257f481a7d77fb2900f9028f7edf3fdd6052"
+    },
+    {
+      "path": "05-productivity/teach/MISSION-FORMAT.md",
+      "sha256": "8cacbb3c0644d3ae0ea4965564797099401a6930a23f7cf462918576587f2418",
+      "source_path": "skills/productivity/teach/MISSION-FORMAT.md",
+      "source_sha256": "8cacbb3c0644d3ae0ea4965564797099401a6930a23f7cf462918576587f2418"
+    },
+    {
+      "path": "05-productivity/teach/RESOURCES-FORMAT.md",
+      "sha256": "e9cacf34026e11a8d1c8f9de88abe5bcbf654f4ebdb25cae8c0de0d5f48f44ec",
+      "source_path": "skills/productivity/teach/RESOURCES-FORMAT.md",
+      "source_sha256": "e9cacf34026e11a8d1c8f9de88abe5bcbf654f4ebdb25cae8c0de0d5f48f44ec"
+    },
+    {
+      "path": "05-productivity/teach/SKILL.md",
+      "sha256": "0d67ddd65ac13c0cc6d5b78091c037584234e87f5aae07725b0ef92c31d3e292",
+      "source_path": "skills/productivity/teach/SKILL.md",
+      "source_sha256": "a32df9dcdfc0c4fdc1c98e1ed3940c5f56b84c1aa90ff60346f32b8b53915b43",
+      "adaptation": "removed unsupported disable-model-invocation and argument-hint frontmatter fields"
+    },
+    {
+      "path": "05-productivity/teach/agents/openai.yaml",
+      "sha256": "5856f3ae8aec742f1499c640aecdd5f1d6af5fa210a7c6ec794de8263a6f733f",
+      "source_path": "skills/productivity/teach/agents/openai.yaml",
+      "source_sha256": "5856f3ae8aec742f1499c640aecdd5f1d6af5fa210a7c6ec794de8263a6f733f"
+    },
+    {
+      "path": "05-productivity/wait-what/SKILL.md",
+      "sha256": "3ec28b97e0783fe49ea89f5a016e622396b9ab9c5704916d3a26b52ed9dac01a",
+      "source_path": "skills/productivity/wait-what/SKILL.md",
+      "source_sha256": "e3f44e3ccbc0e7b62f20ba70b295fc9c9f4aa3f96c77168faee1c71bacbf4215",
+      "adaptation": "removed unsupported disable-model-invocation frontmatter field"
+    },
+    {
+      "path": "05-productivity/wait-what/agents/openai.yaml",
+      "sha256": "b41faadf741d51e4ea184148b2d1854d93f947aaf754c7844f70a00f04194999",
+      "source_path": "skills/productivity/wait-what/agents/openai.yaml",
+      "source_sha256": "b41faadf741d51e4ea184148b2d1854d93f947aaf754c7844f70a00f04194999"
+    },
+    {
+      "path": "05-productivity/writing-for-agents/SKILL-MECHANICS.md",
+      "sha256": "c768e6307c7c10728c401c213f2c4ba71c542127eeb7ad2956aabd15a0fa0059",
+      "source_path": "skills/productivity/writing-for-agents/SKILL-MECHANICS.md",
+      "source_sha256": "c768e6307c7c10728c401c213f2c4ba71c542127eeb7ad2956aabd15a0fa0059"
+    },
+    {
+      "path": "05-productivity/writing-for-agents/SKILL.md",
+      "sha256": "551adca942227b44192edba88acd4e8db911f0121ce58ad16944ccf6a896a74a",
+      "source_path": "skills/productivity/writing-for-agents/SKILL.md",
+      "source_sha256": "551adca942227b44192edba88acd4e8db911f0121ce58ad16944ccf6a896a74a"
+    },
+    {
+      "path": "05-productivity/writing-for-agents/agents/openai.yaml",
+      "sha256": "eacb24b2a618cfb81dacb0416f4fdd75ddf3a8060f8ddb99aae1b1e301907e4b",
+      "source_path": "skills/productivity/writing-for-agents/agents/openai.yaml",
+      "source_sha256": "eacb24b2a618cfb81dacb0416f4fdd75ddf3a8060f8ddb99aae1b1e301907e4b"
+    },
+    {
+      "path": "06-reference/codebase-design/DEEPENING.md",
+      "sha256": "f3dd099ce99289bd213914d8ee3e2429b78309c3957ca4583f7659551b1d53c1",
+      "source_path": "skills/engineering/codebase-design/DEEPENING.md",
+      "source_sha256": "f3dd099ce99289bd213914d8ee3e2429b78309c3957ca4583f7659551b1d53c1"
+    },
+    {
+      "path": "06-reference/codebase-design/DESIGN-IT-TWICE.md",
+      "sha256": "8e740bf98446dbd4dfdc132ac4346d9a7eedaf93de6a495889171cf7f99f16bd",
+      "source_path": "skills/engineering/codebase-design/DESIGN-IT-TWICE.md",
+      "source_sha256": "8e740bf98446dbd4dfdc132ac4346d9a7eedaf93de6a495889171cf7f99f16bd"
+    },
+    {
+      "path": "06-reference/codebase-design/SKILL.md",
+      "sha256": "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2",
+      "source_path": "skills/engineering/codebase-design/SKILL.md",
+      "source_sha256": "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2"
+    },
+    {
+      "path": "06-reference/codebase-design/agents/openai.yaml",
+      "sha256": "edebc9e4fcfe102114012575eaa9600b9b5fd08c311664f389c36e7bc717740f",
+      "source_path": "skills/engineering/codebase-design/agents/openai.yaml",
+      "source_sha256": "edebc9e4fcfe102114012575eaa9600b9b5fd08c311664f389c36e7bc717740f"
+    },
+    {
+      "path": "06-reference/domain-modeling/ADR-FORMAT.md",
+      "sha256": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0",
+      "source_path": "skills/engineering/domain-modeling/ADR-FORMAT.md",
+      "source_sha256": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0"
+    },
+    {
+      "path": "06-reference/domain-modeling/CONTEXT-FORMAT.md",
+      "sha256": "17ab16ce783e4d2801ee52fd9acdf550cbf44de65ae76797a93943bbedf22a13",
+      "source_path": "skills/engineering/domain-modeling/CONTEXT-FORMAT.md",
+      "source_sha256": "17ab16ce783e4d2801ee52fd9acdf550cbf44de65ae76797a93943bbedf22a13"
+    },
+    {
+      "path": "06-reference/domain-modeling/SKILL.md",
+      "sha256": "327a2b50620e2fd70abc6893cd6965e76b20f8d0adb0dc2c8d5eb3845efb643e",
+      "source_path": "skills/engineering/domain-modeling/SKILL.md",
+      "source_sha256": "327a2b50620e2fd70abc6893cd6965e76b20f8d0adb0dc2c8d5eb3845efb643e"
+    },
+    {
+      "path": "06-reference/domain-modeling/agents/openai.yaml",
+      "sha256": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b",
+      "source_path": "skills/engineering/domain-modeling/agents/openai.yaml",
+      "source_sha256": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
+    },
+    {
+      "path": "06-reference/grilling/SKILL.md",
+      "sha256": "10ff989e7498b23b5acb49d5048f11dcd906757d2f79c5cdf8a00001381296f2",
+      "source_path": "skills/productivity/grilling/SKILL.md",
+      "source_sha256": "10ff989e7498b23b5acb49d5048f11dcd906757d2f79c5cdf8a00001381296f2"
+    },
+    {
+      "path": "06-reference/grilling/agents/openai.yaml",
+      "sha256": "1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b",
+      "source_path": "skills/productivity/grilling/agents/openai.yaml",
+      "source_sha256": "1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b"
+    },
+    {
+      "path": "06-reference/tdd/SKILL.md",
+      "sha256": "cb01f66bebfaa25fa1f88e6b7e769cd9fd9f35b1120b8563749820738814c927",
+      "source_path": "skills/engineering/tdd/SKILL.md",
+      "source_sha256": "cb01f66bebfaa25fa1f88e6b7e769cd9fd9f35b1120b8563749820738814c927"
+    },
+    {
+      "path": "06-reference/tdd/agents/openai.yaml",
+      "sha256": "ea6f01cf1b8c06a4b0f5b649d74b1b8ce8685e72af1b38d70d877693e092af0b",
+      "source_path": "skills/engineering/tdd/agents/openai.yaml",
+      "source_sha256": "ea6f01cf1b8c06a4b0f5b649d74b1b8ce8685e72af1b38d70d877693e092af0b"
+    },
+    {
+      "path": "06-reference/tdd/mocking.md",
+      "sha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
+      "source_path": "skills/engineering/tdd/mocking.md",
+      "source_sha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef"
+    },
+    {
+      "path": "06-reference/tdd/tests.md",
+      "sha256": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a",
+      "source_path": "skills/engineering/tdd/tests.md",
+      "source_sha256": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5",
+      "source_path": "LICENSE",
+      "source_sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+    },
+    {
+      "path": "README-ORIGEM.md",
+      "sha256": "4079d981bc2ac0a52aaf2c76d1c1476f4297937a8ff3a2e2322b6b730dc2d4f6",
+      "source_path": "README.md",
+      "source_sha256": "4079d981bc2ac0a52aaf2c76d1c1476f4297937a8ff3a2e2322b6b730dc2d4f6"
+    },
+    {
+      "path": "CHANGELOG-ORIGEM.md",
+      "sha256": "ef5b5c5dfab4103bebcff8820eadbc9634b45fb06c2098c5ce39fb83039b4bcd",
+      "source_path": "CHANGELOG.md",
+      "source_sha256": "ef5b5c5dfab4103bebcff8820eadbc9634b45fb06c2098c5ce39fb83039b4bcd"
+    }
+  ],
+  "adapted_frontmatter_fields": {
+    "disable-model-invocation": 14,
+    "argument-hint": 2
+  }
+}
