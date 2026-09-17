@@ -1,7 +1,8 @@
 ---
-name: to-spec
+name: oracle-skill-54c2cd5f3b4a8c938787
 description: "Turn the current conversation into a spec and publish it to the project issue tracker: no interview, just synthesis of what you've already discussed."
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 This skill takes the current conversation context and codebase understanding and produces a spec. Do NOT interview the user; just synthesize what you already know.
 

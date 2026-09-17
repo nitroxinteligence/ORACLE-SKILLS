@@ -1,5 +1,5 @@
 ---
-name: gary-posicionamento
+name: oracle-skill-8edc7c50ef46e544e0d7
 description: "Defina promessa editorial, público e diferença demonstrável antes de escolher temas. Use quando o conteúdo soa genérico ou não há critério claro para aceitar pautas."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-04
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Posicionamento editorial
 
 ## Escopo e autoria

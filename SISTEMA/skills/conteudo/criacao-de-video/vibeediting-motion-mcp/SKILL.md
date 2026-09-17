@@ -1,5 +1,5 @@
 ---
-name: vibeediting-motion-mcp
+name: oracle-skill-66ee480c19f8f8978026
 description: "Planeje criação e refinamento de vídeo no Motion MCP com OAuth humano, verificação de conta/saldo, upload mínimo autorizado e aprovação separada de render e custo. Use para storyboard, geração remota e revisão por sessão existente."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-07
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Vibe editing no Motion MCP
 
 ## Entrada

@@ -1,5 +1,5 @@
 ---
-name: gary-youtube-shorts
+name: oracle-skill-b454f73df685418af102
 description: "Roteirize Shorts ou adapte trechos de vídeo longo para uma entrega autônoma, com promessa clara e definição correta de métricas. Use antes de produzir o recorte."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-20
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Shorts com entrega autônoma
 
 ## Escopo e autoria

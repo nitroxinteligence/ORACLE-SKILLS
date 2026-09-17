@@ -1,5 +1,5 @@
 ---
-name: gary-pesquisa-aprofundada
+name: oracle-skill-610138408b0fd499118d
 description: "Investigue questões editoriais complexas com subperguntas, campos, evidências primárias, contraprova e registro de incertezas. Use quando uma pesquisa de pauta não resolve a decisão."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-08
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Pesquisa aprofundada para conteúdo
 
 ## Escopo e autoria

@@ -1,5 +1,5 @@
 ---
-name: gary-linkedin-conteudo
+name: oracle-skill-650701c3e990d4aa570c
 description: "Redija posts e documentos editoriais para LinkedIn a partir de problemas profissionais, experiência verificável e um ponto de vista útil. Use para adaptar a pauta ao contexto de trabalho."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-15
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Conteúdo profissional para LinkedIn
 
 ## Escopo e autoria

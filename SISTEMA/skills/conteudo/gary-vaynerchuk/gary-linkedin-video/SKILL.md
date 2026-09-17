@@ -1,5 +1,5 @@
 ---
-name: gary-linkedin-video
+name: oracle-skill-db69bfb57336ca421a55
 description: "Planeje um vídeo para LinkedIn centrado em problema profissional, demonstração e conclusão aplicável. Use para adaptar roteiro ou gravação ao contexto de trabalho."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-16
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Vídeo para LinkedIn
 
 ## Escopo e autoria

@@ -1,5 +1,5 @@
 ---
-name: gary-copywriting
+name: oracle-skill-14b929cadcdf0ebafd79
 description: "Redija ou revise texto de conteúdo com voz do usuário, argumento sustentado e próximo passo coerente. Use para transformar pauta e evidência em copy pronta para aprovação."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-11
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Copy editorial com voz própria
 
 ## Escopo e autoria

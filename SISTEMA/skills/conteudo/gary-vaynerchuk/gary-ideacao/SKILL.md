@@ -1,5 +1,5 @@
 ---
-name: gary-ideacao
+name: oracle-skill-452ec47891018bcc2b8b
 description: "Gere e selecione pautas a partir de dúvidas reais, processos documentados e um ponto de vista sustentado. Use quando há contexto e objetivo, mas faltam ideias distintas e viáveis."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-09
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Ideação com prova e recorte
 
 ## Escopo e autoria

@@ -1,5 +1,5 @@
 ---
-name: gary-comunidade
+name: oracle-skill-5a521cd74653a2d80c77
 description: "Organize dúvidas e prepare respostas para a comunidade com contexto, limites e registro de temas recorrentes. Use para rascunhar interação útil, sem enviar mensagens automaticamente."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-28
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Comunidade e respostas editoriais
 
 ## Escopo e autoria

@@ -1,7 +1,8 @@
 ---
-name: domain-modeling
+name: oracle-skill-7710f0149bcb40380901
 description: Build and sharpen a project's domain model. Use when discussing codebase terminology, writing or editing a CONTEXT.md, or recording or editing an ADR.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 # Domain Modeling
 

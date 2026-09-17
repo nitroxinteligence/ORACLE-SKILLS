@@ -1,5 +1,5 @@
 ---
-name: video-orquestracao
+name: oracle-skill-8c218f15b2e5b680deb6
 description: "Escolha e coordene um fluxo de vídeo entre Resolve, CapCut, Premiere, After Effects, Motion, Hypit e computer use, preservando a preferência do usuário e distinguindo plano, conexão, edição, render e entrega."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-01
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Orquestração de criação de vídeo
 
 ## Entrada

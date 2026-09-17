@@ -1,5 +1,5 @@
 ---
-name: gary-revisao-final
+name: oracle-skill-c7e48938a02f08397d6e
 description: "Revise uma entrega editorial contra o brief, as fontes, as versões aprovadas e os arquivos reais. Use antes da entrega final, distinguindo pronto para publicação de publicado."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-34
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Revisão final de conteúdo e visual
 
 ## Escopo e autoria

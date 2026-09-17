@@ -1,5 +1,5 @@
 ---
-name: gary-tiktok
+name: oracle-skill-af46e489785488c6b709
 description: "Roteirize conteúdo para TikTok a partir de perguntas, demonstrações e contexto cultural verificável. Use para adaptar uma pauta sem depender de fórmulas de algoritmo ou tendências inventadas."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-21
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Conteúdo nativo para TikTok
 
 ## Escopo e autoria

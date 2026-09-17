@@ -1,5 +1,5 @@
 ---
-name: gary-roteiros-video
+name: oracle-skill-6e245df826db971c2c6b
 description: "Transforme uma pauta sustentada em roteiro com fala, ação, texto de tela, fontes e duração estimada. Use para planejar vídeo antes de gravar ou editar."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-12
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Roteiro de vídeo e plano de cenas
 
 ## Escopo e autoria

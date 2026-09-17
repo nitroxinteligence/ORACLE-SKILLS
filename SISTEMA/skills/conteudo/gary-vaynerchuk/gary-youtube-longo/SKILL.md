@@ -1,5 +1,5 @@
 ---
-name: gary-youtube-longo
+name: oracle-skill-8e865ee71dc5d0b9b4ad
 description: "Estruture vídeo longo para YouTube com promessa de título/miniatura, abertura coerente, progressão e evidências. Use antes da gravação ou para reorganizar material existente."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-19
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Roteiro de vídeo longo para YouTube
 
 ## Escopo e autoria

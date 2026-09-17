@@ -1,5 +1,5 @@
 ---
-name: gary-instagram-reels-stories
+name: oracle-skill-864ba722c4faf8c45b5c
 description: "Crie roteiros distintos para Reels e sequências de Stories no Instagram, com contexto, demonstração e interação pertinente. Use antes de produzir ou adaptar vídeo para essas superfícies."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-14
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Roteiros de Reels e Stories
 
 ## Escopo e autoria

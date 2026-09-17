@@ -1,5 +1,5 @@
 ---
-name: fv-meta-conectar
+name: oracle-skill-c2021872d44fbe817917
 description: "Prepare conexão opcional do host com Meta Ads, preferindo a CLI oficial verificável e validando qualquer MCP escolhido. Não modifica campanhas."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Meta Ads — conexão oficial e permissões
 
 ## Entrada

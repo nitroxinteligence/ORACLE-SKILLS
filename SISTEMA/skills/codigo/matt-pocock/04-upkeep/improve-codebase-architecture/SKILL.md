@@ -1,7 +1,8 @@
 ---
-name: improve-codebase-architecture
+name: oracle-skill-da79468a6a92142ed5c2
 description: Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 # Improve Codebase Architecture
 

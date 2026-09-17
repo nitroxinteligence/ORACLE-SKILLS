@@ -1,7 +1,8 @@
 ---
-name: implement
+name: oracle-skill-422eaae96209d5e6f0be
 description: "Implement a piece of work based on a spec or set of tickets."
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 Implement the work described by the user in the spec or tickets.
 

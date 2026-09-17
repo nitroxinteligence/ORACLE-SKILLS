@@ -1,7 +1,8 @@
 ---
-name: prototype
+name: oracle-skill-35001208f3c7bcd936c0
 description: Build a throwaway prototype to answer a design question. Use when the user wants to sanity-check whether a state model or logic feels right, or explore what a UI should look like.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 # Prototype
 

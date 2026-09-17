@@ -1,7 +1,8 @@
 ---
-name: resolving-merge-conflicts
+name: oracle-skill-1c4499e3890f8a09e011
 description: "Use when you need to resolve an in-progress git merge/rebase conflict."
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 1. **See the current state** of the merge/rebase. Check git history, and the conflicting files.
 

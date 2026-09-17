@@ -1,5 +1,5 @@
 ---
-name: video-entrevista
+name: oracle-skill-12756e410968b3b3e9fc
 description: "Feche lacunas de briefing para um vídeo: objetivo, materiais, editor, roteiro, referências, áudio, direitos, formato, custo e aprovação. Reutilize contexto confirmado e selecione perguntas do banco de 28, sem questionário obrigatório."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-02
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Entrevista de produção de vídeo
 
 ## Entrada

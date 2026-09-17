@@ -1,7 +1,8 @@
 ---
-name: handoff
+name: oracle-skill-9b02317a8c14f903d5d1
 description: Compact the current conversation into a handoff document for another agent to pick up.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 Write a handoff document summarising the current conversation so a fresh agent can continue the work. Save to the temporary directory of the user's OS - not the current workspace.
 

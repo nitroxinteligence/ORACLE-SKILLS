@@ -1,5 +1,5 @@
 ---
-name: gary-direcao-visual
+name: oracle-skill-35d2a162796a2d896221
 description: "Transforme copy aprovada e referências disponíveis em um briefing visual com hierarquia, composição, identidade e critérios de aceitação. Use antes de gerar ou diagramar a peça."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-30
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Direção visual após aprovação editorial
 
 ## Escopo e autoria

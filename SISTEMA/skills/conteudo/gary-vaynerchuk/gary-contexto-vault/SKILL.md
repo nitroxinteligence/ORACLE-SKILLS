@@ -1,5 +1,5 @@
 ---
-name: gary-contexto-vault
+name: oracle-skill-5c323f83f630420a1a9f
 description: "Mapeie contexto editorial em notas autorizadas do vault com leitura em lotes, cobertura explícita e evidência por caminho. Use antes de entrevistas ou quando houver contexto local a incorporar."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-02
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Contextualização pelo vault
 
 ## Escopo e autoria

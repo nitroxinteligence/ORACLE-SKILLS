@@ -1,5 +1,5 @@
 ---
-name: gary-auditoria-tiktok
+name: oracle-skill-ff386d26458e4e47d948
 description: "Audite perfil, temas e vídeos do TikTok com cobertura declarada, distinguindo dados públicos, Analytics e Search Insights autorizados. Use para propor melhorias e testes."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-26
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Auditoria de TikTok por amostra
 
 ## Escopo e autoria

@@ -1,5 +1,5 @@
 ---
-name: gary-pesquisa-conteudo
+name: oracle-skill-67ae432ed3e1811ccf89
 description: "Pesquise evidências suficientes para uma pauta delimitada, distinguindo fontes lidas, snippets e hipóteses. Use para sustentar uma afirmação editorial sem abrir uma investigação desnecessária."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-07
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Pesquisa para uma pauta
 
 ## Escopo e autoria

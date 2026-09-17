@@ -1,5 +1,5 @@
 ---
-name: fv-auditoria-relatorios
+name: oracle-skill-139ab50fb598afac4583
 description: "Analise campanhas Meta/Google a partir de leituras ou exports autorizados, com cobertura, atribuição, limitações e recomendações não executadas."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Auditoria e relatórios de campanhas
 
 ## Entrada

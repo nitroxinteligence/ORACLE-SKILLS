@@ -1,5 +1,5 @@
 ---
-name: gary-estrategia
+name: oracle-skill-ebf629fc3358ea6d2330
 description: "Converta posicionamento, recursos e objetivo em uma estratégia com conteúdos-pilar, derivados nativos e critérios de medição. Use para decidir o sistema editorial de um período."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-05
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Estratégia de conteúdo
 
 ## Escopo e autoria

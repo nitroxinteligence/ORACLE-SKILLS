@@ -1,7 +1,8 @@
 ---
-name: triage
+name: oracle-skill-c7559f766bf455bfbae0
 description: Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if needed, and write agent-ready briefs.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 # Triage
 

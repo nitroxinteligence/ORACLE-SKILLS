@@ -1,5 +1,5 @@
 ---
-name: gary-reaproveitamento
+name: oracle-skill-2ee2255894291d1034e6
 description: "Transforme material de origem autorizado em derivados úteis e nativos por canal, preservando sentido, provas e rastreabilidade. Use para adaptar uma peça existente."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-27
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Do conteúdo-pilar aos derivados
 
 ## Escopo e autoria

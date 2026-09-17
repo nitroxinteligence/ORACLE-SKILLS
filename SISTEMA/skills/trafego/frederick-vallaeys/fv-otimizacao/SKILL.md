@@ -1,5 +1,5 @@
 ---
-name: fv-otimizacao
+name: oracle-skill-be3e1ef3fd8887d5818c
 description: "Transforme dados confiáveis em hipóteses e experimentos de mídia, com limites, diff e aprovação antes de executar alterações."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Otimização supervisionada e experimentos
 
 ## Entrada

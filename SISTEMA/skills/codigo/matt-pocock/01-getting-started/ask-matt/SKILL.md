@@ -1,7 +1,8 @@
 ---
-name: ask-matt
+name: oracle-skill-c43319bf2d8defe25dc0
 description: Ask which skill or flow fits your situation. A router over the skills in this repo.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 # Ask Matt
 

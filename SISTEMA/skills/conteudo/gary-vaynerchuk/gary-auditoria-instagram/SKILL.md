@@ -1,5 +1,5 @@
 ---
-name: gary-auditoria-instagram
+name: oracle-skill-79c8a28f343e6dc7888d
 description: "Audite perfil e amostra de conteúdo do Instagram com achados verificáveis e propostas de melhoria. Sem Insights autorizados, entregue auditoria pública limitada."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-22
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Auditoria de Instagram com cobertura
 
 ## Escopo e autoria

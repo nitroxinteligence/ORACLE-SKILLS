@@ -1,5 +1,5 @@
 ---
-name: gary-x-conteudo
+name: oracle-skill-abc35211ec924211e35e
 description: "Escreva posts e threads no X com unidades claras, encadeamento contextual e evidência rastreável. Use para adaptar uma pauta a texto curto ou argumento em sequência."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-17
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Posts e threads no X
 
 ## Escopo e autoria

@@ -1,5 +1,5 @@
 ---
-name: gary-auditoria-linkedin
+name: oracle-skill-5e92f34fc45103f637b3
 description: "Audite posicionamento profissional e amostra de publicações no LinkedIn. Distinga perfil público, Analytics agregados autorizados e hipóteses editoriais."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-23
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Auditoria de LinkedIn com evidência
 
 ## Escopo e autoria

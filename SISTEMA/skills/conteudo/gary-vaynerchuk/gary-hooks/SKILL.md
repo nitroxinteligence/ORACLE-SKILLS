@@ -1,5 +1,5 @@
 ---
-name: gary-hooks
+name: oracle-skill-6e98eee827e9dc1c6683
 description: "Escreva aberturas para posts, carrosséis e vídeos com promessa verificável e ligação clara ao corpo. Use para testar enquadramentos de uma pauta já sustentada."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-10
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Hooks que cumprem a promessa
 
 ## Escopo e autoria

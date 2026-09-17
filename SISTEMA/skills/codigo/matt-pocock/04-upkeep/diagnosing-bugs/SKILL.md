@@ -1,7 +1,8 @@
 ---
-name: diagnosing-bugs
+name: oracle-skill-2710af90d0a6a7f4c8bc
 description: Diagnosis loop for hard bugs and performance regressions. Use when the user says "diagnose"/"debug this", or reports something broken/throwing/failing/slow.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 # Diagnosing Bugs
 

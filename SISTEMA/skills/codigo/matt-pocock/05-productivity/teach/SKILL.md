@@ -1,7 +1,8 @@
 ---
-name: teach
+name: oracle-skill-9fb843f40d44762efa17
 description: Teach the user a new skill or concept, within this workspace.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 The user has asked you to teach them something. This is a stateful request - they intend to learn the topic over multiple sessions.
 

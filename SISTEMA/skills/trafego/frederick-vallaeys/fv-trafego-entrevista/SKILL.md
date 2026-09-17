@@ -1,5 +1,5 @@
 ---
-name: fv-trafego-entrevista
+name: oracle-skill-27e815b9a3b2fc7ee002
 description: "Investigue contexto, objetivos, mensuração, capacidade, contas e limites antes de planejar tráfego. Use perguntas progressivas baseadas no vault autorizado."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Entrevista e contexto para tráfego
 
 ## Entrada

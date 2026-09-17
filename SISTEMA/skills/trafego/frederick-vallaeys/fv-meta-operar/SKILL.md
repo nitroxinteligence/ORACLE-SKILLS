@@ -1,5 +1,5 @@
 ---
-name: fv-meta-operar
+name: oracle-skill-a33bde9baa0343bcfcf3
 description: "Leia, planeje e execute alterações delimitadas em campanhas Meta Ads por uma integração previamente testada. Mantém criação pausada e aprovação de gasto separada."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Meta Ads — operar campanhas sob aprovação
 
 ## Entrada

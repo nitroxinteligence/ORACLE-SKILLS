@@ -1,5 +1,5 @@
 ---
-name: gary-instagram-carrossel
+name: oracle-skill-be970283c5c9f712b430
 description: "Estruture a copy de um carrossel de Instagram com capa, progressão de slides, prova, conclusão e legenda. Use na etapa editorial anterior à criação visual."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-13
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Copy para carrossel no Instagram
 
 ## Escopo e autoria

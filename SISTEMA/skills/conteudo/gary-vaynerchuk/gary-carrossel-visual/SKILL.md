@@ -1,5 +1,5 @@
 ---
-name: gary-carrossel-visual
+name: oracle-skill-0fb827aa7e2b2f60f083
 description: "Converta a copy aprovada de um carrossel em uma série visual consistente, com piloto, hierarquia, revisão por slide e sequência. Use na etapa posterior à aprovação editorial."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-32
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Produção visual de carrossel
 
 ## Escopo e autoria

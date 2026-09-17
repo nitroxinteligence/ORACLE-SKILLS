@@ -1,5 +1,5 @@
 ---
-name: fv-google-conectar
+name: oracle-skill-2260e14ecd498abb61a3
 description: "Configure o MCP oficial Google Ads para consultas autorizadas, com projeto Cloud, OAuth e teste somente leitura. Distingue o acesso atual das instruções antigas de developer token."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Google Ads — conectar leitura oficial
 
 ## Entrada

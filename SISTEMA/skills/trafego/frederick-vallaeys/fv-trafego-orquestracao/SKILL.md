@@ -1,5 +1,5 @@
 ---
-name: fv-trafego-orquestracao
+name: oracle-skill-fc19921017708275598b
 description: "Inicie a gestão supervisionada de Meta Ads ou Google Ads: resolva contexto, escolha de canal e host, conexão opcional e sequência de análise e execução."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Gestão de tráfego — iniciar e coordenar
 
 ## Entrada

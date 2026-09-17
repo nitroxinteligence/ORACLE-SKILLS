@@ -1,5 +1,5 @@
 ---
-name: video-revisao-exportacao
+name: oracle-skill-398a8ed9cd79a478eba3
 description: "Revise uma versão de vídeo e confira sua exportação por conteúdo, imagem, áudio, legendas, metadados e arquivo real. Registre cobertura observada, aprovação da versão e resultado de render sem confundir projeto, preview ou job com entrega final."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-10
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Revisão e exportação de vídeo
 
 ## Entrada

@@ -1,5 +1,5 @@
 ---
-name: gary-planejamento
+name: oracle-skill-6900b26da8dc5844057d
 description: "Monte uma fila editorial executável com dependências, capacidade, versões e datas propostas. Use quando a estratégia precisa virar pautas e entregas organizadas."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-06
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Planejamento de produção
 
 ## Escopo e autoria

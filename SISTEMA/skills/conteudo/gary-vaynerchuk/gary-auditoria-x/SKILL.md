@@ -1,5 +1,5 @@
 ---
-name: gary-auditoria-x
+name: oracle-skill-e36fda6bef1be40ead1f
 description: "Audite bio, fixado, posts, threads e conversas no X usando uma amostra com acesso real. Trate visualizações públicas como contagens, sem inferir pessoas únicas ou conversão."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-25
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Auditoria de perfil e conteúdo no X
 
 ## Escopo e autoria

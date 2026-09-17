@@ -1,5 +1,5 @@
 ---
-name: vibeediting-capcut
+name: oracle-skill-15b3f1ef728d29b450cc
 description: "Planeje edição no CapCut e criação de drafts com pyCapCut, verificando formato, compatibilidade, unidades de tempo e exportador. Diferencie operação nativa, draft gerado e vídeo exportado, especialmente no macOS."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-04
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Vibe editing no CapCut
 
 ## Entrada

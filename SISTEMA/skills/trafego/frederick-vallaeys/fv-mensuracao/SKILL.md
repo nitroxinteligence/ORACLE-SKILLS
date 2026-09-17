@@ -1,5 +1,5 @@
 ---
-name: fv-mensuracao
+name: oracle-skill-78334d2522895b26dbe8
 description: "Audite definição de conversão, tracking, atribuição e qualidade dos dados antes de otimizar mídia. Produz plano de teste sem instalar tags ou enviar listas automaticamente."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Mensuração e qualidade de dados
 
 ## Entrada

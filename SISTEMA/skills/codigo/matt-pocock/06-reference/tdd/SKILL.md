@@ -1,7 +1,8 @@
 ---
-name: tdd
+name: oracle-skill-839b1194ff303c83ef0a
 description: Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions "red-green-refactor", or wants integration tests.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 # Test-Driven Development
 

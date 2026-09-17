@@ -1,5 +1,5 @@
 ---
-name: fv-conector-terceiros
+name: oracle-skill-eaa9722968f990097051
 description: "Compare um MCP hospedado de terceiros com acesso oficial/local; avalie fornecedor, dados, permissões, custos e política antes de conectar."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Conectores de tráfego — avaliação e conexão opcional
 
 ## Entrada

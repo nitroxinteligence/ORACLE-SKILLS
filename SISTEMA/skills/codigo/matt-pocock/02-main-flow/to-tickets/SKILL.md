@@ -1,7 +1,8 @@
 ---
-name: to-tickets
+name: oracle-skill-b7911a3eda33753500b0
 description: Break a plan, spec, or the current conversation into a set of tracer-bullet tickets, each declaring its blocking edges, published to the configured tracker (edges as text in one file per ticket locally, or native blocking links on a real tracker).
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 # To Tickets
 

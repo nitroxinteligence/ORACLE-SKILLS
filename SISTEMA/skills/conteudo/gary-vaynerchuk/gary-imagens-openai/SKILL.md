@@ -1,5 +1,5 @@
 ---
-name: gary-imagens-openai
+name: oracle-skill-f92fc97d5c55208022c0
 description: "Execute geração ou edição de imagem com a ferramenta OpenAI realmente disponível, após aprovação editorial e visual, verificando alvo, referências e saída. Não prometa seleção de modelo não exposta."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-31
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Geração e edição de imagens OpenAI
 
 ## Escopo e autoria

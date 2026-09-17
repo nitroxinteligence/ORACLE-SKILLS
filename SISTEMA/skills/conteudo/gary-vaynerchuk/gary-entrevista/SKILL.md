@@ -1,5 +1,5 @@
 ---
-name: gary-entrevista
+name: oracle-skill-115432051527eb074a02
 description: "Conduza uma entrevista editorial de 30 perguntas adaptativas, aproveitando respostas já conhecidas e aprofundando lacunas de público, voz, oferta e produção sem repetir informações."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-03
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Entrevista contextual adaptativa
 
 ## Escopo e autoria

@@ -1,5 +1,5 @@
 ---
-name: fv-criativos-handoff
+name: oracle-skill-a419f49b8b1a526d7da6
 description: "Prepare brief de criativos para anúncios e coordene copy, visual e vídeo sem confundir aprovação editorial com autorização de publicação ou gasto."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Criativos — passagem entre conteúdo, vídeo e mídia
 
 ## Entrada

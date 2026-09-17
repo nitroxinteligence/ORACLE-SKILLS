@@ -1,5 +1,5 @@
 ---
-name: vibeediting-computer-use
+name: oracle-skill-f8407b49aeae29485eb6
 description: "Opere uma interface de edição de vídeo por observação e ações curtas quando uma integração estruturada não bastar. Verifique ferramenta, app permitido, janela, projeto e foco; deixe permissões de sistema e login ao humano."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-09
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Computer use para edição de vídeo
 
 ## Entrada

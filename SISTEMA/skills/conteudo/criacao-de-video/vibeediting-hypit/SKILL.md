@@ -1,5 +1,5 @@
 ---
-name: vibeediting-hipit
+name: oracle-skill-df016826e0edcb4e77e9
 description: "Crie um plano de vídeo programável para o produto Hypit, preservando o nome de invocação Hipit solicitado. Separe skill, CLI, runtime, providers, projeto, build e exportação; use referências autorizadas e custo aprovado."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-08
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Vibe editing com Hypit
 
 ## Entrada

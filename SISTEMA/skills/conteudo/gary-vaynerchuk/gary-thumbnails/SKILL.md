@@ -1,5 +1,5 @@
 ---
-name: gary-thumbnails
+name: oracle-skill-4ed81e1f507fab693729
 description: "Desenvolva conceitos e miniaturas de vídeo que complementem o título e representem a entrega real. Use após aprovar a promessa editorial, com teste e produção tratados separadamente."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-33
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Miniaturas coerentes com o vídeo
 
 ## Escopo e autoria

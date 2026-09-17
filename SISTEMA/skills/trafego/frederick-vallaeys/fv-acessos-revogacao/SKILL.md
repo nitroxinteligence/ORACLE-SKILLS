@@ -1,5 +1,5 @@
 ---
-name: fv-acessos-revogacao
+name: oracle-skill-201031e953170e95c799
 description: "Revise permissões e ajude a desconectar integrações Meta/Google sem expor segredos, alterar campanhas ou sobrescrever configurações não relacionadas."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Acessos, manutenção e revogação
 
 ## Entrada

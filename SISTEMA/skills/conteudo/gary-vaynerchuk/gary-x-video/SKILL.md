@@ -1,5 +1,5 @@
 ---
-name: gary-x-video
+name: oracle-skill-7c2e477f56facf2d1695
 description: "Prepare roteiro, recorte e texto de acompanhamento de vídeo para X mantendo contexto, prova e compreensão sem depender do post de origem."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-18
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Vídeo contextualizado para X
 
 ## Escopo e autoria

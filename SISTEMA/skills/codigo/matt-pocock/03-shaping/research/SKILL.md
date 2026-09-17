@@ -1,7 +1,8 @@
 ---
-name: research
+name: oracle-skill-5903bb3c0a898c9707e7
 description: Investigate a question against high-trust primary sources and capture the findings as a Markdown file in the repo. Use when the user wants a topic researched, docs or API facts gathered, or reading legwork delegated to a background agent.
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 
 Spin up a **background agent** to do the research, so you keep working while it reads.
 

@@ -1,5 +1,5 @@
 ---
-name: fv-google-operar
+name: oracle-skill-1f5e70b1d968c7cbbddb
 description: "Prepare e execute mutações Google Ads por API oficial ou executor explicitamente aprovado. Não tenta escrever pelo MCP oficial somente leitura."
 metadata:
   departamento: "trafego"
@@ -8,6 +8,7 @@ metadata:
   versao: "1.0.0"
   autoria: "engenharia original; inspiração conceitual atribuída"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Google Ads — alterações pela API sob aprovação
 
 ## Entrada

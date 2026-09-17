@@ -1,5 +1,5 @@
 ---
-name: gary-metricas-experimentos
+name: oracle-skill-fc4a246d2b87bbcabd85
 description: "Analise dados editoriais autorizados e desenhe experimentos com objetivo, denominador, comparação e critérios de decisão. Use para aprender com resultados sem fabricar causalidade."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-29
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Métricas e experimentos editoriais
 
 ## Escopo e autoria

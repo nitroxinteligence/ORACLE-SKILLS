@@ -1,5 +1,5 @@
 ---
-name: gary-orquestracao
+name: oracle-skill-b01a9873bb85b56714da
 description: "Coordene um pedido de conteúdo entre contexto, pesquisa, conteúdo-pilar, derivados, revisão de copy e entrega visual separada. Use para escolher e sequenciar as skills deste departamento."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-01
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Orquestração editorial
 
 ## Escopo e autoria

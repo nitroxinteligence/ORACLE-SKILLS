@@ -1,5 +1,5 @@
 ---
-name: gary-auditoria-youtube
+name: oracle-skill-cc6d92e9d3ee189ea2eb
 description: "Audite canal, títulos, miniaturas e amostra de vídeos no YouTube, usando retenção e tráfego somente com Studio autorizado. Separe vídeo longo e Shorts."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-GV-24
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Auditoria de canal e vídeos no YouTube
 
 ## Escopo e autoria

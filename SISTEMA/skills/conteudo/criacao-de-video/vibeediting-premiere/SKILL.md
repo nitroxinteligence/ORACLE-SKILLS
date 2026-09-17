@@ -1,5 +1,5 @@
 ---
-name: vibeediting-premiere
+name: oracle-skill-094a9093b076b56473ba
 description: "Conduza edição supervisionada no Premiere com o conector comunitário leancoderkavy/premiere-pro-mcp, verificando identidade do pacote, CEP, conexão de leitura, plano, readback e revisão. Use para sequências e entregas Premiere."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-05
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Vibe editing no Premiere
 
 ## Entrada

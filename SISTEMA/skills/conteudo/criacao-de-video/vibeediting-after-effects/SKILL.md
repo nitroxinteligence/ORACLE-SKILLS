@@ -1,5 +1,5 @@
 ---
-name: vibeediting-after-effects
+name: oracle-skill-9dc8312bfa5921eea013
 description: "Planeje e revise motion graphics no After Effects por composição, camadas e keyframes. Use o MCP comunitário Dakkshin apenas com bridge JSX verificada, operações delimitadas e aprovação específica para scripts e permissões."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-06
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Vibe editing no After Effects
 
 ## Entrada

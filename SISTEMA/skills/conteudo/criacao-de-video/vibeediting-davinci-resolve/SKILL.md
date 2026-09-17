@@ -1,5 +1,5 @@
 ---
-name: vibeediting-davinci-resolve
+name: oracle-skill-9893344215cd065e505c
 description: "Planeje e conduza edição por etapas no DaVinci Resolve, verificando edição, versão, projeto e interface disponível. Use para corte bruto, áudio, B-roll, legendas, cor e revisão por timecode com originais preservados."
 metadata:
   departamento: conteudo
@@ -7,6 +7,7 @@ metadata:
   skill-id: CON-VID-03
   versao: "1.0.0"
 ---
+<!-- Modified for Oracle distribution: skill name adapted for host discovery; upstream notices retained. -->
 # Vibe editing no DaVinci Resolve
 
 ## Entrada
