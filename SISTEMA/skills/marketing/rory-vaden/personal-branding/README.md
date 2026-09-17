@@ -27,7 +27,7 @@ Especialista de consulta obrigatória: SISTEMA/recursos-skills/perfis/rory-vaden
 - [[pesquisa-de-skills]]
 - [[escolha-do-especialista]]
 - [[etl-e-manutencao]]
-- [[validacao]]
+- [[SISTEMA/skills/marketing/rory-vaden/personal-branding/validacao|validação]]
 
 Fluxo: pedido e contexto → consulta ao especialista → decisão contextualizada → brief → Media Company → revisão e aprendizado. A obrigatoriedade é consultar e avaliar; não obedecer cegamente a Rory.
 

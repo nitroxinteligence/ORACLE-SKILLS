@@ -68,6 +68,6 @@ Use o [brief](../../templates/brief-video.yaml), a [entrevista](../../video-entr
 - H1 — [OpenAI: MCP no host Codex](https://learn.chatgpt.com/docs/extend/mcp?surface=cli). Seções de hosts e transportes lidas; não testa este computador.
 - HY1 — [Hypit: Quickstart](https://hypit.ai/quickstart/). Seções de skill, serviços e custo lidas; não é evidência de geração.
 - M1 — [Motion: MCP](https://docs.motion.so/guides/mcp). Seções de ferramentas e OAuth lidas; disponibilidade depende da conexão real.
-- [Tutoriais locais de referência: Resolve](../../../../../tutoriais/criacao-de-videos/edicao-com-ia/vibe-editing-com-codex-e-davinci-resolve.md), [Hypit](../../../../../tutoriais/criacao-de-videos/edicao-com-ia/hypit-clonar-videos-com-workflows-no-codex.md) e [Motion](../../../../../tutoriais/criacao-de-videos/edicao-com-ia/motion-mcp-chatgpt-design-de-movimento.md) foram lidos integralmente como pistas. Não houve nova leitura dos posts/vídeos do X citados neles.
+- [Tutoriais locais de referência: Resolve](../../../../../Tutoriais/criacao-de-videos/edicao-com-ia/vibe-editing-com-codex-e-davinci-resolve.md), [Hypit](../../../../../Tutoriais/criacao-de-videos/edicao-com-ia/hypit-clonar-videos-com-workflows-no-codex.md) e [Motion](../../../../../Tutoriais/criacao-de-videos/edicao-com-ia/motion-mcp-chatgpt-design-de-movimento.md) foram lidos integralmente como pistas. Não houve nova leitura dos posts/vídeos do X citados neles.
 
 [Voltar à skill](../SKILL.md).

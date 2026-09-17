@@ -536,9 +536,10 @@
     },
     {
       "path": "README-ORIGEM.md",
-      "sha256": "4079d981bc2ac0a52aaf2c76d1c1476f4297937a8ff3a2e2322b6b730dc2d4f6",
+      "sha256": "159abf1e8330e7c474ea1eae7d04e351d7cda0352321d4d2883046441f202094",
       "source_path": "README.md",
-      "source_sha256": "4079d981bc2ac0a52aaf2c76d1c1476f4297937a8ff3a2e2322b6b730dc2d4f6"
+      "source_sha256": "4079d981bc2ac0a52aaf2c76d1c1476f4297937a8ff3a2e2322b6b730dc2d4f6",
+      "adaptation": "links adapted to the packaged phase layout; omitted ADR link pinned to the upstream commit"
     },
     {
       "path": "CHANGELOG-ORIGEM.md",

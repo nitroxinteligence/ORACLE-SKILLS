@@ -184,7 +184,7 @@ Origem: `project-license`. [Abrir fonte](https://github.com/hypit-ai/hypit/blob/
 
 ## l01 — Tutorial Hypit
 
-Origem: `local-tutorial`. [Abrir fonte](../../../../tutoriais/criacao-de-videos/edicao-com-ia/hypit-clonar-videos-com-workflows-no-codex.md)
+Origem: `local-tutorial`. [Abrir fonte](../../../../Tutoriais/criacao-de-videos/edicao-com-ia/hypit-clonar-videos-com-workflows-no-codex.md)
 
 **Leitura:** Arquivo completo lido na conversa.
 
@@ -194,7 +194,7 @@ Origem: `local-tutorial`. [Abrir fonte](../../../../tutoriais/criacao-de-videos/
 
 ## l02 — Tutorial Motion
 
-Origem: `local-tutorial`. [Abrir fonte](../../../../tutoriais/criacao-de-videos/edicao-com-ia/motion-mcp-chatgpt-design-de-movimento.md)
+Origem: `local-tutorial`. [Abrir fonte](../../../../Tutoriais/criacao-de-videos/edicao-com-ia/motion-mcp-chatgpt-design-de-movimento.md)
 
 **Leitura:** Arquivo completo lido na conversa.
 
@@ -204,7 +204,7 @@ Origem: `local-tutorial`. [Abrir fonte](../../../../tutoriais/criacao-de-videos/
 
 ## l03 — Tutorial VibeEditing Resolve
 
-Origem: `local-tutorial`. [Abrir fonte](../../../../tutoriais/criacao-de-videos/edicao-com-ia/vibe-editing-com-codex-e-davinci-resolve.md)
+Origem: `local-tutorial`. [Abrir fonte](../../../../Tutoriais/criacao-de-videos/edicao-com-ia/vibe-editing-com-codex-e-davinci-resolve.md)
 
 **Leitura:** Arquivo completo lido na conversa.
 

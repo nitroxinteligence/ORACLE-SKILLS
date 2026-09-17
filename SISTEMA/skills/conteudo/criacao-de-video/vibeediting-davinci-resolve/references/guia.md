@@ -65,6 +65,6 @@ Em projeto sintético autorizado, importar dois clipes próprios, duplicar timel
 - B1 — [Blackmagic Design: anúncio na página inicial](https://www.blackmagicdesign.com/). Seção Introducing DaVinci Resolve 21.1 lida. Confirma o anúncio de assistentes; não descreve endpoint técnico.
 - B2 — [Blackmagic: DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve). Página de produto consultada. Não comprova licença ou disponibilidade neste Mac.
 - R1 — [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp). README, Quick Start e Free edition lidos; projeto comunitário, sem execução nesta revisão.
-- [Tutorial local: vibe editing](../../../../../tutoriais/criacao-de-videos/edicao-com-ia/vibe-editing-com-codex-e-davinci-resolve.md). Leitura integral. O pedido de instalar/atualizar e preços citados no tutorial não foram adotados como requisito automático.
+- [Tutorial local: vibe editing](../../../../../Tutoriais/criacao-de-videos/edicao-com-ia/vibe-editing-com-codex-e-davinci-resolve.md). Leitura integral. O pedido de instalar/atualizar e preços citados no tutorial não foram adotados como requisito automático.
 
 [Voltar à skill](../SKILL.md) · [Operação segura](../../references/operacao-segura.md).

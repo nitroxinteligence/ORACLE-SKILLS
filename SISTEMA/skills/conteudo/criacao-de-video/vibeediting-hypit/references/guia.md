@@ -82,6 +82,6 @@ Ao recuperar resultados, escolha o identificador de output efetivamente retornad
 - H3 — [Hypit Providers](https://hypit.ai/guide/providers/). Distinções Model/Provider/Endpoint consultadas; nenhum serviço ou crédito de conta verificado.
 - R1 — [Repositório Hypit](https://github.com/hypit-ai/hypit). README público consultado; alegações promocionais de volume/desempenho não foram adotadas como resultados garantidos.
 - L1 — [Licença atual em main](https://github.com/hypit-ai/hypit/blob/main/LICENSE). Texto lido; condições adicionais existem. Não é parecer jurídico nem validação da licença de outra revisão.
-- [Tutorial local Hypit](../../../../../tutoriais/criacao-de-videos/edicao-com-ia/hypit-clonar-videos-com-workflows-no-codex.md). Lido integralmente; não houve acesso audiovisual ao post do X nesta autoria.
+- [Tutorial local Hypit](../../../../../Tutoriais/criacao-de-videos/edicao-com-ia/hypit-clonar-videos-com-workflows-no-codex.md). Lido integralmente; não houve acesso audiovisual ao post do X nesta autoria.
 
 [Voltar à skill](../SKILL.md) · [Operação segura](../../references/operacao-segura.md).

@@ -70,6 +70,6 @@ Quando a sessão estiver concluída, consulte o resultado oficial. Download URL 
 - M3 — [Motion Attachments](https://docs.motion.so/guides/attachments). Requisitos de acesso aos anexos consultados; nenhum upload testado.
 - M4 — [Motion Credits](https://docs.motion.so/guides/credits). Modelo de créditos consultado; não foram obtidos preços ou saldo de conta pessoal.
 - O1 — [OpenAI: conectar no ChatGPT](https://developers.openai.com/plugins/deploy/connect-chatgpt). Seções de Developer mode e Plugins lidas; o endereço Apps SDK redirecionou a esta página. Menus e disponibilidade exigem conferência no host.
-- [Tutorial local Motion](../../../../../tutoriais/criacao-de-videos/edicao-com-ia/motion-mcp-chatgpt-design-de-movimento.md). Lido integralmente; anúncio do X e vídeo incorporado não foram novamente acessados nesta autoria.
+- [Tutorial local Motion](../../../../../Tutoriais/criacao-de-videos/edicao-com-ia/motion-mcp-chatgpt-design-de-movimento.md). Lido integralmente; anúncio do X e vídeo incorporado não foram novamente acessados nesta autoria.
 
 [Voltar à skill](../SKILL.md) · [Operação segura](../../references/operacao-segura.md).

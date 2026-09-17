@@ -65,6 +65,6 @@ Um brief pode estar suficiente para pesquisa e insuficiente para render. Registr
 ## Fontes e limites
 - A1 — [W3C WAI: Captions/Subtitles](https://www.w3.org/WAI/media/av/captions/). Texto das seções de função e conteúdo das legendas consultado; não é certificação da peça.
 - HY1 — [Hypit: Quickstart](https://hypit.ai/quickstart/). Seções de referência, serviços e acordo de custo lidas; não houve acesso a conta nem geração.
-- [Tutorial local de edição em camadas](../../../../../tutoriais/criacao-de-videos/edicao-com-ia/vibe-editing-com-codex-e-davinci-resolve.md). Lido integralmente como repertório de revisão; preços e instalação nele descritos não foram adotados como requisitos.
+- [Tutorial local de edição em camadas](../../../../../Tutoriais/criacao-de-videos/edicao-com-ia/vibe-editing-com-codex-e-davinci-resolve.md). Lido integralmente como repertório de revisão; preços e instalação nele descritos não foram adotados como requisitos.
 
 [Voltar à skill](../SKILL.md) · [Operação segura](../../references/operacao-segura.md).

@@ -12,7 +12,7 @@ review_after: 2026-12-13
 ---
 # Frederick Vallaeys — Mídia paga
 
-[[WIKI/especialistas/frederick-vallaeys-midia-paga/perfil|Frederick Vallaeys — perfil e método]]
+[[SISTEMA/skills/trafego/frederick-vallaeys/references/autoria|Frederick Vallaeys — atribuição e extensão]]
 
 - [[SISTEMA/skills/trafego/frederick-vallaeys/ad-creative/SKILL|ad-creative]]
 - [[SISTEMA/skills/trafego/frederick-vallaeys/ads-plan/SKILL|ads-plan]]
