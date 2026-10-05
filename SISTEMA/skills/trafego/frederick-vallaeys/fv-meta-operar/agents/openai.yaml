@@ -1,4 +1,4 @@
 interface:
-  display_name: "Meta Ads — operar campanhas sob aprovação"
+  display_name: "Oracle Frederick Vallaeys Fv Meta Operar"
   short_description: "Tráfego conectado com contexto e revisão humana"
   default_prompt: "Use $fv-meta-operar no contexto autorizado deste projeto."

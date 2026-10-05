@@ -1,4 +1,4 @@
 interface:
-  display_name: "Gestão de tráfego — iniciar e coordenar"
+  display_name: "Oracle Frederick Vallaeys Fv Trafego Orquestracao"
   short_description: "Tráfego conectado com contexto e revisão humana"
   default_prompt: "Use $fv-trafego-orquestracao no contexto autorizado deste projeto."

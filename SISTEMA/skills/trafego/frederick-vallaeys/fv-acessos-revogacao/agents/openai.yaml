@@ -1,4 +1,4 @@
 interface:
-  display_name: "Acessos, manutenção e revogação"
+  display_name: "Oracle Frederick Vallaeys Fv Acessos Revogacao"
   short_description: "Tráfego conectado com contexto e revisão humana"
   default_prompt: "Use $fv-acessos-revogacao no contexto autorizado deste projeto."

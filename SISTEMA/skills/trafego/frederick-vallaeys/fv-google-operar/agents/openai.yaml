@@ -1,4 +1,4 @@
 interface:
-  display_name: "Google Ads — alterações pela API sob aprovação"
+  display_name: "Oracle Frederick Vallaeys Fv Google Operar"
   short_description: "Tráfego conectado com contexto e revisão humana"
   default_prompt: "Use $fv-google-operar no contexto autorizado deste projeto."
