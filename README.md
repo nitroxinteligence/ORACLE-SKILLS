@@ -1,25 +1,13 @@
 # Acervo Oracle
 
-A branch `main` contém **261 skills em dez departamentos**, 17 prompts e 30 tutoriais. A distribuição `acervo-2026.09.13.1` permanece com 179 skills até a próxima release. Requer Oracle 0.3.3 ou posterior.
+A branch main contém o acervo público de skills e seus recursos. A release assinada relaciona os arquivos, as licenças e as identidades de cada skill.
 
-## Organização
+As mudanças aprovadas em `SISTEMA/skills` e `SISTEMA/recursos-skills` acionam o workflow de publicação. O pipeline verifica os caminhos, os recursos declarados, as licenças e o inventário completo antes de assinar uma release. Novas skills e novas licenças precisam constar em `publication-review.json`; arquivos com referências ausentes ou termos alterados bloqueiam a publicação.
 
-`SISTEMA/skills/<departamento>/<especialista>/<skill>/SKILL.md`
+O Oracle System consulta essa release e mostra a atualização em **Acervo de skills**. A instalação preserva arquivos editados no vault e coloca as versões recebidas em recuperação. Ela não instala novas versões dos motores de memória. As atualizações do software e dos componentes originais são publicadas no [canal do Oracle System](https://github.com/nitroxinteligence/ORACLE-PLUGIN).
 
-Departamentos: Código, Conteúdo, Conversão, Entrega, Leads, Marketing, Oferta, Sistemas, Tráfego e Vendas. Em Código, `frontend` reúne as skills de frontend, incluindo Impeccable e Richard Design. Conteúdo inclui Gary Vaynerchuk e Criação de vídeo; Tráfego mantém Ann Handley e expande Frederick Vallaeys com operação conectada e supervisionada para Meta Ads e Google Ads.
+Os grupos legados de prompts, tutoriais e fontes fixadas do aplicativo nativo são preservados com os bytes da distribuição anterior. Eles têm verificações próprias e não são novos canais na interface do Oracle System.
 
-`SISTEMA/recursos-skills` contém os procedimentos, scripts, referências e perfis públicos compartilhados pelas skills. Mantenha essa pasta junto do acervo para preservar os links e as dependências. As notas pessoais do vault não fazem parte desta distribuição.
+Executar uma skill exige um host/modelo e as ferramentas indicadas nela. Instalar o acervo não conecta contas nem executa suas instruções. As notas pessoais do vault não fazem parte desta distribuição.
 
-O onboarding do aplicativo instala a skill geral `oracle` diretamente no Codex. Ela localiza as skills disponíveis no host e no vault selecionado; o seu código é distribuído com o [aplicativo Oracle](https://github.com/nitroxinteligence/ORACLE/tree/main/skills/oracle), sem uma segunda cópia no Obsidian.
-
-## Distribuição
-
-A release tem 4.423 arquivos destinados ao vault e outros 4.834 arquivos do GBrain fixado, entregues separadamente nos assets. Prompts e tutoriais foram preservados da versão anterior.
-
-O Oracle verifica a assinatura Ed25519 do manifesto e os hashes dos arquivos antes de instalar. Alterações na branch principal só chegam ao aplicativo quando integram uma [release completa](https://github.com/nitroxinteligence/ORACLE-SKILLS/releases).
-
-Executar uma skill exige um host/modelo e as ferramentas ou serviços indicados nela. A instalação não conecta contas nem executa os procedimentos das skills automaticamente.
-
-## Licenças
-
-As contribuições autorais têm distribuição autorizada pelo titular. As licenças, atribuições e restrições de terceiros foram preservadas nos recursos correspondentes e relacionadas no manifesto assinado. Richard Design mantém seus termos específicos, incluindo a restrição de uso em apostas. Consulte os arquivos LICENSE de cada coleção.
+As contribuições autorais têm distribuição autorizada pelo titular. As licenças e restrições de terceiros permanecem nos respectivos arquivos e no manifesto assinado. Consulte os arquivos LICENSE de cada coleção.

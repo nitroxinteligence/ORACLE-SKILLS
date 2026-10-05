@@ -1,2 +1,5 @@
 .oracle-source-mirror/
 .DS_Store
+.work/
+__pycache__/
+*.pyc

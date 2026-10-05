@@ -1,0 +1,32 @@
+name: Publish reviewed Oracle skills
+on:
+  push:
+    branches: [main]
+    paths: [SISTEMA/skills/**, SISTEMA/recursos-skills/**, publication-review.json, scripts/**, packages/**, Resources/**, .github/workflows/skills-release.yml]
+  workflow_dispatch:
+    inputs:
+      mode:
+        type: choice
+        description: Validate or publish the reviewed catalog
+        options: [release, validate]
+        default: release
+permissions:
+  contents: write
+concurrency:
+  group: oracle-skills-release
+  cancel-in-progress: false
+jobs:
+  release:
+    if: github.repository == 'nitroxinteligence/ORACLE-SKILLS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Verify source, dependencies and retained licenses
+        env:
+          ORACLE_DISTRIBUTION_KEY: ${{ secrets.ORACLE_DISTRIBUTION_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_MODE: ${{ inputs.mode || 'release' }}
+        run: python3 scripts/release-skills.py --mode "$RELEASE_MODE"
